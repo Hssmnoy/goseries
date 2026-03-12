@@ -10,7 +10,7 @@ const agent=new https.Agent({rejectUnauthorized:false})
 
 const DOMAIN="https://goseries4k.com"
 
-const TEST_MODE = true
+const TEST_MODE = false
 
 let progress={
 show:null,
@@ -542,6 +542,7 @@ console.log("DONE IPTV CREATED")
 
 
 run()
+
 
 
 
