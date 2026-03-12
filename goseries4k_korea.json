@@ -11608,5 +11608,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "จุ๊บรักรับซัมเมอร์",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/08/Sweethearts.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b8818d80ea616d7a1fb198b72d93ef64/master.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Mirror of the Witch คำสาปรัก เจ้าหญิงแม่มด",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/08/yezwit-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fe0bd30783f5fcb997038ec08952f455/master.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Last Empress (2018) จักรพรรดินีพลิกบัลลังก์",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/11/The-Last-Empress-จักรพรรดินีพลิกบัลลังก์-พากย์ไทย.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/dced4734c4e6d9d59d0464ca68d521e5/master.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Doctor Prisoner (2019) คุกคลั่งแค้น",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/11/คุกคลั่งแค้น.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fcf54225e6832cbe774ebdb6f066bf76/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
