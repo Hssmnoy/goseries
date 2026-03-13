@@ -572,23 +572,10 @@ fs.writeFileSync(
 "goseries4k_"+group+".json",
 JSON.stringify(jsonOutput[group],null,2)
 )
- 
-if(movie.episodes.length > 1){
-
-// series
 if(!TEST_MODE){
 gitCommit()
-}
+} 
 
-}else{
-
-// movie
-movieCount++
-
-if(!TEST_MODE && movieCount % 20 === 0){
-  gitCommit()
-}
-}
 }
 }
 }catch(e){
@@ -622,5 +609,6 @@ console.log("DONE IPTV CREATED")
 
 
 run()
+
 
 
