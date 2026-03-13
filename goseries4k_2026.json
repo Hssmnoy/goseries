@@ -11018,6 +11018,33 @@
             "url": "https://imsvg.com/api/files/134fa1c4ac93adb512530fae36184c1f/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP5",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/2a4cd44f1c4a5d761df4b549e52ecd79/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/79e61930e96cf9261af0dd86d7f82240/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a9f4a022e5628b7db5fec54b34e42bef/master.txt"
+          }
+        ]
       }
     ]
   }
