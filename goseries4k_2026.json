@@ -8003,6 +8003,15 @@
             "url": "https://imsvg.com/api/files/7a6fc5ed5490cf460c9ce11dd818aadd/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5824eb02ce2d0566b4fa58318bd5256c/master.txt"
+          }
+        ]
       }
     ]
   }
