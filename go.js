@@ -434,6 +434,20 @@ let movie={
   episodes:[]
 }
 
+let oldEpisodes = []
+
+const oldMovie = jsonOutput[group].find(m=>m.title===title)
+
+if(oldMovie){
+
+oldEpisodes = oldMovie.episodes.map(e=>e.name)
+
+movie.episodes.push(...oldMovie.episodes)
+
+console.log("OLD EP",oldEpisodes.length)
+
+}
+
 if(scannedShows.includes(show)) continue
 
 scannedShows.push(show)
@@ -518,7 +532,10 @@ let epName = "EP"+(i+1)
 if(epNumber){
   epName = "EP"+epNumber[0]
 }
-
+if(oldEpisodes.includes(epName)){
+console.log("SKIP OLD",epName)
+continue
+}
 movie.episodes.push({
   name:epName,
   servers:[
@@ -602,5 +619,3 @@ console.log("DONE IPTV CREATED")
 
 
 run()
-
-
