@@ -3697,5 +3697,29 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Still Shining เธอคือแสงส่องใจ (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/03/22.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/76b08a4893a5404d2c763745290d4784/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e0ae51c165c03f80529f3842ae32a157/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
