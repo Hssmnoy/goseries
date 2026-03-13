@@ -9781,5 +9781,29 @@
         ]
       }
     ]
+  },
+  {
+    "title": "จีน Affinity โอบรักแรงเสน่หา (2026) ซับไทย/พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/01/8-3.jpg",
+    "episodes": [
+      {
+        "name": "EP6",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c39ef911283147309ec0067aa77f72fc/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/bac29a5e7b2fc22b9c5a9441c77d7ff7/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
