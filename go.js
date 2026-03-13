@@ -75,8 +75,10 @@ const res=await axios.get(url,{
 httpsAgent:agent,
 timeout:15000,
 headers:{
-"User-Agent":"Mozilla/5.0",
-"Referer":DOMAIN
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+"Referer":DOMAIN,
+"X-Requested-With":"XMLHttpRequest",
+"Accept":"text/html,application/xhtml+xml"
 }
 })
 
@@ -164,6 +166,10 @@ const direct=findM3U8(html)
 
 if(direct) return direct
 
+const jw = html.match(/file:\s*"([^"]+\.m3u8[^"]*)"/)
+
+if(jw) return jw[1]
+
 const decoded=decodeVideoSources(html)
 if(decoded) return decoded
 
@@ -184,13 +190,31 @@ async function getVideo(url){
 
 try{
 
-const html=await load(url)
+const res = await axios.get(url,{
+httpsAgent:agent,
+timeout:15000,
+headers:{
+"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+"Referer":DOMAIN + "/",
+"Origin":DOMAIN,
+"X-Requested-With":"XMLHttpRequest",
+"Accept":"*/*"
+}
+})
 
-const iframe=html.match(/<iframe[^>]+(?:src|data-src)="([^"]+)"/)
+const html = res.data
 
-if(!iframe) return null
+const server = html.match(/data-id="(https?:\/\/[^"]+)"/)
 
+if(server){
+return await getIframeVideo(server[1])
+}
+
+const iframe = html.match(/<iframe[^>]+(?:src|data-src)="([^"]+)"/)
+
+if(iframe){
 return await getIframeVideo(iframe[1])
+}
 
 }catch(e){
 
@@ -204,37 +228,43 @@ return null
 
 async function getEpisodes(url){
 
-const html=await load(url)
-const $=cheerio.load(html)
+const html = await load(url)
+console.log("EP HTML SAMPLE")
+console.log(html.slice(0,2000))
 
-let eps=[]
+const $ = cheerio.load(html)
 
-// หา link ตอน
-$("a[href*='episode']").each((i,el)=>{
+const postId = html.match(/postid-(\d+)/)
 
-let link=$(el).attr("href")
+let POST_ID = null
 
-if(!link) return
-
-if(!link.startsWith("http")){
-link=DOMAIN+link
+if(postId){
+POST_ID = postId[1]
 }
 
-eps.push(link)
+let eps = []
+
+// DEBUG หา EP ID
+$(".mp-ep-btn").each((i,el)=>{
+
+    const id = $(el).attr("data-id")
+
+    if(id){
+
+        console.log("EP DATA-ID:",id)
+
+        eps.push({
+            name: $(el).text().trim(),
+            id: id
+        })
+
+    }
 
 })
 
-// ลบซ้ำ
-eps=[...new Set(
-eps.map(x=>x.replace(/\/$/,""))
-)]
-
-console.log("EP FOUND",eps.length)
-
-return eps
+return { eps, POST_ID }
 
 }
-
 
 async function scanCategory(path){
 
@@ -408,17 +438,14 @@ if(scannedShows.includes(show)) continue
 
 scannedShows.push(show)
 
-let episodes=await getEpisodes(show)
+let data = await getEpisodes(show)
+let episodes = data.eps
+let POST_ID = data.POST_ID
 
 console.log("EPISODES",episodes.length)
 
 episodes.sort((a,b)=>{
-
-const na = parseInt(a.match(/(\d+)(?!.*\d)/)?.[1] || 0)
-const nb = parseInt(b.match(/(\d+)(?!.*\d)/)?.[1] || 0)
-
-return na-nb
-
+return parseInt(a.id) - parseInt(b.id)
 })
 
 if(episodes.length===0){
@@ -433,7 +460,7 @@ episodes=[show]
 
 for(let i=0;i<episodes.length;i++){
 
-if(TEST_MODE && i>0){
+if(TEST_MODE && i>5){
 break
 }
 
@@ -441,13 +468,38 @@ if(show===progress.show && i<progress.episodeIndex){
 continue
 }
 
-const epUrl=episodes[i]
-
-console.log("EP",i+1,"URL",epUrl)
+const ep = episodes[i]
 
 saveProgress(show,i)
 
-const video=await getVideo(epUrl)
+const cacheMatch = html.match(/window\.miru_ep_cache\s*=\s*(\{[\s\S]*?\});/)
+
+if(!cacheMatch){
+console.log("miru_ep_cache NOT FOUND")
+continue
+}
+
+const epCache = JSON.parse(cacheMatch[1])
+
+console.log("EP CACHE KEYS", Object.keys(epCache).length)
+
+const epHtml = epCache[ep.id]
+
+console.log("CHECK EP", ep.id, epHtml ? "FOUND" : "MISS")
+
+if(!epHtml){
+console.log("EP CACHE NOT FOUND",ep.id)
+continue
+}
+
+const iframe = epHtml.match(/iframe src="([^"]+)/)
+
+if(!iframe){
+console.log("IFRAME NOT FOUND",ep.id)
+continue
+}
+
+const video = await getIframeVideo(iframe[1])
 
 if(video){
 
@@ -457,8 +509,18 @@ if(video){
 
 //usedVideos.push(video)
 
+console.log("VIDEO",video)
+
+const epNumber = ep.name.match(/\d+/)
+
+let epName = "EP"+(i+1)
+
+if(epNumber){
+  epName = "EP"+epNumber[0]
+}
+
 movie.episodes.push({
-  name:"EP"+(i+1),
+  name:epName,
   servers:[
     {
       name:"goseries4k",
@@ -467,40 +529,17 @@ movie.episodes.push({
   ]
 })
 
-console.log("VIDEO",video)
-
-const line=`#EXTINF:-1 tvg-name="${title} EP${i+1}" tvg-logo="${poster}" group-title="${group}",${title} EP${i+1}\n${video}\n\n`
+const line=`#EXTINF:-1 tvg-name="${title} ${epName}" tvg-logo="${poster}" group-title="${group}",${title} ${epName}\n${video}\n\n`
 
 fs.appendFileSync(file,line)
-
-}
 
 }
 
 if(movie.episodes.length>0){
 
-let exist = jsonOutput[group].find(m=>m.title===title)
+if(jsonOutput[group].find(m=>m.title===title)){
 
-if(exist){
-
-console.log("CHECK NEW EP",title)
-
-// เช็คตอนใหม่
-for(const ep of movie.episodes){
-
-if(!exist.episodes.find(e=>e.name===ep.name)){
-
-console.log("NEW EP",ep.name)
-
-exist.episodes.push(ep)
-
-const line=`#EXTINF:-1 tvg-name="${title} ${ep.name}" tvg-logo="${poster}" group-title="${group}",${title} ${ep.name}\n${ep.servers[0].url}\n\n`
-
-fs.appendFileSync(file,line)
-
-}
-
-}
+console.log("SKIP EXIST",title)
 
 }else{
 
@@ -510,10 +549,7 @@ fs.writeFileSync(
 "goseries4k_"+group+".json",
 JSON.stringify(jsonOutput[group],null,2)
 )
-
-console.log("SAVE NEW SHOW",title)
-
-}
+console.log("SAVE JSON",title)
 }
 
  
@@ -532,7 +568,8 @@ movieCount++
 if(!TEST_MODE && movieCount % 20 === 0){
   gitCommit()
 }
-
+}
+}
 }
 }catch(e){
 
@@ -565,18 +602,5 @@ console.log("DONE IPTV CREATED")
 
 
 run()
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
