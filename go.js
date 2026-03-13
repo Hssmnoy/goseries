@@ -552,7 +552,10 @@ fs.appendFileSync(file,line)
 
 }
 
-if(movie.episodes.length>0){
+ 
+
+}
+    if(movie.episodes.length>0){
 
 const index = jsonOutput[group].findIndex(m=>m.title===title)
 
@@ -572,9 +575,10 @@ fs.writeFileSync(
 "goseries4k_"+group+".json",
 JSON.stringify(jsonOutput[group],null,2)
 )
+
 if(!TEST_MODE){
 gitCommit()
-} 
+}
 
 }
 }
@@ -609,6 +613,7 @@ console.log("DONE IPTV CREATED")
 
 
 run()
+
 
 
 
