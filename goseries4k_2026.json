@@ -7421,6 +7421,15 @@
             "url": "https://imsvg.com/api/files/65d4ed5508b521acc3e35c2a02e0a773/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP21",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/741867861b630f356ec5695ff149eb29/master.txt"
+          }
+        ]
       }
     ]
   }
