@@ -2282,6 +2282,84 @@
             "url": "https://imsvg.com/api/files/faff0f38ae965dd46169d724e177dc96/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d316dac2b4688952cf15f272f8b2b9bb/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/cbf486d7cd03b3fa7597626924aadafb/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/972eecf5988a16a8970f9a85a8479afc/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a3fc581f2b6880cb068b7062fea1a3bb/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ceec665020053ebdfa7e033a073c8481/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/72479666d58719d835698bc5f53825e2/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/81a7077655958379b5d113b6bc196740/master.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "My Precious เหนือรักแลกปรารถนา (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-7.jpg",
+    "episodes": [
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f71f2fb7670e71bd298063b483886565/master.txt"
+          }
+        ]
       }
     ]
   }
