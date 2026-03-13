@@ -8536,5 +8536,29 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Silent Truth สัญญาใต้ต้นเชอร์รี่และความจริงที่ฝังกลบ (2026) ซับไทย/พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/01/99.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/05365506e0b2f68571ef568026449120/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b07def7bc33d0c1ff9ac56845ac38b5e/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
