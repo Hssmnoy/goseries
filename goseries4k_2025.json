@@ -62374,5 +62374,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ดูซีรีย์ the sandman เดอะ แซนด์แมน ซีซั่น 2",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/07/11-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/024414eb291680634f06f5f7f7757e8b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8d1fadee4ec61bf81988586f9b142759/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c0f7f8ab300403e45753c8738385099b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/cea0cfd4f21958b7dcfd40606dbb06a2/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/535a45524aedfd97b93f7d2017fd4728/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f3ed5cf28e9c03648504dc3d5ad09058/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
