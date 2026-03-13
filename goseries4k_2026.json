@@ -8363,6 +8363,15 @@
             "url": "https://imsvg.com/api/files/75a25af6fc3e48957d1d21efe6801275/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP23",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/38409d0b92434aad22ee017b7e25929c/master.txt"
+          }
+        ]
       }
     ]
   }
