@@ -78163,5 +78163,38 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ซีรี่ย์เรื่อง Cold Case ฆาตกรรมไทลินอล (2025) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/05/111111.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/50fb95af21bb04bc9e3ba8e9b1899e64/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/28d11ac9ff4506d494fd439682d27168/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/08659dde68cf90cd9ea5ee358827ce4a/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
