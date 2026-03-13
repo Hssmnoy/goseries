@@ -10271,6 +10271,15 @@
             "url": "https://imsvg.com/api/files/fd8860ee8bec749c260766e41efd0997/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP27",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/db3766113c1ff209f4f2fab9025cb1f4/master.txt"
+          }
+        ]
       }
     ]
   }
