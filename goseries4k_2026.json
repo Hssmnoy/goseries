@@ -752,6 +752,66 @@
             "url": "https://imsvg.com/api/files/5b92d76e1de7479347faf4d8411e80e7/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a2870cfc4d46760b260ac40e905ad7d7/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b14226871065857ca304695f160632e4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a5be1a05ffabe989fffb51825847a0b9/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/094b9c1946b273437ca54ffd8401921e/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5b7c5c02e145924848bbc1d92c3ef2a8/master.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bloody Flower คนแลกเลือด (2026) ซับไทย/พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/1-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c2cc19d9fa01395597ecc03054bf9720/master.txt"
+          }
+        ]
       }
     ]
   }
