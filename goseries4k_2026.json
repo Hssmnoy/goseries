@@ -9725,6 +9725,15 @@
             "url": "https://imsvg.com/api/files/af2c5d19cd945650e902fefd2b55d1cc/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP6",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/2b6aa3539797c5244923fc4a118cd79b/master.txt"
+          }
+        ]
       }
     ]
   }
