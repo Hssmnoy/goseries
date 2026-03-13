@@ -551,10 +551,6 @@ const line=`#EXTINF:-1 tvg-name="${title} ${epName}" tvg-logo="${poster}" group-
 fs.appendFileSync(file,line)
 
 }
-
- 
-
-}
     if(movie.episodes.length>0){
 
 const index = jsonOutput[group].findIndex(m=>m.title===title)
@@ -613,7 +609,3 @@ console.log("DONE IPTV CREATED")
 
 
 run()
-
-
-
-
