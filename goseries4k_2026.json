@@ -10808,6 +10808,15 @@
             "url": "https://imsvg.com/api/files/58c264f779e2f9860627b6f520be21e4/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP19",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/3840d3b8a33ec48fe626b646fd8e9b2d/master.txt"
+          }
+        ]
       }
     ]
   }
