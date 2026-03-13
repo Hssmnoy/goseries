@@ -10406,6 +10406,15 @@
             "url": "https://imsvg.com/api/files/43a6ab59e17d30820336a9542428383d/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP35",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/2eef9efbdcf683eab86744102089e69b/master.txt"
+          }
+        ]
       }
     ]
   }
