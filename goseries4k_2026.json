@@ -8408,6 +8408,15 @@
             "url": "https://imsvg.com/api/files/1f60b644049d01fab267052e2f55d4ca/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP26",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5e34661bed985bf8c7f0049b34cf696b/master.txt"
+          }
+        ]
       }
     ]
   }
