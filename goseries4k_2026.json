@@ -8944,5 +8944,29 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Judge Returns คืนบัลลังก์พิพากษา (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/12/9-11.jpg",
+    "episodes": [
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/54c94b0ce880061b32a99da1c6ed5309/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/4b9c0d036955a4c42522fbd829d157dc/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
