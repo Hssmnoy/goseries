@@ -3638,6 +3638,102 @@
             "url": "https://imsvg.com/api/files/fa5bd9c88f1b1b32867be19797985533/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP5",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/70799665ebead810e2778e2dcd58ac5c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP10",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ad118fd6db44a378cdb23163fe13d59a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP9",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/74383a389052640fdde86a2b8dd96f1d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/85f8ab31814d407eeda2004d2e7f0066/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b8156ad8b5bab11fcf7443551ac40afb/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/164e5a3a47631ceda8db6db12c60c69a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/54eca1aaf1798aa10591fe825e9a0584/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/2d05b978313d28f4549a53b1fe88b0be/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d2f39da59f165b34e3d36029e1c0f772/master.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "VLADIMIR หัวใจใฝ่หา วลาดิเมียร์ (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/88.jpg",
+    "episodes": [
+      {
+        "name": "EP3",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c0d6c853b0ca934559125d2586541645/master.txt"
+          }
+        ]
       }
     ]
   }
