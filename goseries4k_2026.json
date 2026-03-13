@@ -2597,6 +2597,57 @@
             "url": "https://imsvg.com/api/files/00f1d78fb02ad870527de0740d585aac/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/4b56a5052297483d4943ea3ec8ac3b21/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a79a0a44e4997e2c4706dbdedcb9f184/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/de219fcb479508a63fb2f69ec449be60/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d72bb7771a3c42e7b84c00960c70dbab/master.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Swords into Plowshares คมดาบสยบพิภพ (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-6.jpg",
+    "episodes": [
+      {
+        "name": "EP6",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e8ec9ab0af92e40984734ece6be8e281/master.txt"
+          }
+        ]
       }
     ]
   }
