@@ -8753,6 +8753,15 @@
             "url": "https://imsvg.com/api/files/4affd6cd836d3cac06047bccd84f735d/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP18",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d399f69e89c6c8d8324aebcec4a146c1/master.txt"
+          }
+        ]
       }
     ]
   }
