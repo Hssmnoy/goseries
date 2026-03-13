@@ -9566,6 +9566,15 @@
             "url": "https://imsvg.com/api/files/e7d10b9290de61850824ff580171e697/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP13",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/9f9b1284fa5c9a39e549ae0b46c51231/master.txt"
+          }
+        ]
       }
     ]
   }
