@@ -551,7 +551,8 @@ const line=`#EXTINF:-1 tvg-name="${title} ${epName}" tvg-logo="${poster}" group-
 fs.appendFileSync(file,line)
 
 }
-    if(movie.episodes.length>0){
+}
+if(movie.episodes.length>0){
 
 const index = jsonOutput[group].findIndex(m=>m.title===title)
 
@@ -575,8 +576,7 @@ JSON.stringify(jsonOutput[group],null,2)
 if(!TEST_MODE){
 gitCommit()
 }
-
-}
+    
 }
 }catch(e){
 
