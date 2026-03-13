@@ -7178,6 +7178,15 @@
             "url": "https://imsvg.com/api/files/12493f2dca7f01aee535d9453f309fe0/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP18",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/66f770fa792357539d91e7e0e1b3059b/master.txt"
+          }
+        ]
       }
     ]
   }
