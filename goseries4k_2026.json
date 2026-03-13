@@ -7459,5 +7459,29 @@
         ]
       }
     ]
+  },
+  {
+    "title": "จีน Shall We Dance สองเงารักใต้เงาลวง (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-4.jpg",
+    "episodes": [
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5e406926f3873c8b763f94efc84fdab4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/46a08fa0874ddf4096ad3706bc91a411/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
