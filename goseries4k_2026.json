@@ -7885,5 +7885,29 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Night Agent: Season 3 (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-9.jpg",
+    "episodes": [
+      {
+        "name": "EP8",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/161a0eff7197a2596f3de71a6a722a01/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8ec0ef096588ea1e8a2835db50da8ea1/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
