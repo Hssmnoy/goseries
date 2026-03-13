@@ -9676,5 +9676,29 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ออนไลน์ Spring Fever ใบไม้ผลิที่รอคอย (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/99ed1aef64c2d29b125cc66f0e2a2cab/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8e27d2f6e8848ab4358ca36782268ab0/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
