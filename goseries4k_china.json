@@ -5785,5 +5785,101 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ซีรี่ย์ ซีเอสไอ: เวกัส ซีซั่น 1 CSI: Vegas 1 (2021) พากย์ไทย EP1-10 (End)",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/05/2-3.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c96837e5f419a05fa9199748c3b2049d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/052a0fefd7335f55211cc5828fb4b0cc/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/090148bb5510defbd13978ee3e6c821f/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/621ce16a7f16e78694fb3524f8468b03/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/4b1a7045df5e85a75d893b573c0bf639/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/abbcc924d93ea42743c3283bbcadf88c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/26aa01edaa9beedea519f975f623453d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/0d5ec9c70377c3504c055e33d63bb5ae/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP9 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d2f4d76a87c41c97e6ced862a924bf3d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP10 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/4b336727d67c2cba35426bb0279a95ab/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
