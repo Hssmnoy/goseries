@@ -47842,5 +47842,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Aema อามา (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/08/47.gif",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/6ecca3169ce76183cc601539ed9105b6/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/611d2ece7478460573e9b6c74ba10007/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/0fe3ecc54e6f07a5d0433b41b1f29048/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/acbf996fb976c409bce409475c5b84fe/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/07b29a3d469967918779a3f31b3126f1/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/7b7252967aefeadaa98eae60259fc951/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
