@@ -2374,5 +2374,47 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Siren’s Kisss จุมพิตไซเรน (2026) ซับไทย/พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-14.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e0237b838b6d50742a500e8ed4f3598c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/16f31b49753bd5f438e4325b213c1d19/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/77cd169a7bfc323e61cc80a492c78154/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/3b42466d37a991d42084ddaf89392efa/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
