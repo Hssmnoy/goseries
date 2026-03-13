@@ -8825,6 +8825,15 @@
             "url": "https://imsvg.com/api/files/5e0cec49f740c270e3aadcbc4a189aa3/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP28",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c8c1436016d4b694cb79c7f7caf08886/master.txt"
+          }
+        ]
       }
     ]
   }
