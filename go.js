@@ -205,31 +205,33 @@ return null
 async function getEpisodes(url){
 
 const html=await load(url)
-
 const $=cheerio.load(html)
 
 let eps=[]
 
-$("a").each((i,el)=>{
+// หา link ตอน
+$("a[href*='episode']").each((i,el)=>{
 
-const link=$(el).attr("href")
+let link=$(el).attr("href")
 
-if(
-link &&
-link.startsWith(DOMAIN) &&
-(
-link.includes("/episode-") ||
-link.includes("/ep-")
-)
-){
-eps.push(link)
+if(!link) return
+
+if(!link.startsWith("http")){
+link=DOMAIN+link
 }
+
+eps.push(link)
 
 })
 
-return [...new Set(
+// ลบซ้ำ
+eps=[...new Set(
 eps.map(x=>x.replace(/\/$/,""))
 )]
+
+console.log("EP FOUND",eps.length)
+
+return eps
 
 }
 
@@ -542,6 +544,7 @@ console.log("DONE IPTV CREATED")
 
 
 run()
+
 
 
 
