@@ -8111,6 +8111,15 @@
             "url": "https://imsvg.com/api/files/89523622367fdbf2cd1f078320e46631/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP8",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b59d7ece3c619f30fa6a97880c20b3ac/master.txt"
+          }
+        ]
       }
     ]
   }
