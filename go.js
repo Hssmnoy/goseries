@@ -554,21 +554,24 @@ fs.appendFileSync(file,line)
 
 if(movie.episodes.length>0){
 
-if(jsonOutput[group].find(m=>m.title===title)){
+const index = jsonOutput[group].findIndex(m=>m.title===title)
 
-console.log("SKIP EXIST",title)
+if(index!==-1){
+
+jsonOutput[group][index]=movie
+console.log("UPDATE JSON",title)
 
 }else{
 
 jsonOutput[group].push(movie)
+console.log("NEW JSON",title)
+
+}
 
 fs.writeFileSync(
 "goseries4k_"+group+".json",
 JSON.stringify(jsonOutput[group],null,2)
 )
-console.log("SAVE JSON",title)
-}
-
  
 if(movie.episodes.length > 1){
 
@@ -619,3 +622,4 @@ console.log("DONE IPTV CREATED")
 
 
 run()
+
