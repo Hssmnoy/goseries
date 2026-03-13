@@ -534,7 +534,6 @@ if(!TEST_MODE && movieCount % 20 === 0){
 }
 
 }
-}
 }catch(e){
 
 console.log("SHOW ERROR",e.message)
@@ -566,6 +565,7 @@ console.log("DONE IPTV CREATED")
 
 
 run()
+
 
 
 
