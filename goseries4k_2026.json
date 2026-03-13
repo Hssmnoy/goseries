@@ -3721,5 +3721,56 @@
         ]
       }
     ]
+  },
+  {
+    "title": "In Your Radiant Season (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-2.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/450e3593709498e2cbbff78d0d55583f/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a5c54fcbf64a44080f60804f97493cfc/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ed1a0dcc55d9d8c79dea2d73132f93c4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c70bc83dc6b2a1c60260c731ef828d1e/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c3add6225307edb6753a40e71e10a1c7/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
