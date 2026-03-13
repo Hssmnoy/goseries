@@ -1850,6 +1850,273 @@
             "url": "https://imsvg.com/api/files/e2c516337a0dc00cd823753647a9be84/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f2454af4dd0aea4e315128a788b98fec/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b9f63153fec3992ba81ff1f9dcb82e50/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/1351188ae9867575863a03b23151db3d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/de4f2d30677f6fcea5b295b21597b8c7/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/01ea5ee8eaf4a4d7c9aa50feb5a055f2/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/1efe58e81c84ade5fa23370204a664eb/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/fedc02f829e0fe76a5a9a0d0b18e8089/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP9",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/91e52df11a33b0ff2c8819acdc206bda/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP10",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e5dc4fcd49ca27f2ada79ba9c9412263/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP11",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d2d72e89094ea035ab838a8c24791474/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP13",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/74589a3285a47ba74e67eaf312db94fd/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP12",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/7c7a3b582c03d0a5e94819fdcca01758/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP15",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/2241604dd5a992120ec5f11d1041d015/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP14",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8b4589ccf8fb840ec98f0d2f530107f4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP17",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/117940b4f523c38d8fbb67c9bcdaa077/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP16",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5e621cbd3a873b95c5579bffaef8f79c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP18",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5b82e5c9b574f0b8a7c1cef7e94d10a1/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP19",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b501b2277a9db9760bc1dddef2528fdd/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP21",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/1a49b7a34f179f92799b97e39ee49009/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP20",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/631f399538375d7c91800194516f9ddc/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP22",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/88dad11247b49e7db6807eb53d4bb1e9/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP23",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d52e465ec290c60e6d7058764c5a50fe/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP24",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/00981e117dee7ba502f84c3842be3108/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP26",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5377e9a742301872c041cb79ab014f9f/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP25",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/2cb3a1627ad5343f8edf7cc7713ca59c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP27",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/4713ce3f788999f3b3ed0a42f33b0948/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP28",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b6b0a5a074c2669278f7ba7f306bdd8b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP29",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/eabdf42b9727f7c09f08adbc1cd6b66f/master.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "We Almost Broke Up รักนี้รีเพลย์ไม่เลิก (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-13.jpg",
+    "episodes": [
+      {
+        "name": "EP8",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/9179749ba0b92220122bd11849cf688e/master.txt"
+          }
+        ]
       }
     ]
   }
