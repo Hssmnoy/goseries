@@ -158,9 +158,9 @@ return null
 const html=await load(url)
 
 console.log("IFRAME URL",url)
-console.log("IFRAME HTML START")
-console.log(html.slice(0,1200))
-console.log("IFRAME HTML END")
+//console.log("IFRAME HTML START")
+//console.log(html.slice(0,1200))
+//console.log("IFRAME HTML END")
 
 const direct=findM3U8(html)
 
@@ -229,8 +229,8 @@ return null
 async function getEpisodes(url){
 
 const html = await load(url)
-console.log("EP HTML SAMPLE")
-console.log(html.slice(0,2000))
+//console.log("EP HTML SAMPLE")
+//console.log(html.slice(0,2000))
 
 const $ = cheerio.load(html)
 
@@ -251,7 +251,7 @@ $(".mp-ep-btn").each((i,el)=>{
 
     if(id){
 
-        console.log("EP DATA-ID:",id)
+        //console.log("EP DATA-ID:",id)
 
         eps.push({
             name: $(el).text().trim(),
@@ -495,11 +495,11 @@ continue
 
 const epCache = JSON.parse(cacheMatch[1])
 
-console.log("EP CACHE KEYS", Object.keys(epCache).length)
+//console.log("EP CACHE KEYS", Object.keys(epCache).length)
 
 const epHtml = epCache[ep.id]
 
-console.log("CHECK EP", ep.id, epHtml ? "FOUND" : "MISS")
+//console.log("CHECK EP", ep.id, epHtml ? "FOUND" : "MISS")
 
 if(!epHtml){
 console.log("EP CACHE NOT FOUND",ep.id)
@@ -622,4 +622,5 @@ console.log("DONE IPTV CREATED")
 
 
 run()
+
 
