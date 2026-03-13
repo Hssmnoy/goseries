@@ -7712,6 +7712,15 @@
             "url": "https://imsvg.com/api/files/21a055e4b362c1b984d506c27a2ad4bb/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP7",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e3a0789d15712bd2e50a913a2e83339c/master.txt"
+          }
+        ]
       }
     ]
   }
