@@ -563,7 +563,7 @@ movie.episodes.push({
   ]
 })
 
-const line=`#EXTINF:-1 tvg-name="${title} ${epName}" tvg-logo="${poster}" group-title="${group}",${title} ${epName}\n${video}\n\n`
+const line=`#EXTINF:-1 tvg-name="${epName}" tvg-logo="${poster}" group-title="${title}",${epName}\n${video}\n\n`
 
 fs.appendFileSync(file,line)
 
@@ -626,5 +626,6 @@ console.log("DONE IPTV CREATED")
 
 
 run()
+
 
 
