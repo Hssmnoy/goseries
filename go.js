@@ -479,9 +479,28 @@ fs.appendFileSync(file,line)
 
 if(movie.episodes.length>0){
 
-if(jsonOutput[group].find(m=>m.title===title)){
+let exist = jsonOutput[group].find(m=>m.title===title)
 
-console.log("SKIP EXIST",title)
+if(exist){
+
+console.log("CHECK NEW EP",title)
+
+// เช็คตอนใหม่
+for(const ep of movie.episodes){
+
+if(!exist.episodes.find(e=>e.name===ep.name)){
+
+console.log("NEW EP",ep.name)
+
+exist.episodes.push(ep)
+
+const line=`#EXTINF:-1 tvg-name="${title} ${ep.name}" tvg-logo="${poster}" group-title="${group}",${title} ${ep.name}\n${ep.servers[0].url}\n\n`
+
+fs.appendFileSync(file,line)
+
+}
+
+}
 
 }else{
 
@@ -491,7 +510,10 @@ fs.writeFileSync(
 "goseries4k_"+group+".json",
 JSON.stringify(jsonOutput[group],null,2)
 )
-console.log("SAVE JSON",title)
+
+console.log("SAVE NEW SHOW",title)
+
+}
 }
 
  
@@ -544,6 +566,7 @@ console.log("DONE IPTV CREATED")
 
 
 run()
+
 
 
 
