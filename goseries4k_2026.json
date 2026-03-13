@@ -8596,5 +8596,29 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Born to Be Alive ต้นไม้แห่งชีวิต (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/9.jpg",
+    "episodes": [
+      {
+        "name": "EP3",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8a59e73297c94c0314acc74d6305dbf2/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/763fe503c239bed36edfb48a74c33f24/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
