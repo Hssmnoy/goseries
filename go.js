@@ -244,21 +244,25 @@ POST_ID = postId[1]
 
 let eps = []
 
-// DEBUG หา EP ID
-$(".mp-ep-btn").each((i,el)=>{
+$(".mp-ep-group").each((gi,group)=>{
 
-    const id = $(el).attr("data-id")
+    const type = $(group).find(".mp-group-title").text().trim()
 
-    if(id){
+    $(group).find(".mp-ep-btn").each((i,el)=>{
 
-        //console.log("EP DATA-ID:",id)
+        const id = $(el).attr("data-id")
+
+        if(!id) return
+
+        const epText = $(el).text().trim()
 
         eps.push({
-            name: $(el).text().trim(),
+            name: epText,
+            type: type,
             id: id
         })
 
-    }
+    })
 
 })
 
@@ -609,3 +613,4 @@ console.log("DONE IPTV CREATED")
 
 
 run()
+
