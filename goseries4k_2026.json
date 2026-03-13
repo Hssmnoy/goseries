@@ -7010,6 +7010,15 @@
             "url": "https://imsvg.com/api/files/8aab2f49ad855761bfa15ef07373183f/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP33",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/49a09cf73a543c03fffcfd1395f24248/master.txt"
+          }
+        ]
       }
     ]
   }
