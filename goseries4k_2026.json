@@ -7820,6 +7820,15 @@
             "url": "https://imsvg.com/api/files/df96d352f9b09f2ad240b34b860e7ad5/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP15",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/54abeac9f4692b97905ef86f4c6254a7/master.txt"
+          }
+        ]
       }
     ]
   }
