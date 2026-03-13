@@ -531,11 +531,24 @@ console.log("VIDEO",video)
 
 const epNumber = ep.name.match(/\d+/)
 
-let epName = "EP"+(i+1)
+let epNum = (i+1)
 
 if(epNumber){
-  epName = "EP"+epNumber[0]
+  epNum = epNumber[0]
 }
+
+let type=""
+
+if(ep.type && ep.type.includes("พากย์")){
+  type=" TH"
+}
+
+if(ep.type && ep.type.includes("ซับ")){
+  type=" SUB"
+}
+
+let epName = "EP"+epNum+type
+    
 if(oldEpisodes.includes(epName)){
 console.log("SKIP OLD",epName)
 continue
@@ -613,4 +626,5 @@ console.log("DONE IPTV CREATED")
 
 
 run()
+
 
