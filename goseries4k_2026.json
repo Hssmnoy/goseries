@@ -8444,6 +8444,15 @@
             "url": "https://imsvg.com/api/files/719810bb2aad2a37816182c261d83192/master.txt"
           }
         ]
+      },
+      {
+        "name": "EP29",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/618af5603ee0684286003168af3a1103/master.txt"
+          }
+        ]
       }
     ]
   }
