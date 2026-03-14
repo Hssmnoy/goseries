@@ -73483,5 +73483,83 @@
         ]
       }
     ]
+  },
+  {
+    "title": "A Superior Day (2022)",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/03/A-Superior-Day.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/527db15cc9e15b7b253ac7c01ae2b913/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/29ada79b1959479c7bcd1beec1049074/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d002e2fdb0dbc705e52594c715ea2096/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9941f7dca72ac006e858131e6e4c4d50/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e55ba25d271873d44fdf6c34e0840ed4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/dcebcd9bf3ef6a0ed22841aa38e028ac/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d2406d90f0174223a80cc5842e9107bf/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/63b26a14895671629e2b869aaf395e6c/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
