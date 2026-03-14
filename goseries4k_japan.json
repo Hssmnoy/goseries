@@ -2179,5 +2179,38 @@
         ]
       }
     ]
+  },
+  {
+    "title": "I Became the Main Role of a BL Drama (2023) ผมกลายเป็นซุปตาร์วาย ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/01/วาย.png",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fcbf35703cf0ec1a673beb889c717f20/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6ee52c6af37bcff808238fb8456a2c74/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/708b30f4a8b5b51056e0ace83a07b27d/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
