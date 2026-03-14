@@ -42421,5 +42421,83 @@
         ]
       }
     ]
+  },
+  {
+    "title": "All That We Loved (2023) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/05/All-That-We-Love.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ac8c6d7661431c31d3a1117ef8d9053b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2a1b9518dc831d88860ac0b14ed8f355/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ac09b3670c7ea461636b040555e73ba9/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e25d322e0cbe96b7f876a0d3c6e28af1/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f91b9e72090b9b5039b19badaa7205ed/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6b186405abe308135e7daac812dc3589/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/22beefe4532c80877790bc8d0d51a8f9/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/23937b443cf43a66d0c7f5bbd271b2ad/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
