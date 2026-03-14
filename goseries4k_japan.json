@@ -40,5 +40,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Silent Truth สัญญาใต้ต้นเชอร์รี่และความจริงที่ฝังกลบ (2026) ซับไทย/พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/01/99.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/05365506e0b2f68571ef568026449120/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b07def7bc33d0c1ff9ac56845ac38b5e/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e00b82d57d52b32888625bafbff29f5a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c36055069cb00238f07dcb0a3e01e931/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c3de71f7b0ea92e331b92fe2023964b1/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/33e9ccfc4fd8849e2a86f678e070c1b6/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
