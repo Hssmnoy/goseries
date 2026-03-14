@@ -73765,5 +73765,83 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Pachinko (2022) Ep.1-8 (จบ) | ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/03/Pachinko.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4465c52cb553052c4da05e6d45c89269/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ee4fdb65c8430d7ac6c6772433880322/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4a3847da6296a2908a828639a000702d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1267ec2c6f899863d106306c45477aa8/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9d059fb6af3df0f113ef0c707313c693/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c1f32c62c22254c633ee30bdf87567d9/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/00e59dbc93e25ed3f23c6f116c4a0b10/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/584fee9346515661aa49c890361ec00c/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
