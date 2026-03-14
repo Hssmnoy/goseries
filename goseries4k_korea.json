@@ -70882,5 +70882,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Love Class (2022)",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/05/love-class-2022.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4f52ec3f64c14835b002c3a0ce1ff839/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/be66b80ffb69a8190a5cffecc0a86c1d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5ca48876ed59b09eddf5b2acb609a55e/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3c39603cf754e3e33ed29f4a5985f7b4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/75aaadc9d8d2496c24b4c1850e8bd6b3/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3a4902b0a59db3d9d6909fb11b69b66f/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
