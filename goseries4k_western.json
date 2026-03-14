@@ -1303,5 +1303,47 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ออนไลน์ Man Vs Baby (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/12/55.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/498f0d399ee8bbdde4b6cb08b16d6520/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/41e53fae602cb820df34ba54ac82e8d4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c57b7a6b68cfb10ff61cbc83e84a9fab/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/1847aa860709d882491c7cef3ad9f42a/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
