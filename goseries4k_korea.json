@@ -56155,5 +56155,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Connect (2022) ซับไทย Ep.1-6 (จบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/12/Connect.webp",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/17469fb8548e7d91a0dfafcd01788991/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6203633e4e67e90443c38e7374f1830f/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bd9e6a786969016c1c0390b73f841d7e/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/987064f7f89440d3de23cfe928238f31/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/38a7cb475e2bff3bc6faf6dffe99209f/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6202724b083ac18a6421bdf41f9c9a5b/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
