@@ -62026,5 +62026,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Narco-Saints (2022) นักบุญนาร์โค พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/09/นักบุญนาร์โค.webp",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/67155f1a001a60f750ff95ad4869b6f4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e28b3619b6259aa57d63ed40476d47e4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/154872dd7fd0631e9a959ef21bb9a595/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/794b3635154dd3e0de6c110594ef383b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2126048ee10155f9e10367bfca80815a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5dd3a2b0a49b5a74d8f3d397be005dd5/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
