@@ -7174,5 +7174,83 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Twelve (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/08/2-1.gif",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ee80e59d312acaaf72ae3ef1a1065cb6/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b7b739a73771bccc80cd69950be92f6f/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ec92a5e06044775fd0d6fc5788df9e9e/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/51132b2a9129c29170efc161b198bb0c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/502a7e267d83bfe49c2c8c4077b409ee/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c737a72291c15e7e583f9edefeeebde4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a97d8ce3108b08131a22feba27742598/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/69b0d8ffb54751a22722fad331ca4afa/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
