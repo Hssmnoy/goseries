@@ -83275,5 +83275,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Journalist (2022) คนข่าวเข้ม  EP1-6 (จบ) | พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/01/the-journalist-คนข่าวเข้ม.png",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7e1470160fc787a09eac5f19e5ff8e83/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2e971855b88f93cf67ddea0580273626/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/58052d3dfc98e744dc6449e1445943e8/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6cca7fc958d3c5bf70069ab9b8c0aa70/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f7e6900391b5b5aac718f359ad432537/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a7e5391ed399b3628ca09df554054bd6/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
