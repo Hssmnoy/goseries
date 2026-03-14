@@ -78748,5 +78748,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "เกาหลี แสงราตรี ซีซั่น 3 พากย์ไทย (จบ) Light The Night Season 3",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/03/Light-The-Night-Season-3.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/cccf76fdc5625dba035153d704803d86/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e09204b247e5883d180e5c9eb64463e8/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a6f679e298be6ccfce75a57705e9f65c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6c9063e2da5977198475365efeb46a2b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/378ed5eefed041d3e4f57c56b818c97f/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ef9a613ace60c6b79ae72c821d2dc96f/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
