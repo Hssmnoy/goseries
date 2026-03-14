@@ -72919,5 +72919,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "โอม รักเอยจงมา (2022) The Sound of Magic",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/05/โอม-รักเอยจงมา.png",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a689cb2038837ea9c7a0e648d96f4162/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a746e9a61692649e55a99b8b66aff208/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/106b3224345116d79a02d2e6000586af/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/db453e9e2901bf39e374f2674cd0ae7e/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8b6e3a7b9ed43f7e32b165ec071fa310/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8be6676218c400ea9f9df2d776c6b790/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
