@@ -4132,5 +4132,83 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Aniela อาเนียลา (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/06/เจ้้้.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ab8c0be3be286dae2c7f58572682bb63/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/df9c12585e62f400ed7120f98caee660/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8201e67c21e7d87cd5cb340833c073a1/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/6d13215ccfa1b9c326389afd39e26435/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ac5148a3a9167f64623367ea97c4196c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5fe79fee1b77d37535a223269adceac3/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/9e506a82fb7b4e43002d8bd7309f08af/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/eea83f2c43b68104d843212eb73b404b/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
