@@ -1243,5 +1243,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "CITY OF SHADOWS เมืองซ่อนเงา (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/12/8.jpg",
+    "episodes": [
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/89dbdb3e5a0760fae9f3df92a55a31ed/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b2c0749abe3434c03755ad799e51bdd5/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/61ab8d20b642394473f883be49b2bcfc/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/64ada46369b9a108e829a1bfde475805/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e11848ddd819c81727e3ce7ac67321f7/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8e78d0b256c207067becc488dc6b8dee/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
