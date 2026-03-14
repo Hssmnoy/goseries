@@ -22939,5 +22939,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Secret Ingredient (2024) (ซับไทย)",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/05/Secret-Ingredient.webp",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5ba0b069db9f0fe017b4934d1a2214d0/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/66d36f0eac9c45cef1290c430aaee87d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2cb751e6adb067489bf19db897690369/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/21e417f48d3d15ff9704fa9f20204578/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/083fce389f7ed613cfa8ddb00b272b6f/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0cad54a8358e70be94c774b5d10595dd/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
