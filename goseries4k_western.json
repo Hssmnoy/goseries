@@ -3070,5 +3070,38 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Two Graves สองสาวผู้สาบสูญ (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/08/63.3.gif",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f09f7e1164d29996accf42c28a60628b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/0d24e345ac3b7dfe963578762d4a12b7/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/29555b212551240ff8d5483f92359ecd/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
