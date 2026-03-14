@@ -31714,5 +31714,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Soundtrack ภาค 2 (2023) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/12/soundtrack2.webp",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/06c718918a76ab73379f4925d972b959/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5323d95f2285e1b66246a1ec17eff70c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a12b31923752cca866f0f58d218bba56/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c9c7db185a06de853f7b32b305ca62e4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/be9190b69e5971ed7d3222ebc2b8ab0f/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/47a9df396257cfb20d53d43849464e45/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
