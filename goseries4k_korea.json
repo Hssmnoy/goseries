@@ -97102,5 +97102,38 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Bossam Steal the Fate (2021)",
+    "image": "https://goseries4k.com/wp-content/uploads/2021/10/Bossam-Steal-the-Fate-2021.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6106d8e029dd9fccf5742dd35caa7236/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9742a1aeaf425779f0de265331a67409/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f7cd00552c1895f3d969925014c78496/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
