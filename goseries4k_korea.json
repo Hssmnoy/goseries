@@ -32440,5 +32440,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Comedy Royale (2023) ชิงบัลลังก์ความฮา ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/11/ชิงบัลลังก์ความฮา.webp",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/dd047efc8b1eb4ed90d8cb24606ac976/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7efa1e7c06043d29e31f9e9e9a4709e7/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bc0242c4fffdadeb1c58ce142deaa98b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/60c6fa468103bf13ea223add44ad859e/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/42dc0b468e86f73dc1b2364293afead3/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ba8475bcb2b421577e6b9f8c26acea82/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
