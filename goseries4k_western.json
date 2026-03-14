@@ -4468,5 +4468,56 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Sirens: เล่ห์เสน่ห์ร้าย (2025)",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/05/521561-1.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/903a74f526c1d95542c52d1e9cd6aed6/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/29e6d80dd0617b17d5c2c59ff25af37d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a8b63e69ffd70a3f708c158e21c26fe9/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/344b04d2313f16acb9cb47ecd74020d6/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/56ba7a6977f2cf7fe8255970c52c52aa/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
