@@ -76384,5 +76384,110 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Blueming 2022",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/04/blueming.webp",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b7b69d8bde8c7933f7233a56e9f33720/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/be1eb3d44884464a74894117de7b3757/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e17456f73a65c568cb2c0b51dc450a60/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP9 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/20eac6780cfa80b36a43745e97c88256/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bd57356232387c106b702090251a62eb/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f48489ff2d83274f369b5935b7e14425/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/548d71203bd64f77353164546c23ea79/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP10 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/208b099f3420d953a02ac15c4609e296/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d0a9144ea27c6841e16bbeee37a683f6/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9db2b1535d131de31fe941e1ab074462/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d38cb2b0adf22be8dd5ef3ee0b43d552/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
