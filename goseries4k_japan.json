@@ -1552,5 +1552,101 @@
         ]
       }
     ]
+  },
+  {
+    "title": "House of the Owl (2024) (ซับไทย)",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/04/House-of-the-Owl.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/811f647e851d22994c2e98787093cd6e/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b2b13a3881ac2cb858cda287f034b3f7/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7b867c9c46001217c085c097eeef7792/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/977643ada4c02ea6fdd4c925f51cb7c7/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e3558f70942b11fc26e4bae21a3e9d68/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/13286f826b8327ee3b8dafe1820e2cdd/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0bfde7d03da8e9e5827d5f7cc36af3db/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP9 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9685290d73abffd20bb77927a589a214/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/eb1d999b56b2caf6a988631e5e4d4e5d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP10 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/573d154d650913035b73419dea93f7ca/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
