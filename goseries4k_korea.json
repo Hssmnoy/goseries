@@ -74797,5 +74797,38 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Soundtrack #1 ซับไทย EP1-EP4 (จบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/03/ซาวด์แทร็ค-1.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a73e2c5f424b72cb270ab803c6051cbb/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6e9b9b76b4841c95c68aaf334c476596/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c64daa976f0352eb39f6000b30b0f8e3/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
