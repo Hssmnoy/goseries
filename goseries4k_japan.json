@@ -3241,5 +3241,56 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Stay Tuned (2019) โป๊ะแตกนิวส์ ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/05/โป๊ะแตกนิวส์.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/de9b4e228a752bbd5c582fa88972328b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bf9aa1610845d46ca1b5df384a72fc1a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ab757226d2f5ceec7c00a2dd939cd52a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/60e57e01d279f8ceef69a2dc0eb9ef31/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/53cb117c56985a8dde5fbea9dafc702c/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
