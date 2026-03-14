@@ -17161,5 +17161,83 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Light Shop (2024) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/12/2-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c714a1e3b2955a4f2c96569e055fa8b4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f120663a630d11b774b8402c49464c3a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d0f3d0b695ded75337eb452e33934dca/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/efaff709c56664582d5dc4600194676a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5dd3a64959225aa99a8cc72622a700c0/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/13961083987e17be52f3affb7c3d521b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1cce1b0ba87dd4d2de9098a9490bfa5a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/37876379a2c377fcae1c565564b6e933/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
