@@ -136777,5 +136777,141 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Pulse (2025) ชีพจรสื่อใจ พากย์ไทย EP1-10 End.",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/03/3-4.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/2bb67264228ff02dfcd90e5fdc3fbe06/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2bb67264228ff02dfcd90e5fdc3fbe06"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d60712c78d2a413789a75a6a667fe094/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d60712c78d2a413789a75a6a667fe094"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/7a29183e3337f034d347f6233cc007f6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7a29183e3337f034d347f6233cc007f6"
+          }
+        ]
+      },
+      {
+        "name": "EP10 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5536d8e34c1172a5e4afd830a0b42085/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5536d8e34c1172a5e4afd830a0b42085"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/82fd017ae9259b5cd69626b54a37f380/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/82fd017ae9259b5cd69626b54a37f380"
+          }
+        ]
+      },
+      {
+        "name": "EP9 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/81a70b0dbc0edd5ba8617db0e096b3ab/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/81a70b0dbc0edd5ba8617db0e096b3ab"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f1da6cb47d83641dcf1079afae0184d1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f1da6cb47d83641dcf1079afae0184d1"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/9c81b8528c4e8ef37588081a6aa0981d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9c81b8528c4e8ef37588081a6aa0981d"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b8a4b8b769e366f2c55171540c01ce51/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b8a4b8b769e366f2c55171540c01ce51"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/fe0b39be199e42fe8b032d399c7585f8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fe0b39be199e42fe8b032d399c7585f8"
+          }
+        ]
+      }
+    ]
   }
 ]
