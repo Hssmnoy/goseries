@@ -36816,5 +36816,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ภารกิจซ่อนเงา THE ASSET (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/10/8522.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/2b338a4da1e229dfddf85e11451200c1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2b338a4da1e229dfddf85e11451200c1"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/59e073fec88786039a71fafce5d9c14e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/59e073fec88786039a71fafce5d9c14e"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b7d1ffddb568ff78bf91544b011274b1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b7d1ffddb568ff78bf91544b011274b1"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a3f2e5a9bc4d916d8cfaec52033f152f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a3f2e5a9bc4d916d8cfaec52033f152f"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a6bb199fa34eef767efb90e80116c384/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a6bb199fa34eef767efb90e80116c384"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/20a48bcbb308de5e6364a08b112d8bfc/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/20a48bcbb308de5e6364a08b112d8bfc"
+          }
+        ]
+      }
+    ]
   }
 ]
