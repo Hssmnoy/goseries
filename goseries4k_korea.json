@@ -112840,5 +112840,119 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Missing: The Other Side (2020)",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/10/missing-the-other-side-2020.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d5989160072e1199458d5b6a9e0bcf1e/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f9bb27e0a0052a564611ce9c546cde4b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e9271bea4f337e6ea36ecc88647ed7c0/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ac03acf385ce05ae9deea66483e2ea3b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9ab9efbbbe88d0dbc2431323c4b8d581/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/db809dfb8d8b43e005536ab59e840f17/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1b13905d6136dcc3db9ddbb990963c19/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c6b12b5d166800c9b5a15817e669621b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP10 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2835e8d1f0929dff3fc5dd68355ba82d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP9 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a24fc1b0a2923ac3ba1a2315d4b8066d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP11 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/30c51d2e341f84045f0f13320fbaa8b2/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP12 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ff6e81b99ba73affcd911ad69e6efbea/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
