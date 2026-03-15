@@ -33706,5 +33706,76 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Vince Staples Show เดอะ วินซ์ สเตเปิลส์ โชว์ ซีซั่น 2 (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/10/636.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/920106dae2fcd143c37421319136cba9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/920106dae2fcd143c37421319136cba9"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f83e998411a4a775c1a7fdfe004e8803/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f83e998411a4a775c1a7fdfe004e8803"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/01a523ee06bc7eb76d48882bd20c265f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/01a523ee06bc7eb76d48882bd20c265f"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/013431113c5429c7f11752ea9fc6cc51/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/013431113c5429c7f11752ea9fc6cc51"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f721c80c8feba550ebf64c15ed1c1f84/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f721c80c8feba550ebf64c15ed1c1f84"
+          }
+        ]
+      }
+    ]
   }
 ]
