@@ -55355,5 +55355,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ญี่ปุ่น Alice in Borderland อลิสในแดนมรณะ ซีซั่น 3 (2025) พากย์ไทย EP1-8 (จบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/09/98.jpg",
+    "episodes": [
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/98922d65cc18a3f4ba945181da472bee/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/98922d65cc18a3f4ba945181da472bee"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f109e67e0bae9aaaf73fb74a964854f4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f109e67e0bae9aaaf73fb74a964854f4"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8769bde325e0d7049ed407d928041781/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8769bde325e0d7049ed407d928041781"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c215ed74c183ced1452bbf585fd8ae3a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c215ed74c183ced1452bbf585fd8ae3a"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/6fc43de60e413af1956ec5f42f960ea4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6fc43de60e413af1956ec5f42f960ea4"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/15bbc3de0cdf289b853d06c2abb4458a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/15bbc3de0cdf289b853d06c2abb4458a"
+          }
+        ]
+      }
+    ]
   }
 ]
