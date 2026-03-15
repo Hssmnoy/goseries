@@ -130894,5 +130894,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ผีดิบคลั่ง บัลลังก์เดือด ภาค1",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/08/10.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5233acc23e850796ef32572e7657e42d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9dab63532f776eae1dec2fcef64f4534/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c56b660b3bc442610157fed8ae175f35/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ebf2c204d65e96884d736fa816cb2020/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/50da575989507f90c55a2303bf02767b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5e44606452bc5796a8970771527d95e1/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
