@@ -20302,5 +20302,50 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Agatha Christie’s Seven Dials ฆาตกรรมปริศนาที่เซเว่นไดอัลส์ (2026) พากย์ไทย G4",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/01/9999.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d6a346bfabff80cf8f2e926e24acd875/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d6a346bfabff80cf8f2e926e24acd875"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d554c88458c7431abeda4e7ac0b407b4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d554c88458c7431abeda4e7ac0b407b4"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/11b42bb66bf7ba7c4fd90ddb68a173dc/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/11b42bb66bf7ba7c4fd90ddb68a173dc"
+          }
+        ]
+      }
+    ]
   }
 ]
