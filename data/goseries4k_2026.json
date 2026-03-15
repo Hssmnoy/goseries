@@ -1495,5 +1495,37 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Phantom Lawyer ทนายสื่อวิญญาณ  (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/03/2.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/0407d3227db682c3ba74b27f7cb3c524/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0407d3227db682c3ba74b27f7cb3c524"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/818b88fad0c858695ee1db5a4ccf3bc9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/818b88fad0c858695ee1db5a4ccf3bc9"
+          }
+        ]
+      }
+    ]
   }
 ]
