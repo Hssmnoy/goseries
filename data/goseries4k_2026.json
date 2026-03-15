@@ -2384,5 +2384,102 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Love Phobia เอไอไขรัก (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-5.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5b92d76e1de7479347faf4d8411e80e7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5b92d76e1de7479347faf4d8411e80e7"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a2870cfc4d46760b260ac40e905ad7d7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a2870cfc4d46760b260ac40e905ad7d7"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b14226871065857ca304695f160632e4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b14226871065857ca304695f160632e4"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a5be1a05ffabe989fffb51825847a0b9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a5be1a05ffabe989fffb51825847a0b9"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/094b9c1946b273437ca54ffd8401921e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/094b9c1946b273437ca54ffd8401921e"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5b7c5c02e145924848bbc1d92c3ef2a8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5b7c5c02e145924848bbc1d92c3ef2a8"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5542ab58b6a383f7d07b8ef1637530d0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5542ab58b6a383f7d07b8ef1637530d0"
+          }
+        ]
+      }
+    ]
   }
 ]
