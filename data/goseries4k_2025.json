@@ -136161,5 +136161,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Karma (2025) อุบัติกรรม พากย์ไทย EP1-6 End.",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/04/2-2.jpg",
+    "episodes": [
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/06b15ee465424ca5bf9ed09ca3848e09/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/06b15ee465424ca5bf9ed09ca3848e09"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/77cc8425fdafed5dbf08f5bc6affc013/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/77cc8425fdafed5dbf08f5bc6affc013"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/2b6259a039bc084344cdf83a3a8d5b34/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2b6259a039bc084344cdf83a3a8d5b34"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d59ab767599e4aa544f40ba5cc04f3cc/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d59ab767599e4aa544f40ba5cc04f3cc"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/920eb57c4caad7ab8b5257d4d8db30ac/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/920eb57c4caad7ab8b5257d4d8db30ac"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/53aaacfb32f8d1b04af1b359bae46b5b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/53aaacfb32f8d1b04af1b359bae46b5b"
+          }
+        ]
+      }
+    ]
   }
 ]
