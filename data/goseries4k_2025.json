@@ -66431,5 +66431,63 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Upload season 4 (อัปโหลด ซีซั่น 4) 2025 ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/08/1524.gif",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b1636c21256f56a8a640c88ef0b77b7f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b1636c21256f56a8a640c88ef0b77b7f"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c17540e426915531538a052d5894d033/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c17540e426915531538a052d5894d033"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/73ef23949a0b8bf3e021a8b23203ed5c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/73ef23949a0b8bf3e021a8b23203ed5c"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/79e9a5fb27be2ca7a94bd346b781bbc1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/79e9a5fb27be2ca7a94bd346b781bbc1"
+          }
+        ]
+      }
+    ]
   }
 ]
