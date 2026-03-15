@@ -71914,5 +71914,63 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Love’s Rebellion (2024) เทพบุตรจุติมารัก ซับไทย EP1-36 (จบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/08/เทพบุตรจุติมาต.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/dce31fa93314462c6b8318d562a44812/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/dce31fa93314462c6b8318d562a44812"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/01881ced8a05101978c15333eeb5162a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/01881ced8a05101978c15333eeb5162a"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7cc02be60282b2c027226555c02f6141/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7cc02be60282b2c027226555c02f6141"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/de6a306ce393729474269309673d633f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/de6a306ce393729474269309673d633f"
+          }
+        ]
+      }
+    ]
   }
 ]
