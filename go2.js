@@ -12,7 +12,7 @@ const DOMAIN="https://goseries4k.com"
 
 const DATA_DIR="data"
 if(!fs.existsSync(DATA_DIR)){
-fs.mkdirSync(DATA_DIR)
+fs.mkdirSync(DATA_DIR,{recursive:true})
 }
 const TEST_MODE = false
 
@@ -54,7 +54,7 @@ try{
 execSync('git config --global user.name "github-actions"')
 execSync('git config --global user.email "actions@github.com"')
 
-execSync("git add *.json *.m3u progress.json")
+execSync("git add data/*.json data/*.m3u data/progress.json")
 
 execSync('git commit -m "crawler progress"')
 
