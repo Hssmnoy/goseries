@@ -78174,5 +78174,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Legend of Heroes มังกรหยก 2025",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/07/2-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/3f1a54cfeb79806f58f49a0687b5d6b7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3f1a54cfeb79806f58f49a0687b5d6b7"
+          }
+        ]
+      },
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/3f06df2e610efb6e0f40227efa31312a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3f06df2e610efb6e0f40227efa31312a"
+          }
+        ]
+      },
+      {
+        "name": "EP5",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/2848d47d2ee6d61a96567a6412127d67/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2848d47d2ee6d61a96567a6412127d67"
+          }
+        ]
+      },
+      {
+        "name": "EP4",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/7a423418f32d1d57cdbdfbea27e09488/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7a423418f32d1d57cdbdfbea27e09488"
+          }
+        ]
+      },
+      {
+        "name": "EP3",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/db358333b1f3c0f0bb41d786bad26dbd/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/db358333b1f3c0f0bb41d786bad26dbd"
+          }
+        ]
+      },
+      {
+        "name": "EP8",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/42dc41959e308e77ca42f672e267fa79/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/42dc41959e308e77ca42f672e267fa79"
+          }
+        ]
+      },
+      {
+        "name": "EP7",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8390803591ca552dc6f90cb06aefe0c4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8390803591ca552dc6f90cb06aefe0c4"
+          }
+        ]
+      },
+      {
+        "name": "EP6",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/faf35a08d147a56f8a289d22533a75a5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/faf35a08d147a56f8a289d22533a75a5"
+          }
+        ]
+      }
+    ]
   }
 ]
