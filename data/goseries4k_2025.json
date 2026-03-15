@@ -88649,5 +88649,102 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ซีรี่ย์ ดับแค้นไร้ปรานี Mercy For None (2025)",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/05/33333333.jpg",
+    "episodes": [
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/283351d3bb370c6cdb632521906f6c46/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/283351d3bb370c6cdb632521906f6c46"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ad6d6a1616a61b02ee7fc4a8ac4957fb/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ad6d6a1616a61b02ee7fc4a8ac4957fb"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c1bebc32a46777d30b9d8574f84e3a84/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c1bebc32a46777d30b9d8574f84e3a84"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e42d811c52d70b19298822a9f9d480f6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e42d811c52d70b19298822a9f9d480f6"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5a611346ed51e2f6a1e8a73e7f553306/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5a611346ed51e2f6a1e8a73e7f553306"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/79b953090c5c206aa7da7c3aecd6af2e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/79b953090c5c206aa7da7c3aecd6af2e"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/942ace3c49b9172d5e4471b56b094a6f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/942ace3c49b9172d5e4471b56b094a6f"
+          }
+        ]
+      }
+    ]
   }
 ]
