@@ -116728,5 +116728,119 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Cursed",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/08/25254.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/798da467a8f8473069432deed9bb7e68/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b05d1ce4744e61bb5851653d542b1049/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/84e5b07b8abaf2876068d351927ddb17/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/510b3f971dde00316a3a867c67dd7d2c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/922e8011173bd81ac717a809b8e134d6/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b72aa782f89998db00edc0779dd88144/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6cbeddb948a167d57368f69d84e9554b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4dda4e67ea8de6b02f63f1778b0bfa1c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP9 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f0481d6c27a5e61afc92f48c06a714a8/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP12 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a7ac0c8ef1d6df80477a109e9fbdf498/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP11 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a72b5493836a1aac74d293e2b6c6200c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP10 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/79ae72f4299eece436959e5e8d20ecf7/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
