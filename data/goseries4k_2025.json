@@ -55245,5 +55245,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "House of Guinness (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/09/888888.jpg",
+    "episodes": [
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/42e7ba168bc300a012825e1d527ba18f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/42e7ba168bc300a012825e1d527ba18f"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/81c42f4bb60d4dfa31496a1b1676b267/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/81c42f4bb60d4dfa31496a1b1676b267"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/da25246ed460843e58ded3f473c97d04/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/da25246ed460843e58ded3f473c97d04"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b52364d1516f1487a35d6c2be9e95d78/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b52364d1516f1487a35d6c2be9e95d78"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/4f559c4730006c802b44fd6d5947b874/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4f559c4730006c802b44fd6d5947b874"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/adb6511416be7e9c0955a4a8b9145e4a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/adb6511416be7e9c0955a4a8b9145e4a"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d1845cf44cc45eff8245c30322bd8fe2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d1845cf44cc45eff8245c30322bd8fe2"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/093934e73627d07e72046f9774e3dfc9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/093934e73627d07e72046f9774e3dfc9"
+          }
+        ]
+      }
+    ]
   }
 ]
