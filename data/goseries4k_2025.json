@@ -123870,5 +123870,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Eternaut นักท่องเวลาแห่งนิรันดร์ (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/04/2-10.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/3d3efe3fc29cbc4a3e430a940bb9863e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3d3efe3fc29cbc4a3e430a940bb9863e"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/4fae931b530df68af0ce5b7853c7e812/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4fae931b530df68af0ce5b7853c7e812"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e3afadfdab782a44c710410afac2f8cd/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e3afadfdab782a44c710410afac2f8cd"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8e86c6db8194fcf16faa4535eac4ebdb/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8e86c6db8194fcf16faa4535eac4ebdb"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a24fbaf5a7a81b5b0cf40f877a4fbddd/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a24fbaf5a7a81b5b0cf40f877a4fbddd"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ba587b3bf9d91a54454a05973d60b383/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ba587b3bf9d91a54454a05973d60b383"
+          }
+        ]
+      }
+    ]
   }
 ]
