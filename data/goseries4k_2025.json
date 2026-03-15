@@ -105420,5 +105420,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ซีรี่ย์ THE SURVIVORS เหยื่อพายุมืด (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/06/2222222.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/709e28dd1847b77019569a3f45004ff5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/709e28dd1847b77019569a3f45004ff5"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/21023f6a0d1a86e3aa29028e4a72d733/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/21023f6a0d1a86e3aa29028e4a72d733"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5cbea75d9ebdfef98e42762fa110171b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5cbea75d9ebdfef98e42762fa110171b"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/70bc3fe4869ebc6fddd58d1c91d94c77/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/70bc3fe4869ebc6fddd58d1c91d94c77"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/df175191931778937f98721a2ba3f87b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/df175191931778937f98721a2ba3f87b"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a62196e0cfcef4ca6cc4b394b99d88a0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a62196e0cfcef4ca6cc4b394b99d88a0"
+          }
+        ]
+      }
+    ]
   }
 ]
