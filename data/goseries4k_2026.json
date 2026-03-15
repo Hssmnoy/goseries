@@ -8995,5 +8995,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "A Knight of the Seven Kingdoms อัศวินแห่งเจ็ดราชอาณาจักร (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/01/4-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/3e66e37d9178415e94957d398589a7ce/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3e66e37d9178415e94957d398589a7ce"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/fef67a0aff4a2fbf7f7c8b82147dd52d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fef67a0aff4a2fbf7f7c8b82147dd52d"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f7a808d65a8941029b924b498b021a0c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f7a808d65a8941029b924b498b021a0c"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/db293bb04b2e02b7e2909d3851876d28/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/db293bb04b2e02b7e2909d3851876d28"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f9e7338b645b6b0d34c609e1f2e2946a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f9e7338b645b6b0d34c609e1f2e2946a"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/97661b925c714fdb6ea054afae47176e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/97661b925c714fdb6ea054afae47176e"
+          }
+        ]
+      }
+    ]
   }
 ]
