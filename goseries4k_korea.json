@@ -116248,5 +116248,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ผีดิบคลั่ง บัลลังก์เดือด ภาค2",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/08/14-2.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ea806a518bf8341131fb7de92731494d/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b0e2f7494cf9ba05b868905db838f5bc/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ea01183bcd688301c0c65d6961fb78ce/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d6aa85ab8981ac655d624798ff700c6c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/515abd439c2df702963d00a342f6a573/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4aeb29c47707b9d45c54beabe593381a/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
