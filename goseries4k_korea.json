@@ -116458,5 +116458,47 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Life ~ Love On The Line",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/08/4-1.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d566e16932dfbb32063287909b5367d7/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0f01331286d5e4b3f372888b7720b223/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/639ddeb9609bf70c94af2a2797225b60/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f7d15ab66927bc7a4163316ac791f4c9/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
