@@ -130402,5 +130402,83 @@
         ]
       }
     ]
+  },
+  {
+    "title": "วุ่นนัก รักแรก ภาค 2",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/08/14.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fe96986bd1b5caa2e0db55d0ec1f0fba/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/59a7d7795fdc2a7958d601459e270d90/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f85683c55f51082886e682a2f4b355d6/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8c639db72f904edcbcd8857ddb35f97a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7983949ecc98de9241200517baacd63a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6b4cbbc6a091449ecb3331cc9bab7cb0/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2b19a81ba83f3c0ed2f30d7e81b50c4c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/dd586b6a2c9ee244974a19c2cdacb70a/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
