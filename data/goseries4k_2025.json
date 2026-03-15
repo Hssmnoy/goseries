@@ -109340,5 +109340,102 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ซีรี่ย์ไทย สงคราม ส่งด่วน Mad Unicorn ( 2025 )",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/05/3333.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d1b5e6a708eb7be501c9ad6371660826/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d1b5e6a708eb7be501c9ad6371660826"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5b00aaeb4255fa0d3842130a199800c8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5b00aaeb4255fa0d3842130a199800c8"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/00eb1e65d3d20b8444e8e3efc639cb6d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/00eb1e65d3d20b8444e8e3efc639cb6d"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c17fcf01f637def924f0745dc9913c16/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c17fcf01f637def924f0745dc9913c16"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c5d4d774576349e5362d9df48070f287/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c5d4d774576349e5362d9df48070f287"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f0df66b03870f6ed918612829a1bbad9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f0df66b03870f6ed918612829a1bbad9"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f570d2a22d0d13003ece1c4115f52ebf/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f570d2a22d0d13003ece1c4115f52ebf"
+          }
+        ]
+      }
+    ]
   }
 ]
