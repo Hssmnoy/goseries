@@ -82729,5 +82729,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "UNTAMED ปมในในป่าลึก (2025) พากย์ไทย เต็มเรื่อง",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/07/1-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/7ea32446a901cd20785ff45d30e20e53/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7ea32446a901cd20785ff45d30e20e53"
+          }
+        ]
+      },
+      {
+        "name": "EP5",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d3fefb9d5943c9781148a48b3fa819ea/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d3fefb9d5943c9781148a48b3fa819ea"
+          }
+        ]
+      },
+      {
+        "name": "EP6",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e49af0645ecffa2bc67b67b0ac298407/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e49af0645ecffa2bc67b67b0ac298407"
+          }
+        ]
+      },
+      {
+        "name": "EP3",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5e746ce01de57c5d445a4e3bc2d5a318/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5e746ce01de57c5d445a4e3bc2d5a318"
+          }
+        ]
+      },
+      {
+        "name": "EP4",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a036eb0da4d0703a54c1923a0ad51e89/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a036eb0da4d0703a54c1923a0ad51e89"
+          }
+        ]
+      },
+      {
+        "name": "EP2",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/9953c87efb5910a4d7ef683987a4dde8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9953c87efb5910a4d7ef683987a4dde8"
+          }
+        ]
+      }
+    ]
   }
 ]
