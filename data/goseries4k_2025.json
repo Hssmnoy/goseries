@@ -112092,5 +112092,102 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Last of Us เดอะลาสต์ออฟอัส ซีซั่น 2 (2025) พากย์ไทย EP1-7 End.",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/04/2-6.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/cbb05aebea844a3fd929d6657e0170d0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/cbb05aebea844a3fd929d6657e0170d0"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ef9895b340432ff8835f1b4f9f30d8b3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ef9895b340432ff8835f1b4f9f30d8b3"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d41b59f2f60a4ab6e4392fc7a8e46b4c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d41b59f2f60a4ab6e4392fc7a8e46b4c"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/7e2485283ec6082f850bc3d3a0117c84/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7e2485283ec6082f850bc3d3a0117c84"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/442f40eb4c27f7dea07157c22cacfcc7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/442f40eb4c27f7dea07157c22cacfcc7"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e94a67384c49f5ffe9e0cf71a99d48b0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e94a67384c49f5ffe9e0cf71a99d48b0"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c66e180c23691bddb044d1737d13ed87/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c66e180c23691bddb044d1737d13ed87"
+          }
+        ]
+      }
+    ]
   }
 ]
