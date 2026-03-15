@@ -101809,5 +101809,65 @@
         ]
       }
     ]
+  },
+  {
+    "title": "D.P. หน่วยล่าทหารหนีทัพ",
+    "image": "https://goseries4k.com/wp-content/uploads/2021/08/D-P-หน่วยล่าทหารหนีทัพ.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/43bf2556c6cd33f1c958feabc3353d48/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/abcbc115d24adfbc59aefcefcfbfc0d8/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/20e6704a20a6f9503dc05439538db7c5/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/97c66a83811d249552d50f919442cdef/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c41f2b8a1eb81dee8cbe212fba7e7ad3/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/208152b9fd0e56ca6888b6431d72e598/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
