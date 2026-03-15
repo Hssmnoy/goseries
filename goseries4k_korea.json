@@ -117187,5 +117187,101 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Pop Out Boy! (2020)",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/08/Pop-Out-Boy-2020.png",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4c348be325cfa213709257b7aded9409/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/83957c33b5009d71f545b6b7fca7121b/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/26c1c0d63e69b0ca4ab417e9f429ae5f/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a4b7cdb4eabd3c32c3e26bfe8d056c6c/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2ea6ce255290e0afc9159d59165d52f0/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a047b08a91c9a71841ea8f1d488354af/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5ede58f0e46efdcde8308279916a494a/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/cfd4a2658445168fc7bb43f5eebd75c5/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP9 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c5b8fb9109670bc754a80c57b96a4da4/master.txt"
+          }
+        ]
+      },
+      {
+        "name": "EP10 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b6e9c95276f50ec67131d8fab01ae0c7/master.txt"
+          }
+        ]
+      }
+    ]
   }
 ]
