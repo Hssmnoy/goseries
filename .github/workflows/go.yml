@@ -1,4 +1,4 @@
-name: goseries
+name: goseries1
 
 on:
   workflow_dispatch:
