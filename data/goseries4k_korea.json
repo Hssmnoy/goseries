@@ -80933,5 +80933,63 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Fanletter, Please (2022) ซับไทย Ep.1-4 (จบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/11/Fanletter-Please.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b7dbd3de328cfd2158c5ecbfe40e0f1c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b7dbd3de328cfd2158c5ecbfe40e0f1c"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/eef059499c0e89aa6dcc97691f0d1ea3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/eef059499c0e89aa6dcc97691f0d1ea3"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f12d3fe4020fcaa61591dbf688da4bae/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f12d3fe4020fcaa61591dbf688da4bae"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/81fbfc0eba6bad66cd59d4d2c13f8d90/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/81fbfc0eba6bad66cd59d4d2c13f8d90"
+          }
+        ]
+      }
+    ]
   }
 ]
