@@ -1162,5 +1162,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "His & Hers สองฟากของความจริง (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/01/999.jpg",
+    "episodes": [
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/af6b95ba3d617e3e6dac9852251c7b3f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/af6b95ba3d617e3e6dac9852251c7b3f"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/784a189bf72d5e8480bb7a34389a7259/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/784a189bf72d5e8480bb7a34389a7259"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b22a8299a43db09283585436baa84b5c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b22a8299a43db09283585436baa84b5c"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a93cf5be1d62dbcb26822a73b3a8025b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a93cf5be1d62dbcb26822a73b3a8025b"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8976dc511d73626c5b929fd14f825a8c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8976dc511d73626c5b929fd14f825a8c"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/98be570784e09f9c1ef52b692fe91dcb/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/98be570784e09f9c1ef52b692fe91dcb"
+          }
+        ]
+      }
+    ]
   }
 ]
