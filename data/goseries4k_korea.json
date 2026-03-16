@@ -68671,5 +68671,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Island Part 2 (2023) เกาะปีศาจ พาร์ท 2 ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/02/Island-Part-2.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2170e59df2d45d287cd0b1cc916e2abe/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2170e59df2d45d287cd0b1cc916e2abe"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ebc8fd2263327bc1e0a2625c43af6dae/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ebc8fd2263327bc1e0a2625c43af6dae"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/58f800ab8ea18a848d97e7fd1fe15d30/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/58f800ab8ea18a848d97e7fd1fe15d30"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fb62aa3f717fb2db22349c38982c0d85/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fb62aa3f717fb2db22349c38982c0d85"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e80ba3864efb5d34b6623899c384b866/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e80ba3864efb5d34b6623899c384b866"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/694ffcf67ecc175f2725b6d47820ac6c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/694ffcf67ecc175f2725b6d47820ac6c"
+          }
+        ]
+      }
+    ]
   }
 ]
