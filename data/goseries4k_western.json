@@ -5718,5 +5718,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "FUBAR ซีซั่น 2 (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/06/25252525.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/31c9390b232576532fac15ccfa27be58/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/31c9390b232576532fac15ccfa27be58"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d1d0f2be36fdcfe8bc2cd152b0199ae5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d1d0f2be36fdcfe8bc2cd152b0199ae5"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/7b820f64e4a1b474b8701a6a8a2881a8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7b820f64e4a1b474b8701a6a8a2881a8"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d48afedd3dd75eb1a0008164409e5a95/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d48afedd3dd75eb1a0008164409e5a95"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/25a07314aaf3fa4778bc0b0eaf7fe54f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/25a07314aaf3fa4778bc0b0eaf7fe54f"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/06b2431fc9fea9ba4b00eef510c8b7ed/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/06b2431fc9fea9ba4b00eef510c8b7ed"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/83ae73559e3b3280acd73f6fe295e7a6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/83ae73559e3b3280acd73f6fe295e7a6"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ecc9974b0941242a7fc06fe1ea8f0989/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ecc9974b0941242a7fc06fe1ea8f0989"
+          }
+        ]
+      }
+    ]
   }
 ]
