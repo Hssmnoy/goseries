@@ -120789,5 +120789,63 @@
         ]
       }
     ]
+  },
+  {
+    "title": "MiMi (2014) ปฏิทินรักแรกพบ Ep.1-4 (จบ) | พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/01/mimi.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/69e172e91ecbd970afa890932bc0847f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/69e172e91ecbd970afa890932bc0847f"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b1a314b1e9cbec79753199c4b86648c2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b1a314b1e9cbec79753199c4b86648c2"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8e4df3694feea9e47cfcd3c8d6e3b9d6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8e4df3694feea9e47cfcd3c8d6e3b9d6"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3a8568b09fe369979651c53ad679d19f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3a8568b09fe369979651c53ad679d19f"
+          }
+        ]
+      }
+    ]
   }
 ]
