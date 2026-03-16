@@ -142260,5 +142260,141 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Peach of Time (2021)",
+    "image": "https://goseries4k.com/wp-content/uploads/2021/08/Peach-of-Time.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/af42abd5dbcae2360eb477470d4d0b4a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/af42abd5dbcae2360eb477470d4d0b4a"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/11b55cb2cf7d997e515e68fa927e4ba6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/11b55cb2cf7d997e515e68fa927e4ba6"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c2ab2143856a3b3ac229a2ac1fa41c30/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c2ab2143856a3b3ac229a2ac1fa41c30"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f243b469d5bf6e5799c9b2b72db99bb1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f243b469d5bf6e5799c9b2b72db99bb1"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/26a4fec46c303b2487244bed3b656de4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/26a4fec46c303b2487244bed3b656de4"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1da96e459d81d45e2bb36eb70b440f50/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1da96e459d81d45e2bb36eb70b440f50"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9a3c71efa24584fdfaeb677fbcdabfb7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9a3c71efa24584fdfaeb677fbcdabfb7"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/399cfe9511f4442a7f8eaf68c3ae9b24/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/399cfe9511f4442a7f8eaf68c3ae9b24"
+          }
+        ]
+      },
+      {
+        "name": "EP9 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0e7241db047099329fe5b9081c546464/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0e7241db047099329fe5b9081c546464"
+          }
+        ]
+      },
+      {
+        "name": "EP10 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f72d8f9c1e9de347ff6f76061298d7ba/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f72d8f9c1e9de347ff6f76061298d7ba"
+          }
+        ]
+      }
+    ]
   }
 ]
