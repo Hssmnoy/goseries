@@ -53348,5 +53348,102 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Mask Girl (2023) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/08/Mask-Girl-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/969dda6aeb9729d5fc8e64071d188ca2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/969dda6aeb9729d5fc8e64071d188ca2"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5037d2c0c6a545f9dfdc2651d3bf890d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5037d2c0c6a545f9dfdc2651d3bf890d"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3326bcb8e194ff6baa4c268ce6a0d1d6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3326bcb8e194ff6baa4c268ce6a0d1d6"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8934dd0b364c4e151d5f2f53fbb60b86/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8934dd0b364c4e151d5f2f53fbb60b86"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c9ec97c1ee51ea880464f2a4391353d9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c9ec97c1ee51ea880464f2a4391353d9"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/702534cf2f4ce82fb3b3e143c5b69c36/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/702534cf2f4ce82fb3b3e143c5b69c36"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/884f638e3889ea753536412e5f3315ce/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/884f638e3889ea753536412e5f3315ce"
+          }
+        ]
+      }
+    ]
   }
 ]
