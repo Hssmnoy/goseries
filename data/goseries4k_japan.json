@@ -4335,5 +4335,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Days (2023) วันวิบัติ พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/06/วันวิบัติ.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2fc1876848ad93adc107298fdb680cd4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2fc1876848ad93adc107298fdb680cd4"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/dcf7efb4ce3375eea4c99aa71c05ceb2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/dcf7efb4ce3375eea4c99aa71c05ceb2"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/686f3804f881900a23de711b1aca96f0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/686f3804f881900a23de711b1aca96f0"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/426f25e9cef4de57b5dc52aead41da51/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/426f25e9cef4de57b5dc52aead41da51"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a2eae4b1aeac5632f89154591c40830c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a2eae4b1aeac5632f89154591c40830c"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4b0d3e1dbe912baa2ed8659acc7f7d3e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4b0d3e1dbe912baa2ed8659acc7f7d3e"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/915cd622feb6a4de071f6625574283af/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/915cd622feb6a4de071f6625574283af"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f450de5ce3f146cbbfc531e187669d06/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f450de5ce3f146cbbfc531e187669d06"
+          }
+        ]
+      }
+    ]
   }
 ]
