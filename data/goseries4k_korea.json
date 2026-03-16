@@ -140162,5 +140162,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Mr.Heart",
+    "image": "https://goseries4k.com/wp-content/uploads/2020/10/Mr._Heart.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/81a076e51d0b73b9bb8d3784279cb878/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/81a076e51d0b73b9bb8d3784279cb878"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5451e861d473aa1e4394645cb0997db1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5451e861d473aa1e4394645cb0997db1"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ae721bf5622e8a4ab14aa8be2a260a97/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ae721bf5622e8a4ab14aa8be2a260a97"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3698470b87bf867baa633bf49618e961/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3698470b87bf867baa633bf49618e961"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/abdf1472a208e6ea421159437b5f1616/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/abdf1472a208e6ea421159437b5f1616"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a8048cfeb4a3e4367274398983216cca/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a8048cfeb4a3e4367274398983216cca"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a918404d57bd8b6743cd94e100987a58/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a918404d57bd8b6743cd94e100987a58"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5afa9587c6db863d5879a72928d543a0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5afa9587c6db863d5879a72928d543a0"
+          }
+        ]
+      }
+    ]
   }
 ]
