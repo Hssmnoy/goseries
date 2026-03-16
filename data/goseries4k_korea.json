@@ -50749,5 +50749,128 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Song of the Bandits (2023) ลำนำคนโฉด พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/09/Song-of-the-Bandits.webp",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4e616d933d5e4e99bd371ffe79d40251/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4e616d933d5e4e99bd371ffe79d40251"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e0892f0691b5b723a38eca850a6d8aae/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e0892f0691b5b723a38eca850a6d8aae"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/283a69f23a6e2b9e8e87fbccd0ed39a3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/283a69f23a6e2b9e8e87fbccd0ed39a3"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/323016f2aecc25385858e401f6387497/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/323016f2aecc25385858e401f6387497"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/da9da0e7780113e9b9c6d65b22c443fe/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/da9da0e7780113e9b9c6d65b22c443fe"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a9fac1236a575266ef39c459c5e5235e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a9fac1236a575266ef39c459c5e5235e"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8c241d7c5ced24069d31df352312dd80/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8c241d7c5ced24069d31df352312dd80"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/82b22a854ac0ab25c3840dcccf84177b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/82b22a854ac0ab25c3840dcccf84177b"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/21a8a5f48d6b868d380b02e7efd12be6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/21a8a5f48d6b868d380b02e7efd12be6"
+          }
+        ]
+      }
+    ]
   }
 ]
