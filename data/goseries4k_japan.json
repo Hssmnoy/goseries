@@ -4652,5 +4652,141 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Get Ready (2023) ทีมหมอเถื่อน ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/05/ทีมหมอเถื่อน.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d5f4146013a30ca37ca5c6e4a1cfa00a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d5f4146013a30ca37ca5c6e4a1cfa00a"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a3111df002ded59b3a0fcdd1afb6936e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a3111df002ded59b3a0fcdd1afb6936e"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7fac78b99f7fa5f5571df9d2f81cb8d8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7fac78b99f7fa5f5571df9d2f81cb8d8"
+          }
+        ]
+      },
+      {
+        "name": "EP9 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/04a00f7f13290b4b21183609e4f247c3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/04a00f7f13290b4b21183609e4f247c3"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6de983bc39b5195ee920c26bbbda4c56/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6de983bc39b5195ee920c26bbbda4c56"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d6bcbfcb52be6dff31bff2af68cfe7ef/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d6bcbfcb52be6dff31bff2af68cfe7ef"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/06d9c3d3fd410e9b26d95b381cdefc43/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/06d9c3d3fd410e9b26d95b381cdefc43"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/14290bb32a1766dd88ed31b0af750e99/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/14290bb32a1766dd88ed31b0af750e99"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/475623d959a4121892da5d9e591d0cee/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/475623d959a4121892da5d9e591d0cee"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f2aefe222d9ee69005ab86e792db0163/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f2aefe222d9ee69005ab86e792db0163"
+          }
+        ]
+      }
+    ]
   }
 ]
