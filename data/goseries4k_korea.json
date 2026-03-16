@@ -59272,5 +59272,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Twenty Hacker (2021) ฮีโร่ไซเบอร์แฮกเกอร์วัยแสบ พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/06/ฮีโร่ไซเบอร์แฮกเกอร์วัยแสบ.webp",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fdbbf053c5c8de11645bd4526c313828/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fdbbf053c5c8de11645bd4526c313828"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/da9e3ec537a8273467c0ef167c6d2552/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/da9e3ec537a8273467c0ef167c6d2552"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9e0ce0b645b70eb2bd6a229d512d6710/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9e0ce0b645b70eb2bd6a229d512d6710"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/193130b7fc29382f22288261d2faa5a4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/193130b7fc29382f22288261d2faa5a4"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/52e097584c004597bdeaf5cb4b4a1981/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/52e097584c004597bdeaf5cb4b4a1981"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ac606bd07ccddda0af5e9cd9a7e64841/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ac606bd07ccddda0af5e9cd9a7e64841"
+          }
+        ]
+      }
+    ]
   }
 ]
