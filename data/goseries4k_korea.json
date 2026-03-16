@@ -80168,5 +80168,128 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Choco Milk Shake (2022) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/12/Choco-Milk-Shake.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4bae790b013c3c66b0d74bc868b0ccef/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4bae790b013c3c66b0d74bc868b0ccef"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/81d4ec2f2ae4eeb3396a488915ed6150/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/81d4ec2f2ae4eeb3396a488915ed6150"
+          }
+        ]
+      },
+      {
+        "name": "EP9 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f92ef3ae9f86fe30c726b3e35b6ac0f5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f92ef3ae9f86fe30c726b3e35b6ac0f5"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/021ad2a00e8a049e8105da3626305b81/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/021ad2a00e8a049e8105da3626305b81"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/55a0d2b52dfcf28c4acf8bdede52fdc3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/55a0d2b52dfcf28c4acf8bdede52fdc3"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bf3eb006bd52850e85032c6f2c5bd8b7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/bf3eb006bd52850e85032c6f2c5bd8b7"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c0dc102e0359bae798ecb51ca77b5aec/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c0dc102e0359bae798ecb51ca77b5aec"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/15b72a16f43ca8c9eec0784bc3b2f6e8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/15b72a16f43ca8c9eec0784bc3b2f6e8"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/65b7e991e7bd374083e5dcd84ff77a24/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/65b7e991e7bd374083e5dcd84ff77a24"
+          }
+        ]
+      }
+    ]
   }
 ]
