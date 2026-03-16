@@ -4817,5 +4817,154 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ดูอนิเมะได้ก่อนใคร เซียนจอมเวทเต็มพิกัด ซีซัน1 (2016) ซัยไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/08/12-1.gif",
+    "episodes": [
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/03d5f811787f24f8ddd9e737b2b4a632/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/03d5f811787f24f8ddd9e737b2b4a632"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/43fc0b1e02debe9ca7b3bce1f2d29e27/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/43fc0b1e02debe9ca7b3bce1f2d29e27"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d5cb65c3a41f6bd918be8b3b43436781/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d5cb65c3a41f6bd918be8b3b43436781"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c01b86b5c3e628ac2411b4f82846bb13/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c01b86b5c3e628ac2411b4f82846bb13"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/1183c219cbd98d8e4ae71e755f984bb9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1183c219cbd98d8e4ae71e755f984bb9"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/1833932dd27f8eda54cb633d8ee6f146/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1833932dd27f8eda54cb633d8ee6f146"
+          }
+        ]
+      },
+      {
+        "name": "EP9 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ad22f127d162a0658778a6ee95ed586a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ad22f127d162a0658778a6ee95ed586a"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/fa602e50a671b943153c4abf054b9528/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fa602e50a671b943153c4abf054b9528"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/3e5a062290225e68223f62c57ef767a4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3e5a062290225e68223f62c57ef767a4"
+          }
+        ]
+      },
+      {
+        "name": "EP11 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/cf463e2c66f7a069b5e4e1632d84d354/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/cf463e2c66f7a069b5e4e1632d84d354"
+          }
+        ]
+      },
+      {
+        "name": "EP10 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e831ca968b19296f37141895acb19ba7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e831ca968b19296f37141895acb19ba7"
+          }
+        ]
+      }
+    ]
   }
 ]
