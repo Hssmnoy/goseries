@@ -7572,5 +7572,128 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Followers (2020) พากย์ไทย | Episodes 09 (ตอนจบ) Ep 1-9 (ตอนจบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/03/Followers1.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ff56658becb1b8c4b0689e5c62c60ac9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ff56658becb1b8c4b0689e5c62c60ac9"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/27051c56d5dff6c17b13138d95cdc4db/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/27051c56d5dff6c17b13138d95cdc4db"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4ad6ffb62d0eeeea71eb4419c3c309be/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4ad6ffb62d0eeeea71eb4419c3c309be"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fcfd26e48f690fe5cafac03d2946f768/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fcfd26e48f690fe5cafac03d2946f768"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6c8e5ae17ec20098d2297059c791b634/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6c8e5ae17ec20098d2297059c791b634"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/047b2c40ac66d66376128cb67f59a823/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/047b2c40ac66d66376128cb67f59a823"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/300e54387a5ff59811c3c7156908e2a3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/300e54387a5ff59811c3c7156908e2a3"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0b7f19ecf250531b600f586ed76b6400/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0b7f19ecf250531b600f586ed76b6400"
+          }
+        ]
+      },
+      {
+        "name": "EP9 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/347c19499d9a56a4cea9dadfe3c53c51/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/347c19499d9a56a4cea9dadfe3c53c51"
+          }
+        ]
+      }
+    ]
   }
 ]
