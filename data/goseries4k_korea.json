@@ -62557,5 +62557,63 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Black Knight (2023) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/05/Black-Knight.jpg",
+    "episodes": [
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/56015d27f1e885017b312980ed6ef1b3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/56015d27f1e885017b312980ed6ef1b3"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a0b5fc1bdac5d39f96cd2224830e2668/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a0b5fc1bdac5d39f96cd2224830e2668"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/62a69c59ad590238a9c73ee60918e790/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/62a69c59ad590238a9c73ee60918e790"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4602726983f8ac7cb05f29dbcf265f3f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4602726983f8ac7cb05f29dbcf265f3f"
+          }
+        ]
+      }
+    ]
   }
 ]
