@@ -60814,5 +60814,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Phantom School (2022) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/05/Phantom-School.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9ff84df719d8535bd9bcf833b42b9d80/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9ff84df719d8535bd9bcf833b42b9d80"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/683faa883a47bd5ae8a76ffaec286881/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/683faa883a47bd5ae8a76ffaec286881"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5acdbc5473c3d4bb6784a58fd07e1913/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5acdbc5473c3d4bb6784a58fd07e1913"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5b62095ce02a5dc4519c8ce962e1721a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5b62095ce02a5dc4519c8ce962e1721a"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a09c8513e5f4701cb17dcb7641dcddbf/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a09c8513e5f4701cb17dcb7641dcddbf"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6d51629ad7b39db72d9bf57cb9658b5a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6d51629ad7b39db72d9bf57cb9658b5a"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3b51dc4d0742864f2d46ddd65d84ddeb/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3b51dc4d0742864f2d46ddd65d84ddeb"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9824f4559ee0f30c296438d7e30709da/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9824f4559ee0f30c296438d7e30709da"
+          }
+        ]
+      }
+    ]
   }
 ]
