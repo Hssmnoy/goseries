@@ -72586,5 +72586,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Individual Circumstances (2023) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/01/Individual-Circumstances.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f2d48ae624384931ae2018a338c1a534/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f2d48ae624384931ae2018a338c1a534"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d0d081b9ac7ffd4258333fe01640bc59/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d0d081b9ac7ffd4258333fe01640bc59"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3f6b5f556cc3d3c1f3c2c4b60d067539/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3f6b5f556cc3d3c1f3c2c4b60d067539"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/215de036610ca7f16cf91a5932bbee44/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/215de036610ca7f16cf91a5932bbee44"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/79e874436e9a2e59cad4e4aaad5ea4f8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/79e874436e9a2e59cad4e4aaad5ea4f8"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1be5fbd16d2362c61aa4a88c9e5b661a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1be5fbd16d2362c61aa4a88c9e5b661a"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3f45e59db1551c1f0ec656cd09b25103/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3f45e59db1551c1f0ec656cd09b25103"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/cd7f219cc5bfc1824ebc15c97e8563e1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/cd7f219cc5bfc1824ebc15c97e8563e1"
+          }
+        ]
+      }
+    ]
   }
 ]
