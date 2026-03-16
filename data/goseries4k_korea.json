@@ -86365,5 +86365,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Once again 2022 ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/09/once-again.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f6d47e5445408643312bf668db9a5081/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f6d47e5445408643312bf668db9a5081"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/42852f13b8cab656413e9dca6f548076/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/42852f13b8cab656413e9dca6f548076"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2f6fdaa8a4df127cfe4012f39d55da58/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2f6fdaa8a4df127cfe4012f39d55da58"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4c66e496bf2c523e7168f2e1244441d5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4c66e496bf2c523e7168f2e1244441d5"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2ab25bd17fe541decc4f3a3e405e0171/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2ab25bd17fe541decc4f3a3e405e0171"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4e031dc2bf8407083d11a394af2bc54d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4e031dc2bf8407083d11a394af2bc54d"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9a98e04508cdd7d183e6147e16a27a43/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9a98e04508cdd7d183e6147e16a27a43"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/dcaeff8ba92f733772d1607edb59010a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/dcaeff8ba92f733772d1607edb59010a"
+          }
+        ]
+      }
+    ]
   }
 ]
