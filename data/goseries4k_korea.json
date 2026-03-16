@@ -34526,5 +34526,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Blossom Campus (2024) แคมปัสนี้ เบ่งบานในใจ (ซับไทย)",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/05/Blossom-Campus.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6dda485d9f84960d48991627e983cbb4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6dda485d9f84960d48991627e983cbb4"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a12a197746f4d4abc6e4eb674edbf511/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a12a197746f4d4abc6e4eb674edbf511"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b8966db648f1a0dc478c66f0a6b54fa5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b8966db648f1a0dc478c66f0a6b54fa5"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e4efbf11edc193714a9b86f371fdec43/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e4efbf11edc193714a9b86f371fdec43"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e7d90b8643b3d8c50a48413b4cc9f066/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e7d90b8643b3d8c50a48413b4cc9f066"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4e6231076ce0dc6e1dfffaa5cea944b2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4e6231076ce0dc6e1dfffaa5cea944b2"
+          }
+        ]
+      }
+    ]
   }
 ]
