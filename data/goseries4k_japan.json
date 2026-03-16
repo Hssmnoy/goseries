@@ -7145,5 +7145,63 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Is This Love Checkmate!? (2018) หรือว่ารักนี้จะเป็นบาป!? พากย์ไทย Ep 1-4 (ตอนจบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/03/หรือว่ารักนี้จะเป็นบาป.webp",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/466c35ab2ea8e46e91b2679c97cb1234/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/466c35ab2ea8e46e91b2679c97cb1234"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d110684efb678f4588673646092a17e7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d110684efb678f4588673646092a17e7"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bd6f41ef1cc67da23a0dc84345f5d498/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/bd6f41ef1cc67da23a0dc84345f5d498"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f2ef19e8fad42116dde15cfde81fb0fd/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f2ef19e8fad42116dde15cfde81fb0fd"
+          }
+        ]
+      }
+    ]
   }
 ]
