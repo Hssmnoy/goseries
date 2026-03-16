@@ -2328,5 +2328,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Love is Better the Second Time Around (2024) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/03/Love-is-Better-the-Second-Time-Around.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ff682cc1cb47766e387b9efbedb41b25/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ff682cc1cb47766e387b9efbedb41b25"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3143007a6cabb057dfa9c668e9886de8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3143007a6cabb057dfa9c668e9886de8"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/52c167501bc08b8f66624251847ccae0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/52c167501bc08b8f66624251847ccae0"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7fd9686bffe7588bfb672f81ef84d021/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7fd9686bffe7588bfb672f81ef84d021"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6258a8415585ae03d32c2296844c54c7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6258a8415585ae03d32c2296844c54c7"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6222638159b5d9b5fd2cf9c0587a37dc/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6222638159b5d9b5fd2cf9c0587a37dc"
+          }
+        ]
+      }
+    ]
   }
 ]
