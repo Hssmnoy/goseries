@@ -77680,5 +77680,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Fabulous (2022) หรู เริ่ด เชิด โสด ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/12/หรู-เริ่ด-เชิด-โสด.jpg",
+    "episodes": [
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6e2a4e0eea2069f0e6013bccec892dce/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6e2a4e0eea2069f0e6013bccec892dce"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b37e94be10983638bdf75e389fed91e9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b37e94be10983638bdf75e389fed91e9"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/740eed9314812af446bbddd1c25c8b7d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/740eed9314812af446bbddd1c25c8b7d"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fd662b616d05fb04f83ee1b97365fa73/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fd662b616d05fb04f83ee1b97365fa73"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b8302e2707b5081617814188a3954b1e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b8302e2707b5081617814188a3954b1e"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/91b4369853a154764a72f01bdbcf838b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/91b4369853a154764a72f01bdbcf838b"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6d98aaa3fd375cdb712a7d8110ac4007/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6d98aaa3fd375cdb712a7d8110ac4007"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/842ea9204a7ef31abaa84f9d17a932f8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/842ea9204a7ef31abaa84f9d17a932f8"
+          }
+        ]
+      }
+    ]
   }
 ]
