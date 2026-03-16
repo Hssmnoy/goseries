@@ -59544,5 +59544,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Star Struck (2023) มองฟ้าหารัก ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/05/Star-Struck-2023.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d1d305a0c8c6e865133de140d48f487d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d1d305a0c8c6e865133de140d48f487d"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f55f7868046ca5ccbace44e1362f9675/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f55f7868046ca5ccbace44e1362f9675"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0bbf53094da1a5b55d7309bce842aee1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0bbf53094da1a5b55d7309bce842aee1"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/20a7f1a53a935f4943c3cb7a0368c66f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/20a7f1a53a935f4943c3cb7a0368c66f"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/61d4b03cea6d82059f1367e3cde190f1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/61d4b03cea6d82059f1367e3cde190f1"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3b9ad066a399e8c9c7353d70577fcef6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3b9ad066a399e8c9c7353d70577fcef6"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6ad50e9f8120de8b4e0bff132c3c9292/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6ad50e9f8120de8b4e0bff132c3c9292"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ba8d2a5c19ecb3788bc44661aed27b31/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ba8d2a5c19ecb3788bc44661aed27b31"
+          }
+        ]
+      }
+    ]
   }
 ]
