@@ -46743,5 +46743,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Semantic Error (2022) รักนี้ไม่มีตรรกะ พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/11/รักนี้ไม่มีตรรกะ.jpg",
+    "episodes": [
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bdbb1aff98d21944a0cb7b0d1e34239b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/bdbb1aff98d21944a0cb7b0d1e34239b"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1904efbccc7d674f11f6a5edc24f55a9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1904efbccc7d674f11f6a5edc24f55a9"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8fda63d643e7e34e2bd8911eb80b505c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8fda63d643e7e34e2bd8911eb80b505c"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b24d92ae8e2458efd31c284f63deada0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b24d92ae8e2458efd31c284f63deada0"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7bbd08c34e4e0a3bf8bb3eaabde291e4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7bbd08c34e4e0a3bf8bb3eaabde291e4"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e5848702ab159ceb30af5df0491909a1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e5848702ab159ceb30af5df0491909a1"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2acce3121c92a042b69da6f87affe4ee/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2acce3121c92a042b69da6f87affe4ee"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/aede61a9b5a8493d7941d9fd78dc31b0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/aede61a9b5a8493d7941d9fd78dc31b0"
+          }
+        ]
+      }
+    ]
   }
 ]
