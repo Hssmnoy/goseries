@@ -73312,5 +73312,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Big Bet (2022) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/12/Big-Bet.webp",
+    "episodes": [
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4aba03355d8657e74552812efebfff0d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4aba03355d8657e74552812efebfff0d"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0a986d66a6fa35d7c2296f0813979fa6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0a986d66a6fa35d7c2296f0813979fa6"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1df409f874899fbd01a64a24cf3a4cb9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1df409f874899fbd01a64a24cf3a4cb9"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b89e25356e1196fb3f8ce5d4ba6f0f1a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b89e25356e1196fb3f8ce5d4ba6f0f1a"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bf8d134821a30197706f26f89789fe35/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/bf8d134821a30197706f26f89789fe35"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/14983e6e30834819663cb23620970ad8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/14983e6e30834819663cb23620970ad8"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/96b9d775b44e467d43e6de1cd69c4de5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/96b9d775b44e467d43e6de1cd69c4de5"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7e0a713f7174f26e6a4df02cb60c7b11/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7e0a713f7174f26e6a4df02cb60c7b11"
+          }
+        ]
+      }
+    ]
   }
 ]
