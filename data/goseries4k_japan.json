@@ -9048,5 +9048,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Bicycling Mellow Love (2022) ร้านจักรยานของทาคาฮาชิคุง ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/02/Bicycling-Mellow-Love.webp",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ec863231ceb8de8748e91643fc1aeb53/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ec863231ceb8de8748e91643fc1aeb53"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8e051f1c5765e5054f5e7844d68f126b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8e051f1c5765e5054f5e7844d68f126b"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/782a8ae8990b62235ce3b422c7e0f175/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/782a8ae8990b62235ce3b422c7e0f175"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d3f3c782aa2725b9b596b39063c2c775/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d3f3c782aa2725b9b596b39063c2c775"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a49593d46818d0f850bb81a875ed9038/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a49593d46818d0f850bb81a875ed9038"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b2ed1feb0aeb7d6a3538bcfb614a573c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b2ed1feb0aeb7d6a3538bcfb614a573c"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d7dfa76601a4bc98703ce97881edad1d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d7dfa76601a4bc98703ce97881edad1d"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/17a8ecb7e3cfa73d954fc047ba124377/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/17a8ecb7e3cfa73d954fc047ba124377"
+          }
+        ]
+      }
+    ]
   }
 ]
