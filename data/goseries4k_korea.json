@@ -71653,5 +71653,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Decoy (2023) เหยื่อลวง ภาค 1 ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/01/Decoy.webp",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/03932c72429f048f477c934a2e28d27e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/03932c72429f048f477c934a2e28d27e"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/093d9f1332c4ee55c33fb892022d2b1d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/093d9f1332c4ee55c33fb892022d2b1d"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9a0e9d6c0bcadd15238dc2272d23210a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9a0e9d6c0bcadd15238dc2272d23210a"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/63fcc15888e26b659083fcabadb4d5d3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/63fcc15888e26b659083fcabadb4d5d3"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3ec8683e5d5855723952af4d5ffe1795/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3ec8683e5d5855723952af4d5ffe1795"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/44300510ca08b65f0bc33382ed2ea33c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/44300510ca08b65f0bc33382ed2ea33c"
+          }
+        ]
+      }
+    ]
   }
 ]
