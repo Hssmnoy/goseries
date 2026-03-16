@@ -78380,5 +78380,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Connect (2022) พากย์ไทย Ep.1-6 (จบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/12/Connect.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/45666f885582d671713b3d3d0bfe6f81/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/45666f885582d671713b3d3d0bfe6f81"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e4f8664eb2cc9c3ee924570c5d397d72/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e4f8664eb2cc9c3ee924570c5d397d72"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8031fe4ce3ff0e132365c0ab9e82513e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8031fe4ce3ff0e132365c0ab9e82513e"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3552db31b075b1a248873bc3bcc06687/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3552db31b075b1a248873bc3bcc06687"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/16623649fc054bcb612d638d7f00893a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/16623649fc054bcb612d638d7f00893a"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7ab8225de64e0c603664a13703522eb5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7ab8225de64e0c603664a13703522eb5"
+          }
+        ]
+      }
+    ]
   }
 ]
