@@ -4911,5 +4911,102 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Daddy is My Classmate (2020) คุณพ่อร่วมชั้น ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/04/คุณพ่อร่วมชั้น.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8a00b9cf29d18247d56f04d7de14e3f8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8a00b9cf29d18247d56f04d7de14e3f8"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6f673cc825dceb221a2e1b54c6fdf4c5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6f673cc825dceb221a2e1b54c6fdf4c5"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e9a1d122834ada59fe772cc85a7a6df6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e9a1d122834ada59fe772cc85a7a6df6"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/40229cd685a4f601fb9558fa636119d3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/40229cd685a4f601fb9558fa636119d3"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/467bc105528ae73a4e7e39eca46ddabd/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/467bc105528ae73a4e7e39eca46ddabd"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e5abdf8ccec3f1dd277fb6068279fde5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e5abdf8ccec3f1dd277fb6068279fde5"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0304532bb60bdc3861c2bdc0227b0be3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0304532bb60bdc3861c2bdc0227b0be3"
+          }
+        ]
+      }
+    ]
   }
 ]
