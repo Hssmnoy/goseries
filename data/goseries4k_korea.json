@@ -90594,5 +90594,219 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Awaken (2020)",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/08/Awaken-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/63d2cfd4703616d273c0a9f9b6872f7f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/63d2cfd4703616d273c0a9f9b6872f7f"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a92a0cc4783197ad1fd59a8c6afbddab/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a92a0cc4783197ad1fd59a8c6afbddab"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d6dc3b52eb5a21ab768d378851d2f1ba/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d6dc3b52eb5a21ab768d378851d2f1ba"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9c6a33549747bda466553125615af9bd/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9c6a33549747bda466553125615af9bd"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/57a631a9fe36d01801b3581c56045cb1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/57a631a9fe36d01801b3581c56045cb1"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/912ba58cd0b43ea904d2dc24d98854a4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/912ba58cd0b43ea904d2dc24d98854a4"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/27e6f918c1eff57a1b57bae8b51b0897/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/27e6f918c1eff57a1b57bae8b51b0897"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b62979da466e558817658421609bd311/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b62979da466e558817658421609bd311"
+          }
+        ]
+      },
+      {
+        "name": "EP9 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5926a50a8277661611e686292a4e3513/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5926a50a8277661611e686292a4e3513"
+          }
+        ]
+      },
+      {
+        "name": "EP11 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/14a56e41e4fb3d397ac28f1d6fdddfe2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/14a56e41e4fb3d397ac28f1d6fdddfe2"
+          }
+        ]
+      },
+      {
+        "name": "EP10 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/544ee1387edc34c39ddae3cf6d801a89/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/544ee1387edc34c39ddae3cf6d801a89"
+          }
+        ]
+      },
+      {
+        "name": "EP12 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/eca58d241d0e6d397f9d1249954cc75a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/eca58d241d0e6d397f9d1249954cc75a"
+          }
+        ]
+      },
+      {
+        "name": "EP14 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f23ef44ead5da01bccfed5e82d6511f1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f23ef44ead5da01bccfed5e82d6511f1"
+          }
+        ]
+      },
+      {
+        "name": "EP13 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bc7bd6f6c5b8ce3187833734c4ef8d57/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/bc7bd6f6c5b8ce3187833734c4ef8d57"
+          }
+        ]
+      },
+      {
+        "name": "EP15 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7d764ed9d7cb85f582d1adea76db9896/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7d764ed9d7cb85f582d1adea76db9896"
+          }
+        ]
+      },
+      {
+        "name": "EP16 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/584d99f4af7bc0142f18ed0fc0fd6b99/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/584d99f4af7bc0142f18ed0fc0fd6b99"
+          }
+        ]
+      }
+    ]
   }
 ]
