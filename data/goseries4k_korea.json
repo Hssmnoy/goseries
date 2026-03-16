@@ -91644,5 +91644,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "A Superior Day (2022) Ep.1-8 (จบ) | พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/08/A-Superior-Day-2022.webp",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fc0979956f6434e3013d322a71b42326/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fc0979956f6434e3013d322a71b42326"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6e3ce623b2ad5139c7ca8bc180f0fa90/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6e3ce623b2ad5139c7ca8bc180f0fa90"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/66af0f071141110aadab744f3d5b0e40/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/66af0f071141110aadab744f3d5b0e40"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/318f1a1a1756fdf7be69a106f50ec46b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/318f1a1a1756fdf7be69a106f50ec46b"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/14ee1aa9fb1b2ab3e7ae0e0a7380ac8c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/14ee1aa9fb1b2ab3e7ae0e0a7380ac8c"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5302848bbca9e87039a4614c74957afe/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5302848bbca9e87039a4614c74957afe"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/28da7e8727cc891ca41176bab6c232e5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/28da7e8727cc891ca41176bab6c232e5"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6504e616cf42269e2e45d65efdbfe3bc/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6504e616cf42269e2e45d65efdbfe3bc"
+          }
+        ]
+      }
+    ]
   }
 ]
