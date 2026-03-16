@@ -1098,5 +1098,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Subscription Girls รักนี้มีค่าบริการ (2023) พากย์ไทย EP1-8 (จบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/03/รักนี้มีค่าบริการ.webp",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/60d4c5bdb267baf3b7e77282a8b420dc/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/60d4c5bdb267baf3b7e77282a8b420dc"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d51d123f85ff0d45bf8ba6fe3277e22f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d51d123f85ff0d45bf8ba6fe3277e22f"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6d482b239b3a4e0d747269d66edda194/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6d482b239b3a4e0d747269d66edda194"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/45146711c4e4e93e1c978c52792ae03c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/45146711c4e4e93e1c978c52792ae03c"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2919acc48c56571762624f8b922bf0f7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2919acc48c56571762624f8b922bf0f7"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6307c7c2f3fffb9dba19cbc4bc1c72b0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6307c7c2f3fffb9dba19cbc4bc1c72b0"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/16ea0f56b56cef7d7d532100a0498772/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/16ea0f56b56cef7d7d532100a0498772"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/65e6c4e5b40b808300be2eb6feaa3976/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/65e6c4e5b40b808300be2eb6feaa3976"
+          }
+        ]
+      }
+    ]
   }
 ]
