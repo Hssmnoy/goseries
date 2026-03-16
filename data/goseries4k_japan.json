@@ -2697,5 +2697,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "House of Ninjas (2024) เฮาส์ ออฟ นินจา พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/02/เฮาส์-ออฟ-นินจา.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1219e5de8f3dde5be2b67b1ff31a35b3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1219e5de8f3dde5be2b67b1ff31a35b3"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3d146ff0a4c43c102171d470707df4e9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3d146ff0a4c43c102171d470707df4e9"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a869f457a18fbc0752328c653ac91d43/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a869f457a18fbc0752328c653ac91d43"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4a9efc35f1278208af76e2b8d4283b93/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4a9efc35f1278208af76e2b8d4283b93"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/73dd8238d4e2867bfd60a36272ec5b30/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/73dd8238d4e2867bfd60a36272ec5b30"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6da55b2d53028398d57a03d9c1dd9424/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6da55b2d53028398d57a03d9c1dd9424"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/81984c7ee1c8fd6156e879afa6239ebf/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/81984c7ee1c8fd6156e879afa6239ebf"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/240fe9753d8ec4a5cbf1e21b9329d7f7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/240fe9753d8ec4a5cbf1e21b9329d7f7"
+          }
+        ]
+      }
+    ]
   }
 ]
