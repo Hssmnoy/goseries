@@ -96012,5 +96012,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Monstrous (2022)",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/07/Monstrous.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/831a392fd1fa5adb2fadbb3e7f710814/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/831a392fd1fa5adb2fadbb3e7f710814"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/92df1c133bf4e5bba68c3151487895c0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/92df1c133bf4e5bba68c3151487895c0"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/75bc4e2668bb3415b533547a679f6bd6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/75bc4e2668bb3415b533547a679f6bd6"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1895c7709357621fd558fd2476ae3daf/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1895c7709357621fd558fd2476ae3daf"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f6f2370bd542e890cebebc98765b5fa6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f6f2370bd542e890cebebc98765b5fa6"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f83a2727b4efaa92e463a6da8f22ec73/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f83a2727b4efaa92e463a6da8f22ec73"
+          }
+        ]
+      }
+    ]
   }
 ]
