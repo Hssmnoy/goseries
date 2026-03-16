@@ -54262,5 +54262,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Zombieverse ซอมบี้เวิร์ส (2023) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/08/Zombieverse.jpg",
+    "episodes": [
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/be1cdb4ad78bed05b2f5957a4021e348/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/be1cdb4ad78bed05b2f5957a4021e348"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b3b62ece3c65978696cc2ba354d552d8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b3b62ece3c65978696cc2ba354d552d8"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0e1bcc9852a5cfd985f55073445aca42/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0e1bcc9852a5cfd985f55073445aca42"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1fb4becbafcaa43a6e8238e1adf12e62/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1fb4becbafcaa43a6e8238e1adf12e62"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/282b7bc2cda98cd881195fde21d78ab6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/282b7bc2cda98cd881195fde21d78ab6"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e2066a729f9831eaebab1440cd7e9ba7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e2066a729f9831eaebab1440cd7e9ba7"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/44c3b3bc7c021f40e76c98c1f3820f0c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/44c3b3bc7c021f40e76c98c1f3820f0c"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/29a7f3c55cde0cd6e5856e53e33f7ee5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/29a7f3c55cde0cd6e5856e53e33f7ee5"
+          }
+        ]
+      }
+    ]
   }
 ]
