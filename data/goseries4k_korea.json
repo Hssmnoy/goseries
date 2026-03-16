@@ -101155,5 +101155,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Ocean Likes Me (2022) Ep.1-8 (จบ) | ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/05/Ocean-Likes-Me.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e13707d0236627091f909fe53cf5386a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e13707d0236627091f909fe53cf5386a"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5d083af50a47b1168271fdd7df009cf1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5d083af50a47b1168271fdd7df009cf1"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9e05c1e1729819741ea1ac043257462b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9e05c1e1729819741ea1ac043257462b"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ebef586e908d8e5c916d320a2739e190/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ebef586e908d8e5c916d320a2739e190"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d9dc7dce5cc82f29e1dc55ce7b5ddde4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d9dc7dce5cc82f29e1dc55ce7b5ddde4"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1e3c11f2a39b43a841d70ace8b9158b8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1e3c11f2a39b43a841d70ace8b9158b8"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/27ce5b81020f1f8557a346172d554289/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/27ce5b81020f1f8557a346172d554289"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/94148a73422ff2b8d9fc8806264d0dd5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/94148a73422ff2b8d9fc8806264d0dd5"
+          }
+        ]
+      }
+    ]
   }
 ]
