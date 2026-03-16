@@ -104180,5 +104180,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "โอม รักเอยจงมา The Sound of Magic (2022) พากย์ไทย |",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/05/โอม-รักเอยจงมา.jpg",
+    "episodes": [
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5716011e547b651d060f2346f375eceb/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5716011e547b651d060f2346f375eceb"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0e73bc829a53fad12f366bf8c41dcd69/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0e73bc829a53fad12f366bf8c41dcd69"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/12038242f8c736bdbe23d5c0e87333f6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/12038242f8c736bdbe23d5c0e87333f6"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fd95b7fd513f8490f7464b582e06c749/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fd95b7fd513f8490f7464b582e06c749"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fc43e80522a97490d5866d88a515ce43/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fc43e80522a97490d5866d88a515ce43"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a3553d4b649f299b23ea1fd34998121d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a3553d4b649f299b23ea1fd34998121d"
+          }
+        ]
+      }
+    ]
   }
 ]
