@@ -2129,5 +2129,102 @@
         ]
       }
     ]
+  },
+  {
+    "title": "เรียลลิตี้ Battle of Fates: สังเวียนเซียนทำนาย (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-4.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/470ba16164996ca7a378b9475d842249/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/470ba16164996ca7a378b9475d842249"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ab4ecb506302b8517a5a4f19d58727c7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ab4ecb506302b8517a5a4f19d58727c7"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b5eeab0f8e353a37c9e056353821822e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b5eeab0f8e353a37c9e056353821822e"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/6d34120a7b97c92604f387d458c06974/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6d34120a7b97c92604f387d458c06974"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/019b3d712efe895376f6fdcc2cba2251/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/019b3d712efe895376f6fdcc2cba2251"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/db6b162d1397690d11addeb93e346d77/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/db6b162d1397690d11addeb93e346d77"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ac44758bdcf39d0a4dd8733a012949af/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ac44758bdcf39d0a4dd8733a012949af"
+          }
+        ]
+      }
+    ]
   }
 ]
