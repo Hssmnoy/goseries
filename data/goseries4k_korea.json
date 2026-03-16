@@ -82585,5 +82585,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Shadow Detective (2022) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/10/shadow-detective.webp",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/59e73ab0c3fa2b061acbe9d60903c3a7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/59e73ab0c3fa2b061acbe9d60903c3a7"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a0c6dcfbd0e76508c4ec423788574cf7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a0c6dcfbd0e76508c4ec423788574cf7"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/50fe5c9de38b1a5bed8af0bef1e05422/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/50fe5c9de38b1a5bed8af0bef1e05422"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/078aecc69136dc6a41652650c8eb0717/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/078aecc69136dc6a41652650c8eb0717"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4eea48d7e0739bec298e530356bb7d34/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4eea48d7e0739bec298e530356bb7d34"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4429b9aaaf87f23081894d74251dfcd3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4429b9aaaf87f23081894d74251dfcd3"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/14e4810d366fcd3a8ca8d7fa33c00f61/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/14e4810d366fcd3a8ca8d7fa33c00f61"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/71f3387675e0d896f2a8b9f48885f113/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/71f3387675e0d896f2a8b9f48885f113"
+          }
+        ]
+      }
+    ]
   }
 ]
