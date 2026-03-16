@@ -27557,5 +27557,37 @@
         ]
       }
     ]
+  },
+  {
+    "title": "My Sweet Mobster (2024) ตกหัวใจนายจอมโหด พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/07/My-Sweet-Mobster.webp",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3f5e3046b0515618256a357ab0eac104/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3f5e3046b0515618256a357ab0eac104"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fc1719763f35e83be2a811bd76b4068c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fc1719763f35e83be2a811bd76b4068c"
+          }
+        ]
+      }
+    ]
   }
 ]
