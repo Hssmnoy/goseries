@@ -2412,5 +2412,154 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ดูซีรีส์ญี่ปุ่น Silent (2022) สัมผัสรักไร้เสียง พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/03/Silent.webp",
+    "episodes": [
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a80d3e9ac8b5b86fabcfbfed32b15dd6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a80d3e9ac8b5b86fabcfbfed32b15dd6"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8620d84b97914722da0fc6e6d90abd91/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8620d84b97914722da0fc6e6d90abd91"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/460666361d903fd7164e8bfbd441dcb8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/460666361d903fd7164e8bfbd441dcb8"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b64dac131e2f523c4cb7f29ed13b3f1a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b64dac131e2f523c4cb7f29ed13b3f1a"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c7e9142e2b964e7d673f2a9f5f05699f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c7e9142e2b964e7d673f2a9f5f05699f"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/72a86e92e2dfdee17865187abb4e4ea3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/72a86e92e2dfdee17865187abb4e4ea3"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/906ecc6eba736afd3cf168d6b3876bf3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/906ecc6eba736afd3cf168d6b3876bf3"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0a66ca2985296da86924699dc8e861dc/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0a66ca2985296da86924699dc8e861dc"
+          }
+        ]
+      },
+      {
+        "name": "EP9 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0b704a6fa34acd31c4411f4c0a597552/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0b704a6fa34acd31c4411f4c0a597552"
+          }
+        ]
+      },
+      {
+        "name": "EP10 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/676860fbb28421ae3a06307d9fc13e7a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/676860fbb28421ae3a06307d9fc13e7a"
+          }
+        ]
+      },
+      {
+        "name": "EP11 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ef8cfcef8409937df6b8ef6f699383ae/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ef8cfcef8409937df6b8ef6f699383ae"
+          }
+        ]
+      }
+    ]
   }
 ]
