@@ -86229,5 +86229,141 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Glitch (2022) กลิตช์ พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/10/กลิตช์.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c7b2a63a2964eb7c1b5e3b95cc29f726/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c7b2a63a2964eb7c1b5e3b95cc29f726"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/19c7494b3032d032554670a9138ab4f1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/19c7494b3032d032554670a9138ab4f1"
+          }
+        ]
+      },
+      {
+        "name": "EP9 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5f14647a1a74d8570ad45c5783620e62/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5f14647a1a74d8570ad45c5783620e62"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/de9f8bca84d31be803300a3d3fb999f7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/de9f8bca84d31be803300a3d3fb999f7"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d99bfd39f677714e70f2ab57d23c2522/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d99bfd39f677714e70f2ab57d23c2522"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b087715fda20fb6ef62acdd5eb72cfb8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b087715fda20fb6ef62acdd5eb72cfb8"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/283e9939ff3e500307faac20bd94abdd/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/283e9939ff3e500307faac20bd94abdd"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/54b69275168816e78c308fe6cbabcbdc/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/54b69275168816e78c308fe6cbabcbdc"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d28e798b14e8c232bc710c689574095a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d28e798b14e8c232bc710c689574095a"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/db0135df67960294fc3af254269a6f99/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/db0135df67960294fc3af254269a6f99"
+          }
+        ]
+      }
+    ]
   }
 ]
