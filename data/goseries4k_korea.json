@@ -90808,5 +90808,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Tracer Season 2 (2022) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/08/Tracer-Season-2.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5de70044a8bcff9c12102fe0baf50b84/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5de70044a8bcff9c12102fe0baf50b84"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ebc5f060365b0de22efa34d0380e532d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ebc5f060365b0de22efa34d0380e532d"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ab74775a166c3538d7b0a41626a8a155/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ab74775a166c3538d7b0a41626a8a155"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d0cc49784f9e86a88de1270d7c1d228d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d0cc49784f9e86a88de1270d7c1d228d"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/37444cfd80f90fc16155774bcc321038/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/37444cfd80f90fc16155774bcc321038"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/875f524c4ada9b3f06b5909107387c01/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/875f524c4ada9b3f06b5909107387c01"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8eb7facb5504de7b252a93dae2bc7335/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8eb7facb5504de7b252a93dae2bc7335"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a57ed6a3592c1b5b9a63fbe2898016f0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a57ed6a3592c1b5b9a63fbe2898016f0"
+          }
+        ]
+      }
+    ]
   }
 ]
