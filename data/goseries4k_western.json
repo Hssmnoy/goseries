@@ -2670,5 +2670,63 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Death by Lightning ฟ้าผ่าชี้ชะตาเมือง (2025) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/10/88.jpg",
+    "episodes": [
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5c87556be230f9303837c967b53b3e1e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5c87556be230f9303837c967b53b3e1e"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/ccbfa6c6cbd0188451994f35b7c6a9e1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ccbfa6c6cbd0188451994f35b7c6a9e1"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/0395f64dc40817db9452c31c18d48834/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0395f64dc40817db9452c31c18d48834"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d916cdac724d9300ccb1d51b1a307e42/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d916cdac724d9300ccb1d51b1a307e42"
+          }
+        ]
+      }
+    ]
   }
 ]
