@@ -1,0 +1,60 @@
+[
+  {
+    "title": "My Precious เหนือรักแลกปรารถนา (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-7.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f71f2fb7670e71bd298063b483886565/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f71f2fb7670e71bd298063b483886565"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5493d6803f360431784f0ae9894e2b84/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5493d6803f360431784f0ae9894e2b84"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/2868209c4a32404e7b3fca95b4043a1f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2868209c4a32404e7b3fca95b4043a1f"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/165a9def7e4f9bf563eeae0376edb05d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/165a9def7e4f9bf563eeae0376edb05d"
+          }
+        ]
+      }
+    ]
+  }
+]
