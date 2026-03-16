@@ -96873,7 +96873,7 @@
   },
   {
     "title": "Monstrous (2022)",
-    "image": "https://goseries4k.com/wp-content/uploads/2022/07/Monstrous.jpg",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/04/monstrous1.jpg",
     "episodes": [
       {
         "name": "EP1 TH",
@@ -96950,6 +96950,84 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/f83a2727b4efaa92e463a6da8f22ec73"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/98d08757a75498a81c301ac5efce7d85/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/98d08757a75498a81c301ac5efce7d85"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3a7daca3fd3f19e08ab8507e080221b7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3a7daca3fd3f19e08ab8507e080221b7"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2f1b75dcb36302d50353c007533d1413/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2f1b75dcb36302d50353c007533d1413"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/40374f261508f564b503cee25db9cb8b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/40374f261508f564b503cee25db9cb8b"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8dd61d75abf19f896795f029cfb14575/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8dd61d75abf19f896795f029cfb14575"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/52d06026d522816b7883ad7f11a570e1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/52d06026d522816b7883ad7f11a570e1"
           }
         ]
       }
