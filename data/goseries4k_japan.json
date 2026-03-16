@@ -5170,5 +5170,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Alice in Borderland (2020) อลิซในแดนมรณะ พากย์ไทย Ep 1-8 (ตอนจบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/03/อลิซในแดนมรณะ.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3a3752ab19512846d9cc4cb8a2edaaa5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3a3752ab19512846d9cc4cb8a2edaaa5"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/01b23bd717b6b91434d88be5b94b521b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/01b23bd717b6b91434d88be5b94b521b"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1c5f39eafa42f14c07b897a59a9943de/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1c5f39eafa42f14c07b897a59a9943de"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9a762ef67a6f11e52ea4367ac311e68b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9a762ef67a6f11e52ea4367ac311e68b"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6db68ec7689c00642df4366c3f4727bf/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6db68ec7689c00642df4366c3f4727bf"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/273e6443831d60f7a075bb31be2b1f25/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/273e6443831d60f7a075bb31be2b1f25"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ee883d3490ae88b38de1e1a19207ed92/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ee883d3490ae88b38de1e1a19207ed92"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/47f055864c6b6a9e642b8b29e8a97ae9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/47f055864c6b6a9e642b8b29e8a97ae9"
+          }
+        ]
+      }
+    ]
   }
 ]
