@@ -42965,5 +42965,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Bequeathed (2024) มรกดอาถรรพ์ พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/01/มรกดอาถรรพ์.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f4996c65172bd5c0f4377e64c1d23c8f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f4996c65172bd5c0f4377e64c1d23c8f"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/05121f0a214ded082955778f6f6a47fa/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/05121f0a214ded082955778f6f6a47fa"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/77ecd45d532a1f690385ebe8cceada65/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/77ecd45d532a1f690385ebe8cceada65"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2b348e12d5b342f51cb3b7afbc3cc341/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2b348e12d5b342f51cb3b7afbc3cc341"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6bced85bd3f40f0aa9616838a5acf782/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6bced85bd3f40f0aa9616838a5acf782"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/adb75e60c2245a9730e97315a3e58861/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/adb75e60c2245a9730e97315a3e58861"
+          }
+        ]
+      }
+    ]
   }
 ]
