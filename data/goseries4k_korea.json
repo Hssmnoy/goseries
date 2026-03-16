@@ -41351,5 +41351,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "LTNS | Long Time No Sex (2024) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/01/ltns.webp",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f8173bff8c3e5af4288d0015d1e481ca/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f8173bff8c3e5af4288d0015d1e481ca"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/659b00c3babd5710739c75bec3a9ce46/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/659b00c3babd5710739c75bec3a9ce46"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c2ad539f1df183d0b4026ddc8684d63a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c2ad539f1df183d0b4026ddc8684d63a"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ac37379619fa58800989d3df193bec99/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ac37379619fa58800989d3df193bec99"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/493e6bb9161d9d14b7465e75af3b88b4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/493e6bb9161d9d14b7465e75af3b88b4"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8b97217fdd9f94ed4f43597cc3620698/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8b97217fdd9f94ed4f43597cc3620698"
+          }
+        ]
+      }
+    ]
   }
 ]
