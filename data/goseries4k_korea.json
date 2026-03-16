@@ -58974,5 +58974,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Bloodhounds (2023) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/06/Bloodhounds.webp",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/68170cb43b4e7568853bc5919634fef6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/68170cb43b4e7568853bc5919634fef6"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b6073905b5737800fc8d4941647d048c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b6073905b5737800fc8d4941647d048c"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/903e1ad51303ddeb204e34c563dfcf75/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/903e1ad51303ddeb204e34c563dfcf75"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/61cfffb6702b74fb3d57a2869c2d38ec/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/61cfffb6702b74fb3d57a2869c2d38ec"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bcf21dfaf7b007f800b0d59adeef4f11/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/bcf21dfaf7b007f800b0d59adeef4f11"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4123261c5bb29995882798b275595dda/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4123261c5bb29995882798b275595dda"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a2ca157fd57c37e85f9361e4d70fad58/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a2ca157fd57c37e85f9361e4d70fad58"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e3d7effd40c1eeeb19837228480e055f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e3d7effd40c1eeeb19837228480e055f"
+          }
+        ]
+      }
+    ]
   }
 ]
