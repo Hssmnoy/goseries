@@ -28289,5 +28289,76 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Good Partner (2024) คู่หูทนายตัวแม่ ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/07/Good-Partner.webp",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/44006dbba6638be0b66422ece373d44d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/44006dbba6638be0b66422ece373d44d"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/65678f46ba6d21b6a505f66f9f689235/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/65678f46ba6d21b6a505f66f9f689235"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9a24800d6c23a168e19243b523f88230/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9a24800d6c23a168e19243b523f88230"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/83dff369851dcdf9c390084d164504a9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/83dff369851dcdf9c390084d164504a9"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/eef16ee87500bdc0109989228265c5f1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/eef16ee87500bdc0109989228265c5f1"
+          }
+        ]
+      }
+    ]
   }
 ]
