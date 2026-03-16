@@ -3273,5 +3273,76 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Yu Yu Hakusho (2023) คนเก่งฟ้าประทาน พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/12/คนเก่งฟ้าประทาน.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e498f3b4eaf01798912d3406808f59aa/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e498f3b4eaf01798912d3406808f59aa"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e4712ce9c0a868a3cdf653d914b70e61/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e4712ce9c0a868a3cdf653d914b70e61"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b46ca9b7af93e721e94826eb36782f83/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b46ca9b7af93e721e94826eb36782f83"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b0bee71c9660871d160b5e9c655af005/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b0bee71c9660871d160b5e9c655af005"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bfa7a5fb93ea7e239966f47d4a14e9dd/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/bfa7a5fb93ea7e239966f47d4a14e9dd"
+          }
+        ]
+      }
+    ]
   }
 ]
