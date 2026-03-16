@@ -3862,5 +3862,102 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Burn the House Down (2023) ไฟแค้น ไฟอดีต พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/07/ไฟแค้น-ไฟอดีต-พากย์ไทย.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6ed98bce19bc4d6a007186752a35c0b2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6ed98bce19bc4d6a007186752a35c0b2"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c65d44cc12df24671cd6a4bca97a4b01/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c65d44cc12df24671cd6a4bca97a4b01"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7763ed88d728fb1e94ea9df25ccbe3aa/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7763ed88d728fb1e94ea9df25ccbe3aa"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fb41574aba2e0df246234a86a9e2f770/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fb41574aba2e0df246234a86a9e2f770"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8f9a55949e7be0e95579744f670468a2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8f9a55949e7be0e95579744f670468a2"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/515045affb71142859a179b5e1bc384d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/515045affb71142859a179b5e1bc384d"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5ce311d608b7f34d05dc1f046a2d3f44/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5ce311d608b7f34d05dc1f046a2d3f44"
+          }
+        ]
+      }
+    ]
   }
 ]
