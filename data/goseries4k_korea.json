@@ -82203,5 +82203,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Somebody (2022) แอปรัก แอบฆ่า ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/11/แอปรัก-แอบฆ่า.webp",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f8b0295f3581f167299a78189d98e2b4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f8b0295f3581f167299a78189d98e2b4"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2116a40bc416e11a733cb8d5dbf50ef2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2116a40bc416e11a733cb8d5dbf50ef2"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9251e1b5805b6d204c40bdacd29ce5b1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9251e1b5805b6d204c40bdacd29ce5b1"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e02c02cea4279a73011a53442dfcb693/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e02c02cea4279a73011a53442dfcb693"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/6c0e38c1cf0150954cc0048804102f52/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6c0e38c1cf0150954cc0048804102f52"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/20e6428887998117749b56e9bd13974a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/20e6428887998117749b56e9bd13974a"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d8aebf1d7ea401e0bfa96dcdaedc927e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d8aebf1d7ea401e0bfa96dcdaedc927e"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/72522542f18f756a51407652589ab2b3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/72522542f18f756a51407652589ab2b3"
+          }
+        ]
+      }
+    ]
   }
 ]
