@@ -28418,5 +28418,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Secret Boutique เล่ห์แค้นแผนลวง (2019) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/07/เล่ห์แค้นแผนลวง.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/245bf39f8cef8b6942ac2c1f464f6f5e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/245bf39f8cef8b6942ac2c1f464f6f5e"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8d24d176dc9f03e77bc159e028ba78c8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8d24d176dc9f03e77bc159e028ba78c8"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/75eab15247977398e41cff18dbdeb813/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/75eab15247977398e41cff18dbdeb813"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/458de449e0dcb4284d88ae5e6baaea4d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/458de449e0dcb4284d88ae5e6baaea4d"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8f17f1afdbb11f9050c3f8459aad5a87/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8f17f1afdbb11f9050c3f8459aad5a87"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/7bade15141dba7c458c062a2d04fd14b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7bade15141dba7c458c062a2d04fd14b"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2f60315a49635d1800807447de47522c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2f60315a49635d1800807447de47522c"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8926cabb1e891b6ac5c9d9ccb6f0fd50/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8926cabb1e891b6ac5c9d9ccb6f0fd50"
+          }
+        ]
+      }
+    ]
   }
 ]
