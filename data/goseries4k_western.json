@@ -2799,5 +2799,102 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Amsterdam Empire อัมสเตอร์ดัม เอ็มไพร์ 2025 พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/10/857.jpg",
+    "episodes": [
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/982583ec7e27fd53abc0edfceb026ec8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/982583ec7e27fd53abc0edfceb026ec8"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/1cd9f0115aa14db808411b78befb538e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1cd9f0115aa14db808411b78befb538e"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/94ec66ae93980ad6467c26c4a51d7664/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/94ec66ae93980ad6467c26c4a51d7664"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/bb15f3d23adb3ed0ab53d87dcd551b38/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/bb15f3d23adb3ed0ab53d87dcd551b38"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/65b4ba450a0478ae7080f8c58bc8f47a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/65b4ba450a0478ae7080f8c58bc8f47a"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/fcf24fcd9b156df4b327772d3e836873/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fcf24fcd9b156df4b327772d3e836873"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5022b25a21f9ebdbd30c11fa52323f35/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5022b25a21f9ebdbd30c11fa52323f35"
+          }
+        ]
+      }
+    ]
   }
 ]
