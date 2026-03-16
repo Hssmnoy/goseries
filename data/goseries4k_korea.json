@@ -76014,5 +76014,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "The Glory (2022) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/12/The-Glory.jpg",
+    "episodes": [
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/088de2eeb5dde28c2afecf63c60bd0e5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/088de2eeb5dde28c2afecf63c60bd0e5"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/55b24a3b3ced63ece8c08f2933e8149e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/55b24a3b3ced63ece8c08f2933e8149e"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/11ebba19377627c2ba3631a8ad614009/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/11ebba19377627c2ba3631a8ad614009"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b2ebb830d4e05bfcef4633483bcb088f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b2ebb830d4e05bfcef4633483bcb088f"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4146cabdb62b12ca9226b99dd7ac733a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4146cabdb62b12ca9226b99dd7ac733a"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d7de45c0e7cb619a72a9c6f5330b179d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d7de45c0e7cb619a72a9c6f5330b179d"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2429f5e88758ccfa1257f533e72ae245/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2429f5e88758ccfa1257f533e72ae245"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b24de74a1da6be4bad4533f64abee5b3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b24de74a1da6be4bad4533f64abee5b3"
+          }
+        ]
+      }
+    ]
   }
 ]
