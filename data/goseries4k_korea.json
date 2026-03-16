@@ -142818,5 +142818,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "แอปเลิฟเตือนรัก ซีซั่น1  (2019) Ep1-8 (จบ) | พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2021/09/แอปเลิฟเตือนรัก-ซีซั่น1.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4de5dcf9e7f6902c4fa0ac6f514d7506/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4de5dcf9e7f6902c4fa0ac6f514d7506"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/251ad86191d80b0a0fd124033e03d837/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/251ad86191d80b0a0fd124033e03d837"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/dbe97e00366f01a1ba604b98bd4e5550/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/dbe97e00366f01a1ba604b98bd4e5550"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/52c71b4d9f3ff2c6cf138ccdb26342d1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/52c71b4d9f3ff2c6cf138ccdb26342d1"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f632fdcedff0ca8b19e5da35dd5341af/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f632fdcedff0ca8b19e5da35dd5341af"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1035cf819f85c4a0530965a54599a276/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1035cf819f85c4a0530965a54599a276"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ad7113884ad60f049bee812bf577cb66/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ad7113884ad60f049bee812bf577cb66"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8f885a03e258a8f05f6e5ac44da8f533/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8f885a03e258a8f05f6e5ac44da8f533"
+          }
+        ]
+      }
+    ]
   }
 ]
