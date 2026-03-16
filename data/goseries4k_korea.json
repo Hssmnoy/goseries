@@ -139436,5 +139436,167 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ซีรี่ย์เกาหลี Love in Blackhole (2021)",
+    "image": "https://goseries4k.com/wp-content/uploads/2021/09/Love-in-Blackhole.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/d67f3b68a690cb8adf883a453570247e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d67f3b68a690cb8adf883a453570247e"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a0dbf87ad70f10caacc75a89b0abab1c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a0dbf87ad70f10caacc75a89b0abab1c"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/aae70ceedc283a96f64180a77be6f31f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/aae70ceedc283a96f64180a77be6f31f"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4216f64ef8e9ad8ead124f72754ac411/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4216f64ef8e9ad8ead124f72754ac411"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a21d205b81d74073eb5ae877497ec459/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a21d205b81d74073eb5ae877497ec459"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/066750fa7fe4c24f24c08cd073f45233/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/066750fa7fe4c24f24c08cd073f45233"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e47e2b1a548f232f23192f258fa1f4aa/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e47e2b1a548f232f23192f258fa1f4aa"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5d43cead3fc1b9655f0f7daa681e67f9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5d43cead3fc1b9655f0f7daa681e67f9"
+          }
+        ]
+      },
+      {
+        "name": "EP9 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1bf8ff2d24f502fa045fd51e3aa2518d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1bf8ff2d24f502fa045fd51e3aa2518d"
+          }
+        ]
+      },
+      {
+        "name": "EP10 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b0f93de21d0354fc1527d90d7bbc6b63/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b0f93de21d0354fc1527d90d7bbc6b63"
+          }
+        ]
+      },
+      {
+        "name": "EP11 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/94dd50211595f46504d738b061e57d67/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/94dd50211595f46504d738b061e57d67"
+          }
+        ]
+      },
+      {
+        "name": "EP12 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f5db390323360a062cfce4ea1bb30dab/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f5db390323360a062cfce4ea1bb30dab"
+          }
+        ]
+      }
+    ]
   }
 ]
