@@ -61520,5 +61520,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Bargain (2022) ซับไทย | Ep.1-6 (จบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/05/Bargain.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/3f0724abe4e8fe961ea16ef26c1d1018/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/3f0724abe4e8fe961ea16ef26c1d1018"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/735971ae8736bda00564b8825ac9a5d7/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/735971ae8736bda00564b8825ac9a5d7"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e04538e49f9f2222a8ebf712f8a21f87/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e04538e49f9f2222a8ebf712f8a21f87"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/67ed00b1f8b8ee948619c66687d66ab8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/67ed00b1f8b8ee948619c66687d66ab8"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b4c73423bff3bfc107b9f41bc254afbf/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b4c73423bff3bfc107b9f41bc254afbf"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a2450c8add1124a691e5990e5424e105/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a2450c8add1124a691e5990e5424e105"
+          }
+        ]
+      }
+    ]
   }
 ]
