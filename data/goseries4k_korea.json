@@ -45797,5 +45797,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "sweet home season 2 สวีทโฮม (พากย์ไทย)",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/12/sweet-home-2.png",
+    "episodes": [
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4714a5b8a25fb62b296fb76d374e1242/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4714a5b8a25fb62b296fb76d374e1242"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/bd367a983ff4cc64446d839a315af15d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/bd367a983ff4cc64446d839a315af15d"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a900b66e3a8fd343bfec0e56125d29e8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a900b66e3a8fd343bfec0e56125d29e8"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c441095507dd876039a9316a70ce37ea/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c441095507dd876039a9316a70ce37ea"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a4589a9323a124e0c7c04be756a131fa/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a4589a9323a124e0c7c04be756a131fa"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1a5ff4697e2da3f3fc41657dbc2cc646/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1a5ff4697e2da3f3fc41657dbc2cc646"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/8be294547e9777b307e694b37bebdf57/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8be294547e9777b307e694b37bebdf57"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/4b153a658cefa3908f8d367f728b44ef/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4b153a658cefa3908f8d367f728b44ef"
+          }
+        ]
+      }
+    ]
   }
 ]
