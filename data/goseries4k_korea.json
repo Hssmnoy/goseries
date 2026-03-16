@@ -29054,5 +29054,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Live On (2020) สื่อรักเสียงตามสาย พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2024/07/Live-On.jpg",
+    "episodes": [
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/14d9aa0ab5888f6da8bba00130bf6266/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/14d9aa0ab5888f6da8bba00130bf6266"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/85b6e18dec48e4f64a77582d0587afcb/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/85b6e18dec48e4f64a77582d0587afcb"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0c4f4bf0e0a60f6641a83142cd042b1c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0c4f4bf0e0a60f6641a83142cd042b1c"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/c7ad4b8735c3fe56364b2f356d29afa6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c7ad4b8735c3fe56364b2f356d29afa6"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/addd8203e2da24c80567fbb12cb34746/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/addd8203e2da24c80567fbb12cb34746"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/2df760f6817837b22f7c8a76ac7518d4/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/2df760f6817837b22f7c8a76ac7518d4"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ceb5a6c64129111b42e8b2700006d19d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ceb5a6c64129111b42e8b2700006d19d"
+          }
+        ]
+      },
+      {
+        "name": "EP8 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/9b2ef202f302345cfc44f0002a289583/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9b2ef202f302345cfc44f0002a289583"
+          }
+        ]
+      }
+    ]
   }
 ]
