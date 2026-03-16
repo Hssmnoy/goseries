@@ -86825,5 +86825,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Good Job (2022) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/08/Good-Job.webp",
+    "episodes": [
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0fefe5a988f4c2d34cf80fe99f9b50d0/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0fefe5a988f4c2d34cf80fe99f9b50d0"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f63ee1dbf8f7819f0e3e77dc078f9924/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f63ee1dbf8f7819f0e3e77dc078f9924"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a3e15b0d13359d9535e45ed16dee336a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a3e15b0d13359d9535e45ed16dee336a"
+          }
+        ]
+      },
+      {
+        "name": "EP8 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fa9e6cb9aebb1b809750d58f4b785377/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fa9e6cb9aebb1b809750d58f4b785377"
+          }
+        ]
+      },
+      {
+        "name": "EP9 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/030bd0b487491ffc69e4e62813eef597/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/030bd0b487491ffc69e4e62813eef597"
+          }
+        ]
+      },
+      {
+        "name": "EP10 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/0c2b6cc0c0e21be119fa9b1ba1fae20c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0c2b6cc0c0e21be119fa9b1ba1fae20c"
+          }
+        ]
+      },
+      {
+        "name": "EP11 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1c1142cecabcbab92bb859e7405f573f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1c1142cecabcbab92bb859e7405f573f"
+          }
+        ]
+      },
+      {
+        "name": "EP12 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e264f4144d88bb5e50a78f61cda5e718/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e264f4144d88bb5e50a78f61cda5e718"
+          }
+        ]
+      }
+    ]
   }
 ]
