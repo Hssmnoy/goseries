@@ -5401,5 +5401,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Ironheart ไอรอนฮาร์ต (2025) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2025/06/999999.jpg",
+    "episodes": [
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e00fc2455f249b9cbdbb3e3b5a40566d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e00fc2455f249b9cbdbb3e3b5a40566d"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/fc10a356f550a184e0260ba63f08bffd/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fc10a356f550a184e0260ba63f08bffd"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/e547e46076ef1f9a120e64817f667a6a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e547e46076ef1f9a120e64817f667a6a"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/63ac092c9eb79df5e112b04557a146f1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/63ac092c9eb79df5e112b04557a146f1"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d9407a82289743c2762d6284ee1932ef/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d9407a82289743c2762d6284ee1932ef"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/11a4705cc5aad50587c516049b0b7cd6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/11a4705cc5aad50587c516049b0b7cd6"
+          }
+        ]
+      }
+    ]
   }
 ]
