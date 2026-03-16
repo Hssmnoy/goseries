@@ -93219,5 +93219,50 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Our Season: Spring with Park Jae Chan (2022)",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/07/spring-with-park-jae-chan.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/acbd5d321456856faa2f7e3509db2bab/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/acbd5d321456856faa2f7e3509db2bab"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fd215d2c61a7e73375d28fcfe0ad19ef/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fd215d2c61a7e73375d28fcfe0ad19ef"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/f76ca79bbf8af1b3c758fa6d52157251/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f76ca79bbf8af1b3c758fa6d52157251"
+          }
+        ]
+      }
+    ]
   }
 ]
