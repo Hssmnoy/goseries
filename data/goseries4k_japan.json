@@ -9702,5 +9702,102 @@
         ]
       }
     ]
+  },
+  {
+    "title": "ญี่ปุ่น Gannibal (2022) ซับไทย เต็มเรื่อง EP1-7 (ตอนจบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/01/Gannibal-2022.jpg",
+    "episodes": [
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/dd5dcc0c5e184814d2b74f41911489e5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/dd5dcc0c5e184814d2b74f41911489e5"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/df0fae129c3dda774e8e5df27f1634e6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/df0fae129c3dda774e8e5df27f1634e6"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/a56f941ec232a9d40d2aa7e95b03ae27/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a56f941ec232a9d40d2aa7e95b03ae27"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b2401a0d233ecc325ec1179a0bda9c1d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b2401a0d233ecc325ec1179a0bda9c1d"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5d298f8650b9273cb17664bc53eac3ed/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5d298f8650b9273cb17664bc53eac3ed"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e71e1409a35ad9260f232178d395cc46/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e71e1409a35ad9260f232178d395cc46"
+          }
+        ]
+      },
+      {
+        "name": "EP7 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1a9c83b87dcecd013455ce37cca7cbb5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1a9c83b87dcecd013455ce37cca7cbb5"
+          }
+        ]
+      }
+    ]
   }
 ]
