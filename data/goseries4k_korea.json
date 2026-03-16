@@ -111441,5 +111441,89 @@
         ]
       }
     ]
+  },
+  {
+    "title": "First Love, Again (2022)  Ep.1-6  (จบ) | ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2022/02/First-Love-Again-2022.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/73a5b69421e8d79af549fe9ffce40e40/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/73a5b69421e8d79af549fe9ffce40e40"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/724bd17ea6ff8d2d1bb1e8625a8b4193/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/724bd17ea6ff8d2d1bb1e8625a8b4193"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/376ce10e13dc414fafd1e92798af209c/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/376ce10e13dc414fafd1e92798af209c"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/b45db98ac55410444b2a4a87294f5b57/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b45db98ac55410444b2a4a87294f5b57"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/1b2242a4a6218958260abf34d2c06558/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1b2242a4a6218958260abf34d2c06558"
+          }
+        ]
+      },
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/58f8677342c49c99754660fd9b582962/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/58f8677342c49c99754660fd9b582962"
+          }
+        ]
+      }
+    ]
   }
 ]
