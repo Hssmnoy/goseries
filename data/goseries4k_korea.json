@@ -82,5 +82,37 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Mad Concrete Dreams วิธีการเป็นเจ้าของอาคารในเกาหลี (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/03/1-1.jpg",
+    "episodes": [
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/08c19ff76ca99d08da9fa0c14663027a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/08c19ff76ca99d08da9fa0c14663027a"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f79298ccee51b12eed0d80d8cebba64b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f79298ccee51b12eed0d80d8cebba64b"
+          }
+        ]
+      }
+    ]
   }
 ]
