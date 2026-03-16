@@ -8148,5 +8148,115 @@
         ]
       }
     ]
+  },
+  {
+    "title": "School for Nighttime Entertainment (2019) โรงเรียนอลวนของคนกลางคืน พากย์ไทย Ep 1-8 (ตอนจบ)",
+    "image": "https://goseries4k.com/wp-content/uploads/2023/03/โรงเรียนอลวนของคนกลางคืน.webp",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/20fb4d827ac405522ee9e86e27ee9ba3/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/20fb4d827ac405522ee9e86e27ee9ba3"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/ddf097b28a19128d9a1cab9805ad9114/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/ddf097b28a19128d9a1cab9805ad9114"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/12e6a4cdbb933a4947f1c814343b5893/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/12e6a4cdbb933a4947f1c814343b5893"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/e7c8b0f102b9bbe2a5e308eb2ae97275/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/e7c8b0f102b9bbe2a5e308eb2ae97275"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/defca1c24bb74f31595a996f6bbc42c9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/defca1c24bb74f31595a996f6bbc42c9"
+          }
+        ]
+      },
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/5553bad88750196fa034ae823842a6c2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5553bad88750196fa034ae823842a6c2"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/fdf59cd24b2831def7ae56dacdf6b71e/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fdf59cd24b2831def7ae56dacdf6b71e"
+          }
+        ]
+      },
+      {
+        "name": "EP7 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://em1.imsvg.com/api/files/38c5bee25736dcbc2b79d362293a3d0b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/38c5bee25736dcbc2b79d362293a3d0b"
+          }
+        ]
+      }
+    ]
   }
 ]
