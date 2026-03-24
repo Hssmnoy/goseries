@@ -473,8 +473,6 @@ if(episodes.length===0){
   continue;
 }
 
-}
-
 for(let i=0;i<episodes.length;i++){
 
 if(TEST_MODE && i>5){
