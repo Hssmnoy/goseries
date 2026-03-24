@@ -56,7 +56,12 @@ execSync('git config --global user.email "actions@github.com"')
 
 execSync("git add data/*.json data/*.m3u data/progress.json")
 
-execSync('git commit -m "crawler progress"')
+try{
+  execSync('git commit -m "crawler progress"')
+}catch{
+  console.log("NO CHANGE")
+  return
+}
 
 execSync("git pull --rebase")
 
@@ -278,7 +283,7 @@ async function scanCategory(path){
 
 let shows=[]
 let page=1
-
+let noNewCount = 0;
 while(true){
 if(TEST_MODE && page>1){
 break
@@ -309,24 +314,29 @@ $("article a, .post a, h2 a").each((i,el)=>{
 
 const link=$(el).attr("href")
 
-if(link &&
-link.startsWith(DOMAIN) &&
-!link.includes("/category/") &&
-!link.includes("/page/")
+if(
+  link &&
+  link.startsWith(DOMAIN) &&
+  !link.includes("/category/") &&
+  !link.includes("/page/") &&
+  !shows.includes(link) // ⭐ กันซ้ำ
 ){
-
-shows.push(link)
-found++
-
+  shows.push(link)
+  found++
 }
-
-})
+});
 
 if(found===0){
+  noNewCount++;
+  console.log("EMPTY PAGE", noNewCount);
 
-console.log("END CATEGORY",path)
-break
+  if(noNewCount >= 3){
+    console.log("🛑 STOP: ไม่มีรายการใหม่");
+    break;
+  }
 
+}else{
+  noNewCount = 0;
 }
 
 page++
@@ -336,7 +346,6 @@ page++
 break
 
 }
-
 }
 
 return [...new Set(shows)]
@@ -357,9 +366,11 @@ let jsonOutput={}
 
 let movieCount = 0
   
-let resume = progress.show ? false : true
+let resume = true; // ⭐ ปิดระบบ resume
 
 for(const cat of cats){
+
+  let noUpdateCount = 0;
 
 const group = cat.slug
 console.log("CATEGORY",group)
@@ -395,25 +406,11 @@ fs.writeFileSync(file,"#EXTM3U\n\n")
 const shows=await scanCategory(cat.url.replace(DOMAIN,""))
 
 for(let si=0; si<shows.length; si++){
-
+let hasUpdateInShow = false;
 const show = shows[si]
 
 if(TEST_MODE && si>0){
 break
-}
-
-if(!resume){
-
-if(show===progress.show){
-
-resume=true
-
-}else{
-
-continue
-
-}
-
 }
 
 try{
@@ -427,7 +424,6 @@ const $=cheerio.load(html)
 let title=$("meta[property='og:title']").attr("content") || show
 title=title.replace(" - goseries4k","")
 
-// ตัดข้อความเกิน
 title = title
 .replace(/ดูซีรี่ย์/g,"")
 .replace(/EP\..*/g,"")
@@ -467,15 +463,14 @@ let POST_ID = data.POST_ID
 console.log("EPISODES",episodes.length)
 
 episodes.sort((a,b)=>{
-return parseInt(a.id) - parseInt(b.id)
+  const na = Number(a.name.match(/\d+/)?.[0] || 0)
+  const nb = Number(b.name.match(/\d+/)?.[0] || 0)
+  return na - nb
 })
 
 if(episodes.length===0){
-
-const post=html.match(/postid-(\d+)/)
-
-if(post){
-episodes=[show]
+  console.log("⚠️ ไม่มี episode");
+  continue;
 }
 
 }
@@ -503,8 +498,6 @@ continue
 
 const epCache = JSON.parse(cacheMatch[1])
 
-//console.log("EP CACHE KEYS", Object.keys(epCache).length)
-
 const epHtml = epCache[ep.id]
 if(!epHtml){
 console.log("EP CACHE NOT FOUND",ep.id)
@@ -515,10 +508,6 @@ let serverList = [...new Set(serverMatches.map(m => m[1]))]
 if(!serverList || serverList.length===0){
 console.log("SERVER LIST EMPTY",ep.id)
 }
-//console.log("CHECK EP", ep.id, epHtml ? "FOUND" : "MISS")
-
-
-
 const iframe = epHtml.match(/iframe src="([^"]+)/)
 
 if(!iframe){
@@ -529,12 +518,6 @@ continue
 const video = await getIframeVideo(iframe[1])
 
 if(video){
-
-//if(usedVideos.includes(video)){
-//continue
-//}
-
-//usedVideos.push(video)
 
 console.log("VIDEO",video)
 
@@ -580,17 +563,16 @@ servers.push({
 name:"ok-nah",
 url:s
 })
-
+}
+}
 }
 
-}
-
-}
-
-movie.episodes.push({
+movie.episodes.unshift({
   name:epName,
   servers:servers
 })
+
+hasUpdateInShow = true;
 
 const line=`#EXTINF:-1 tvg-name="${epName}" tvg-logo="${poster}" group-title="${title}",${epName}\n${video}\n\n`
 fs.appendFileSync(file,line)
@@ -606,26 +588,37 @@ const line2=`#EXTINF:-1 tvg-name="${epName}" tvg-logo="${poster}" group-title="$
 fs.appendFileSync(file,line2)
 
 }
+}
+}
+}
+}
 
-}
+if(!hasUpdateInShow){
+  noUpdateCount++;
+  console.log(`❌ ไม่มีตอนใหม่ (${noUpdateCount}/5)`);
 
-}
-
-}
-}
+  if(noUpdateCount >= 5){
+    console.log("🛑 STOP ทั้งหมวด: ไม่มีตอนใหม่");
+    break;
+  }
+}else{
+  noUpdateCount = 0;
+}    
 if(movie.episodes.length>0){
 
 const index = jsonOutput[group].findIndex(m=>m.title===title)
 
 if(index!==-1){
 
-jsonOutput[group][index]=movie
-console.log("UPDATE JSON",title)
+  jsonOutput[group].splice(index,1) // ลบของเก่า
+  jsonOutput[group].unshift(movie)  // ⭐ ดันขึ้นบน
+
+  console.log("UPDATE + MOVE TOP",title)
 
 }else{
 
-jsonOutput[group].push(movie)
-console.log("NEW JSON",title)
+  jsonOutput[group].unshift(movie)
+  console.log("NEW JSON",title)
 
 }
 
@@ -644,9 +637,7 @@ gitCommit()
 console.log("SHOW ERROR",e.message)
 
 }
-
 }
-
 }
 
 for(const group in jsonOutput){
@@ -667,9 +658,4 @@ console.log("JSON CREATED GROUPS",Object.keys(jsonOutput).length)
 console.log("DONE IPTV CREATED")
 
 }
-
-
 run()
-
-
-
