@@ -1,5 +1,89 @@
 [
   {
+    "title": "Furies: Resistance ชำระแค้นทรชน (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-6.jpg",
+    "episodes": [
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/caaf82a210518779de2c5247bac701f6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/caaf82a210518779de2c5247bac701f6"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/289430ff8dea3631932ffb934cb6d7e6/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/289430ff8dea3631932ffb934cb6d7e6"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/784087c74664bc7d49cb4e51269b91e2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/784087c74664bc7d49cb4e51269b91e2"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c3107d394179a5f4adc5c8fab7a48860/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c3107d394179a5f4adc5c8fab7a48860"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a1c296968c81c4711cd7624facba7be2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a1c296968c81c4711cd7624facba7be2"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/678dddcaf2aa026e5ac39942608e1284/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/678dddcaf2aa026e5ac39942608e1284"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Radioactive Emergency มหันตภัยกัมมันตภาพรังสี (2026) พากย์ไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/03/555555.jpg",
     "episodes": [
@@ -615,90 +699,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/d59c2550f82c81aaf36c4ea0be243d60"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Furies: Resistance ชำระแค้นทรชน (2026) พากย์ไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-6.jpg",
-    "episodes": [
-      {
-        "name": "EP6 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/caaf82a210518779de2c5247bac701f6/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/caaf82a210518779de2c5247bac701f6"
-          }
-        ]
-      },
-      {
-        "name": "EP5 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/289430ff8dea3631932ffb934cb6d7e6/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/289430ff8dea3631932ffb934cb6d7e6"
-          }
-        ]
-      },
-      {
-        "name": "EP4 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/784087c74664bc7d49cb4e51269b91e2/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/784087c74664bc7d49cb4e51269b91e2"
-          }
-        ]
-      },
-      {
-        "name": "EP3 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/c3107d394179a5f4adc5c8fab7a48860/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/c3107d394179a5f4adc5c8fab7a48860"
-          }
-        ]
-      },
-      {
-        "name": "EP2 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/a1c296968c81c4711cd7624facba7be2/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/a1c296968c81c4711cd7624facba7be2"
-          }
-        ]
-      },
-      {
-        "name": "EP1 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/678dddcaf2aa026e5ac39942608e1284/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/678dddcaf2aa026e5ac39942608e1284"
           }
         ]
       }
