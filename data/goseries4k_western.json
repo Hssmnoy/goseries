@@ -1,5 +1,76 @@
 [
   {
+    "title": "Radioactive Emergency มหันตภัยกัมมันตภาพรังสี (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/03/555555.jpg",
+    "episodes": [
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/cc159a69eb4eb32f6ece523d9af30860/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/cc159a69eb4eb32f6ece523d9af30860"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/591ccb7ecd0781ca72972d488cd1777f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/591ccb7ecd0781ca72972d488cd1777f"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b37f3faedcdde7ed86ac1c36424c682f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b37f3faedcdde7ed86ac1c36424c682f"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/7c9727bcabd52d2a9b6ccb295cac8dfa/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/7c9727bcabd52d2a9b6ccb295cac8dfa"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f75848d52baeebb8fcfe47aec7fdb7ae/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f75848d52baeebb8fcfe47aec7fdb7ae"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "ออนไลน์ Paradise ซีซัน 2 (2026) พากย์ไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-3.jpg",
     "episodes": [
@@ -628,77 +699,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/678dddcaf2aa026e5ac39942608e1284"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Radioactive Emergency มหันตภัยกัมมันตภาพรังสี (2026) พากย์ไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/03/555555.jpg",
-    "episodes": [
-      {
-        "name": "EP5 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/cc159a69eb4eb32f6ece523d9af30860/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/cc159a69eb4eb32f6ece523d9af30860"
-          }
-        ]
-      },
-      {
-        "name": "EP4 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/591ccb7ecd0781ca72972d488cd1777f/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/591ccb7ecd0781ca72972d488cd1777f"
-          }
-        ]
-      },
-      {
-        "name": "EP3 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/b37f3faedcdde7ed86ac1c36424c682f/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/b37f3faedcdde7ed86ac1c36424c682f"
-          }
-        ]
-      },
-      {
-        "name": "EP2 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/7c9727bcabd52d2a9b6ccb295cac8dfa/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/7c9727bcabd52d2a9b6ccb295cac8dfa"
-          }
-        ]
-      },
-      {
-        "name": "EP1 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/f75848d52baeebb8fcfe47aec7fdb7ae/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/f75848d52baeebb8fcfe47aec7fdb7ae"
           }
         ]
       }
