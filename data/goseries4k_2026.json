@@ -1,5 +1,76 @@
 [
   {
+    "title": "Phantom Lawyer ทนายสื่อวิญญาณ  (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/03/2.jpg",
+    "episodes": [
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8c3db04b26fc1f0283326d9f8739dad5/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8c3db04b26fc1f0283326d9f8739dad5"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/13c1945b32eadc902a2d50ace30b68f2/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/13c1945b32eadc902a2d50ace30b68f2"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/9ac676e53a7894fbe2527be80dc28694/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/9ac676e53a7894fbe2527be80dc28694"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/0407d3227db682c3ba74b27f7cb3c524/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0407d3227db682c3ba74b27f7cb3c524"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/818b88fad0c858695ee1db5a4ccf3bc9/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/818b88fad0c858695ee1db5a4ccf3bc9"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "In Your Radiant Season (2026) ซับไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-2.jpg",
     "episodes": [
@@ -6132,64 +6203,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/90e03c350ad0c5e24450d7ed9f9d8ce7"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Phantom Lawyer ทนายสื่อวิญญาณ  (2026) ซับไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/03/2.jpg",
-    "episodes": [
-      {
-        "name": "EP4 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/13c1945b32eadc902a2d50ace30b68f2/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/13c1945b32eadc902a2d50ace30b68f2"
-          }
-        ]
-      },
-      {
-        "name": "EP3 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/9ac676e53a7894fbe2527be80dc28694/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/9ac676e53a7894fbe2527be80dc28694"
-          }
-        ]
-      },
-      {
-        "name": "EP1 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/0407d3227db682c3ba74b27f7cb3c524/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/0407d3227db682c3ba74b27f7cb3c524"
-          }
-        ]
-      },
-      {
-        "name": "EP2 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/818b88fad0c858695ee1db5a4ccf3bc9/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/818b88fad0c858695ee1db5a4ccf3bc9"
           }
         ]
       }
