@@ -30,11 +30,6 @@ module.exports = [
     url: "https://goseries4k.com/category/%e0%b8%94%e0%b8%b9%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%b5-%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/"
   },
   {
-    name: "มินิซีรี่ย์",
-    slug: "mini",
-    url: "https://goseries4k.com/category/%e0%b8%a1%e0%b8%b4%e0%b8%99%e0%b8%b4%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b9%8c/"
-  },
-  {
     name: "anime",
     slug: "anime",
     url: "https://goseries4k.com/category/%e0%b8%94%e0%b8%b9%e0%b8%ad%e0%b8%99%e0%b8%b4%e0%b9%80%e0%b8%a1%e0%b8%b0/"
