@@ -1,5 +1,37 @@
 [
   {
+    "title": "ออนไลน์ The Boys 5 ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่ (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/4660b3bc85d5a343670f1a5ecc1a388d/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/4660b3bc85d5a343670f1a5ecc1a388d"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/1aab3e758912b2a4f38aa5a1a3011ceb/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1aab3e758912b2a4f38aa5a1a3011ceb"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "BANDI พี่น้องใต้เงาอาชญากรรม (2026) พากย์ไทย G4",
     "image": "",
     "episodes": [
@@ -3480,38 +3512,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/e4d6be30742013178d184782cc1bc290"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "ออนไลน์ The Boys 5 ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่ (2026) พากย์ไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
-    "episodes": [
-      {
-        "name": "EP2 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/4660b3bc85d5a343670f1a5ecc1a388d/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/4660b3bc85d5a343670f1a5ecc1a388d"
-          }
-        ]
-      },
-      {
-        "name": "EP1 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/1aab3e758912b2a4f38aa5a1a3011ceb/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/1aab3e758912b2a4f38aa5a1a3011ceb"
           }
         ]
       }
