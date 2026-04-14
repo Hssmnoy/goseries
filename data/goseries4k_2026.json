@@ -1,5 +1,37 @@
 [
   {
+    "title": "Perfect Crown รักนี้มงลง (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/04/9.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/fe81290ac931a83b6f4518104978b41f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fe81290ac931a83b6f4518104978b41f"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b78c1318bb445879a3793f6ccc688829/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b78c1318bb445879a3793f6ccc688829"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Mad Concrete Dreams วิธีการเป็นเจ้าของอาคารในเกาหลี (2026) ซับไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/03/1-1.jpg",
     "episodes": [
@@ -4485,38 +4517,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/818b88fad0c858695ee1db5a4ccf3bc9"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Perfect Crown รักนี้มงลง (2026) พากย์ไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/04/9.jpg",
-    "episodes": [
-      {
-        "name": "EP2 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/fe81290ac931a83b6f4518104978b41f/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/fe81290ac931a83b6f4518104978b41f"
-          }
-        ]
-      },
-      {
-        "name": "EP1 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/b78c1318bb445879a3793f6ccc688829/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/b78c1318bb445879a3793f6ccc688829"
           }
         ]
       }
