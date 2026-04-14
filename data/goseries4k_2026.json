@@ -1,5 +1,37 @@
 [
   {
+    "title": "Yumi’s Cells 3 เซลล์ของยูมิ ซีซั่น 3 (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-5.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/c88ee775c0bb9e7ca6bad2e82410c322/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/c88ee775c0bb9e7ca6bad2e82410c322"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/359d0365378962f8fc867fa074eb82cf/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/359d0365378962f8fc867fa074eb82cf"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Love Phobia เอไอไขรัก (2026) ซับไทย/พากย์ไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-5.jpg",
     "episodes": [
