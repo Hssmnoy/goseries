@@ -11,9 +11,16 @@ const agent=new https.Agent({rejectUnauthorized:false})
 const DOMAIN="https://goseries4k.com"
 
 const DATA_DIR="data"
+const WISEPLAY_DIR = DATA_DIR + "/wiseplay"
+
 if(!fs.existsSync(DATA_DIR)){
-fs.mkdirSync(DATA_DIR,{recursive:true})
+  fs.mkdirSync(DATA_DIR,{recursive:true})
 }
+
+if(!fs.existsSync(WISEPLAY_DIR)){
+  fs.mkdirSync(WISEPLAY_DIR,{recursive:true})
+}
+
 const TEST_MODE = false
 
 let progress={
@@ -352,6 +359,88 @@ return [...new Set(shows)]
 
 }
 
+function buildWiseplayJSON(groupName, movies) {
+
+  console.log("📺 BUILD WISEPLAY:", groupName)
+
+  const today = new Date().toLocaleDateString("th-TH")
+
+  const output = {
+    name: groupName,
+    author: today,
+    image: "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
+    url: DOMAIN,
+    groups: []
+  }
+
+  for (const movie of movies) {
+
+    let group = {
+      name: movie.title,
+      author: today,
+      image: movie.image,
+      stations: []
+    }
+
+    for (const ep of movie.episodes) {
+
+      const mainServer = ep.servers.find(s => s.name === "goseries4k") || ep.servers[0]
+
+      group.stations.push({
+        name: ep.name.replace("EP","ตอนที่ "),
+        image: movie.image,
+        url: mainServer.url,
+        referer: DOMAIN
+      })
+
+    }
+
+    group.stations.sort((a,b)=>{
+      const aNum = parseInt(a.name.replace("ตอนที่ ","")) || 0
+      const bNum = parseInt(b.name.replace("ตอนที่ ","")) || 0
+      return bNum - aNum
+    })
+
+    if (group.stations.length > 0) {
+      output.groups.push(group)
+    }
+
+  }
+
+  const file = `${WISEPLAY_DIR}/${groupName}.json`
+
+  fs.writeFileSync(file, JSON.stringify(output, null, 2))
+
+  console.log("✅ WISEPLAY JSON:", file)
+}
+
+function generateIndex(jsonOutput) {
+
+  const baseRaw = "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/";
+
+  const index = {
+    name: "Goseries4k",
+    author: new Date().toLocaleDateString("th-TH"),
+    image: "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
+    url: "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/index.json",
+    groups: []
+  };
+
+  for (const group in jsonOutput) {
+    index.groups.push({
+      name: group,
+      url: `${baseRaw}${group}.json`
+    });
+  }
+
+  fs.writeFileSync(
+    `${WISEPLAY_DIR}/index.json`,
+    JSON.stringify(index, null, 2)
+  );
+
+  console.log("📦 index.json created");
+}
+
 async function run(){
 
 const cats = categories
@@ -649,7 +738,13 @@ JSON.stringify(jsonOutput[group],null,2)
 
 console.log("JSON CREATED",file)
 
+// ✅ สร้าง wiseplay รายหมวด
+buildWiseplayJSON(group, jsonOutput[group])
+
 }
+
+// ✅ สร้าง index
+generateIndex(jsonOutput)
 
 console.log("JSON CREATED GROUPS",Object.keys(jsonOutput).length)
 
