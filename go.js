@@ -366,12 +366,12 @@ function buildWiseplayJSON(groupName, movies) {
   const today = new Date().toLocaleDateString("th-TH")
 
   const output = {
-    name: groupName,
-    author: today,
-    image: "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
-    url: DOMAIN,
-    groups: []
-  }
+  name: groupName,
+  author: today,
+  image: "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
+  url: `https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/${groupName}.json`,
+  groups: []
+}
 
   for (const movie of movies) {
 
