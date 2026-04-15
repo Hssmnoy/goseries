@@ -6,30 +6,37 @@
   "groups": [
     {
       "name": "2025",
+      "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
       "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/2025.json"
     },
     {
       "name": "2026",
+      "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
       "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/2026.json"
     },
     {
       "name": "china",
+      "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
       "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/china.json"
     },
     {
       "name": "japan",
+      "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
       "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/japan.json"
     },
     {
       "name": "western",
+      "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
       "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/western.json"
     },
     {
       "name": "korea",
+      "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
       "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/korea.json"
     },
     {
       "name": "anime",
+      "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
       "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/anime.json"
     }
   ]

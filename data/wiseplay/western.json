@@ -5,6 +5,61 @@
   "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/western.json",
   "groups": [
     {
+      "name": "Something Very Bad Is Going to Happen อย่าหวังว่าเรื่องนี้จะจบสวย (2026) พากย์ไทย G4",
+      "author": "15/4/2569",
+      "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 8 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
+          "url": "https://imsvg.com/api/files/69bf78b6ad7f80cb1136eb243baa8eb2/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 7 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
+          "url": "https://imsvg.com/api/files/9acfb0affb72244e0814722f80a26098/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 6 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
+          "url": "https://imsvg.com/api/files/17d1e163fb86c964e5853cd3f2aac2f4/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 5 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
+          "url": "https://imsvg.com/api/files/3e9a2684f4b9d5c8f4431d12bb8fec16/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 4 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
+          "url": "https://imsvg.com/api/files/a79c2004e4f761aa50569b1bd1043418/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 3 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
+          "url": "https://imsvg.com/api/files/2fb8450a332e09243906ab56ffe51368/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 2 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
+          "url": "https://imsvg.com/api/files/36ce4ad3be43fd38205ef71ce4c40886/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
+          "url": "https://imsvg.com/api/files/12468600c64adc1438cb54b73ce449c3/master.txt",
+          "referer": "https://goseries4k.com"
+        }
+      ]
+    },
+    {
       "name": "ออนไลน์ Paradise ซีซัน 2 (2026) พากย์ไทย",
       "author": "15/4/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-3.jpg",
@@ -55,25 +110,6 @@
           "name": "ตอนที่ 1 TH",
           "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-3.jpg",
           "url": "https://imsvg.com/api/files/4b56a5052297483d4943ea3ec8ac3b21/master.txt",
-          "referer": "https://goseries4k.com"
-        }
-      ]
-    },
-    {
-      "name": "ออนไลน์ The Boys 5 ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่ (2026) พากย์ไทย",
-      "author": "15/4/2569",
-      "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 2 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
-          "url": "https://imsvg.com/api/files/4660b3bc85d5a343670f1a5ecc1a388d/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 1 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
-          "url": "https://imsvg.com/api/files/1aab3e758912b2a4f38aa5a1a3011ceb/master.txt",
           "referer": "https://goseries4k.com"
         }
       ]
@@ -189,6 +225,25 @@
       ]
     },
     {
+      "name": "ออนไลน์ The Boys 5 ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่ (2026) พากย์ไทย",
+      "author": "15/4/2569",
+      "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 2 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+          "url": "https://imsvg.com/api/files/4660b3bc85d5a343670f1a5ecc1a388d/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+          "url": "https://imsvg.com/api/files/1aab3e758912b2a4f38aa5a1a3011ceb/master.txt",
+          "referer": "https://goseries4k.com"
+        }
+      ]
+    },
+    {
       "name": "Radioactive Emergency มหันตภัยกัมมันตภาพรังสี (2026) พากย์ไทย",
       "author": "15/4/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/555555.jpg",
@@ -282,61 +337,6 @@
           "name": "ตอนที่ 1 TH",
           "image": "https://goseries4k.com/wp-content/uploads/2026/03/99-5.jpg",
           "url": "https://imsvg.com/api/files/4451cc4a1fefac9a7d6ef16ae24ccbb9/master.txt",
-          "referer": "https://goseries4k.com"
-        }
-      ]
-    },
-    {
-      "name": "Something Very Bad Is Going to Happen อย่าหวังว่าเรื่องนี้จะจบสวย (2026) พากย์ไทย G4",
-      "author": "15/4/2569",
-      "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 8 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
-          "url": "https://imsvg.com/api/files/69bf78b6ad7f80cb1136eb243baa8eb2/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 7 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
-          "url": "https://imsvg.com/api/files/9acfb0affb72244e0814722f80a26098/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 6 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
-          "url": "https://imsvg.com/api/files/17d1e163fb86c964e5853cd3f2aac2f4/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 5 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
-          "url": "https://imsvg.com/api/files/3e9a2684f4b9d5c8f4431d12bb8fec16/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 4 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
-          "url": "https://imsvg.com/api/files/a79c2004e4f761aa50569b1bd1043418/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 3 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
-          "url": "https://imsvg.com/api/files/2fb8450a332e09243906ab56ffe51368/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 2 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
-          "url": "https://imsvg.com/api/files/36ce4ad3be43fd38205ef71ce4c40886/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 1 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
-          "url": "https://imsvg.com/api/files/12468600c64adc1438cb54b73ce449c3/master.txt",
           "referer": "https://goseries4k.com"
         }
       ]
