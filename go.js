@@ -429,6 +429,7 @@ function generateIndex(jsonOutput) {
   for (const group in jsonOutput) {
     index.groups.push({
       name: group,
+      image: "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
       url: `${baseRaw}${group}.json`
     });
   }
