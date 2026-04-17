@@ -1,5 +1,37 @@
 [
   {
+    "title": "จีน Eight Hundred (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-7.jpg",
+    "episodes": [
+      {
+        "name": "EP800 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/93b75a3d3ee932c5db206118275fbb7f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/93b75a3d3ee932c5db206118275fbb7f"
+          }
+        ]
+      },
+      {
+        "name": "EP800 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b9a82fb3d9ea3f045ea0feccffeaf223/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b9a82fb3d9ea3f045ea0feccffeaf223"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "จีน Sunsets Secrets Regrets ความลับใต้ตะวันลับ (2026) ซับไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-1.jpg",
     "episodes": [
