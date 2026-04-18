@@ -1,5 +1,50 @@
 [
   {
+    "title": "Perfect Crown รักนี้มงลง (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/04/9.jpg",
+    "episodes": [
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/0ecd344511195257de8bab38df420705/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0ecd344511195257de8bab38df420705"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/fe81290ac931a83b6f4518104978b41f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fe81290ac931a83b6f4518104978b41f"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b78c1318bb445879a3793f6ccc688829/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b78c1318bb445879a3793f6ccc688829"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Honour ทนายสามสาวฉาว (2026) พากย์ไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/03/99-9.jpg",
     "episodes": [
@@ -4530,51 +4575,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/d9ee5ec48eeca125bdcc95a002a2a97c"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Perfect Crown รักนี้มงลง (2026) พากย์ไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/04/9.jpg",
-    "episodes": [
-      {
-        "name": "EP3 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/0ecd344511195257de8bab38df420705/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/0ecd344511195257de8bab38df420705"
-          }
-        ]
-      },
-      {
-        "name": "EP2 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/fe81290ac931a83b6f4518104978b41f/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/fe81290ac931a83b6f4518104978b41f"
-          }
-        ]
-      },
-      {
-        "name": "EP1 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/b78c1318bb445879a3793f6ccc688829/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/b78c1318bb445879a3793f6ccc688829"
           }
         ]
       }
