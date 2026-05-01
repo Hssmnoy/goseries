@@ -1,5 +1,37 @@
 [
   {
+    "title": "Gold Land แผนล่าท้าคนโลภ (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d018896d7d22089066b904f4c162dd47/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d018896d7d22089066b904f4c162dd47"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d46156d2e691a34092a878bbae2eb8fb/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d46156d2e691a34092a878bbae2eb8fb"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Within The Grip เงามืดลวงใจ (2026) ซับไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-11.jpg",
     "episodes": [
