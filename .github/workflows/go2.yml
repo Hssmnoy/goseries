@@ -2,10 +2,12 @@ name: goseries2
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 15 * * *"
  
 permissions:
   contents: write
-
+    
 jobs:
   scrape:
     runs-on: ubuntu-latest
