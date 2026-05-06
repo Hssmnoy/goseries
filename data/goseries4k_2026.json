@@ -1,5 +1,89 @@
 [
   {
+    "title": "We Are All Trying Here เราต่างพยายามสุดใจ (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
+    "episodes": [
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/bc265470d077447426954b06006cb276/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/bc265470d077447426954b06006cb276"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/43cd32a541c0dfd4cae3cfcc0d3ed608/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/43cd32a541c0dfd4cae3cfcc0d3ed608"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/6dd7d87baedaa5471c2a3f3b7b04f0ee/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/6dd7d87baedaa5471c2a3f3b7b04f0ee"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/cc7346e81dc99c916867850cc096feac/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/cc7346e81dc99c916867850cc096feac"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/8772235b1bd06f76d6dd7ee7bc94ae4b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/8772235b1bd06f76d6dd7ee7bc94ae4b"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/32981f4f066fb445da6490fdbe5cf34b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/32981f4f066fb445da6490fdbe5cf34b"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "ออนไลน์ Filing for Love ยื่นคำร้องฉบับเลิฟ (2026) ซับไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
     "episodes": [
@@ -5592,77 +5676,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/b78c1318bb445879a3793f6ccc688829"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "We Are All Trying Here เราต่างพยายามสุดใจ (2026) ซับไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
-    "episodes": [
-      {
-        "name": "EP5 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/43cd32a541c0dfd4cae3cfcc0d3ed608/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/43cd32a541c0dfd4cae3cfcc0d3ed608"
-          }
-        ]
-      },
-      {
-        "name": "EP4 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/6dd7d87baedaa5471c2a3f3b7b04f0ee/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/6dd7d87baedaa5471c2a3f3b7b04f0ee"
-          }
-        ]
-      },
-      {
-        "name": "EP3 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/cc7346e81dc99c916867850cc096feac/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/cc7346e81dc99c916867850cc096feac"
-          }
-        ]
-      },
-      {
-        "name": "EP2 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/8772235b1bd06f76d6dd7ee7bc94ae4b/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/8772235b1bd06f76d6dd7ee7bc94ae4b"
-          }
-        ]
-      },
-      {
-        "name": "EP1 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/32981f4f066fb445da6490fdbe5cf34b/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/32981f4f066fb445da6490fdbe5cf34b"
           }
         ]
       }
