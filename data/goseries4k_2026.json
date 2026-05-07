@@ -1,5 +1,63 @@
 [
   {
+    "title": "Gold Land แผนล่าท้าคนโลภ (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
+    "episodes": [
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b481bcd7cfe7e8eac3a87c1252a7a3e1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b481bcd7cfe7e8eac3a87c1252a7a3e1"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/fde5fa9b6c917ff29ecc3e030a7bb826/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fde5fa9b6c917ff29ecc3e030a7bb826"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d018896d7d22089066b904f4c162dd47/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d018896d7d22089066b904f4c162dd47"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d46156d2e691a34092a878bbae2eb8fb/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d46156d2e691a34092a878bbae2eb8fb"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "The Double Game เกมสองหน้า (2026) ซับไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
     "episodes": [
@@ -6690,64 +6748,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/1aab3e758912b2a4f38aa5a1a3011ceb"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Gold Land แผนล่าท้าคนโลภ (2026) พากย์ไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
-    "episodes": [
-      {
-        "name": "EP4 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/b481bcd7cfe7e8eac3a87c1252a7a3e1/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/b481bcd7cfe7e8eac3a87c1252a7a3e1"
-          }
-        ]
-      },
-      {
-        "name": "EP3 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/fde5fa9b6c917ff29ecc3e030a7bb826/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/fde5fa9b6c917ff29ecc3e030a7bb826"
-          }
-        ]
-      },
-      {
-        "name": "EP2 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/d018896d7d22089066b904f4c162dd47/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/d018896d7d22089066b904f4c162dd47"
-          }
-        ]
-      },
-      {
-        "name": "EP1 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/d46156d2e691a34092a878bbae2eb8fb/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/d46156d2e691a34092a878bbae2eb8fb"
           }
         ]
       }
