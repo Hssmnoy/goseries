@@ -1,5 +1,37 @@
 [
   {
+    "title": "My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/a453947433cd255b577bc9f2b5767361/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/a453947433cd255b577bc9f2b5767361"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b88a5da93b998dcd383e06516cd22688/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b88a5da93b998dcd383e06516cd22688"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "The Double Game เกมสองหน้า (2026) ซับไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
     "episodes": [
@@ -6107,25 +6139,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/b78c1318bb445879a3793f6ccc688829"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026) พากย์ไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg",
-    "episodes": [
-      {
-        "name": "EP1 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/b88a5da93b998dcd383e06516cd22688/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/b88a5da93b998dcd383e06516cd22688"
           }
         ]
       }
