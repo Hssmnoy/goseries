@@ -1,5 +1,37 @@
 [
   {
+    "title": "Azure Spring คลื่นสีคราม (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-3.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f2d15de14e43e1edf5832469d1760a67/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f2d15de14e43e1edf5832469d1760a67"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/0b52bedd7fa37662c1f18876e9244869/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0b52bedd7fa37662c1f18876e9244869"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Perfect Crown รักนี้มงลง (2026) พากย์ไทย/ซับไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/04/8.jpg",
     "episodes": [
@@ -4478,25 +4510,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/43e44f88dce21bc14a9c4d1ae4e24e5b"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Azure Spring คลื่นสีคราม (2026) พากย์ไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-3.jpg",
-    "episodes": [
-      {
-        "name": "EP1 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/0b52bedd7fa37662c1f18876e9244869/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/0b52bedd7fa37662c1f18876e9244869"
           }
         ]
       }
