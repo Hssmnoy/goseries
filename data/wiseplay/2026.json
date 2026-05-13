@@ -1,110 +1,12 @@
 {
   "name": "2026",
-  "author": "12/5/2569",
+  "author": "13/5/2569",
   "image": "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
   "url": "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/2026.json",
   "groups": [
     {
-      "name": "ออนไลน์ Filing for Love ยื่นคำร้องฉบับเลิฟ (2026) ซับไทย",
-      "author": "12/5/2569",
-      "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 6 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
-          "url": "https://imsvg.com/api/files/a6f2bfe6aed05ea2d98b94c40d0ef248/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 5 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
-          "url": "https://imsvg.com/api/files/8539791fe3ac1fc8b9471b9732e9df0b/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 4 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
-          "url": "https://imsvg.com/api/files/e8392ea666bd594ff6df393cf9f0f12a/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 3 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
-          "url": "https://imsvg.com/api/files/17a211892c8e373d752d9e11e92e3d4b/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 2 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
-          "url": "https://imsvg.com/api/files/8f46ebecd885f0ddfb5e50db89a65f7c/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 1 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
-          "url": "https://imsvg.com/api/files/e8415ea21350c2fe76a63e35824978ee/master.txt",
-          "referer": "https://goseries4k.com"
-        }
-      ]
-    },
-    {
-      "name": "We Are All Trying Here เราต่างพยายามสุดใจ (2026) ซับไทย",
-      "author": "12/5/2569",
-      "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 8 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
-          "url": "https://imsvg.com/api/files/69fadccd53e68af4bc72c831fa6a0c2f/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 7 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
-          "url": "https://imsvg.com/api/files/db5e387faa5d817df4b8fb5ff7e7518b/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 6 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
-          "url": "https://imsvg.com/api/files/bc265470d077447426954b06006cb276/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 5 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
-          "url": "https://imsvg.com/api/files/43cd32a541c0dfd4cae3cfcc0d3ed608/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 4 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
-          "url": "https://imsvg.com/api/files/6dd7d87baedaa5471c2a3f3b7b04f0ee/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 3 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
-          "url": "https://imsvg.com/api/files/cc7346e81dc99c916867850cc096feac/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 2 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
-          "url": "https://imsvg.com/api/files/8772235b1bd06f76d6dd7ee7bc94ae4b/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 1 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
-          "url": "https://imsvg.com/api/files/32981f4f066fb445da6490fdbe5cf34b/master.txt",
-          "referer": "https://goseries4k.com"
-        }
-      ]
-    },
-    {
       "name": "ซีรี่ย์จีน Fate Chooses You คู่สรรสวรรค์สร้าง (2026) พากย์ไทย/ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-12.jpg",
       "stations": [
         {
@@ -572,21 +474,8 @@
       ]
     },
     {
-      "name": "The Legend of Kitchen Soldier บันทึกครัวค่ายทหาร (2026) ซับไทย",
-      "author": "12/5/2569",
-      "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-2.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-2.jpg",
-          "url": "https://imsvg.com/api/files/43e44f88dce21bc14a9c4d1ae4e24e5b/master.txt",
-          "referer": "https://goseries4k.com"
-        }
-      ]
-    },
-    {
       "name": "Phantom Lawyer ทนายสื่อวิญญาณ  (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/2.jpg",
       "stations": [
         {
@@ -748,105 +637,8 @@
       ]
     },
     {
-      "name": "The Double Game เกมสองหน้า (2026) ซับไทย",
-      "author": "12/5/2569",
-      "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 15 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/aa1a433a3a1ca7befdc28d21292df2b8/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 14 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/c4935da7b6af5f64e30e60c3d53159f2/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 13 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/166679b8165f5667c2ef14587bcdb79c/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 12 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/ccb396f083f7e9d015afef9e2459018d/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 11 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/4e730ec9a39389260745542967c35fee/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 10 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/1b6a482b0e3a730b282e5b4fe8512a25/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 9 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/987afa3eb825daa6b8a043de4df9f3d9/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 8 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/603fb9b1e787b271363db2609ff8faef/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 7 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/75edb8b428ed94d08c3e5edf8780b3b2/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 6 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/2ded9956201e9db14ba3e41c79c31627/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 5 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/cf9c8fcf2ac7790551bbc8291b59e112/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 4 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/129c0f2f510847516b2db8eb841bf14d/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 3 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/f24b281bc380885755f9f22a1a28714b/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 2 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/8c02bb1e671e61349bd3c513aba44368/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 1 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
-          "url": "https://imsvg.com/api/files/1f9cb02bf5f639a51dc3efb2d711763d/master.txt",
-          "referer": "https://goseries4k.com"
-        }
-      ]
-    },
-    {
       "name": "จีน Light To The Night คำสารภาพคืนราตรี (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-14.jpg",
       "stations": [
         {
@@ -996,10 +788,163 @@
       ]
     },
     {
+      "name": "Azure Spring คลื่นสีคราม (2026) พากย์ไทย",
+      "author": "13/5/2569",
+      "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-3.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 2 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-3.jpg",
+          "url": "https://imsvg.com/api/files/f2d15de14e43e1edf5832469d1760a67/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-3.jpg",
+          "url": "https://imsvg.com/api/files/0b52bedd7fa37662c1f18876e9244869/master.txt",
+          "referer": "https://goseries4k.com"
+        }
+      ]
+    },
+    {
+      "name": "The Legend of Kitchen Soldier บันทึกครัวค่ายทหาร (2026) ซับไทย",
+      "author": "13/5/2569",
+      "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-2.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 2 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-2.jpg",
+          "url": "https://imsvg.com/api/files/add34f27dad3e1e5331f2fd049504be8/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-2.jpg",
+          "url": "https://imsvg.com/api/files/43e44f88dce21bc14a9c4d1ae4e24e5b/master.txt",
+          "referer": "https://goseries4k.com"
+        }
+      ]
+    },
+    {
+      "name": "The Double Game เกมสองหน้า (2026) ซับไทย",
+      "author": "13/5/2569",
+      "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 16 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/26643b5633d2f3511be8cac8b0c13554/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 15 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/aa1a433a3a1ca7befdc28d21292df2b8/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 14 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/c4935da7b6af5f64e30e60c3d53159f2/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 13 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/166679b8165f5667c2ef14587bcdb79c/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 12 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/ccb396f083f7e9d015afef9e2459018d/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 11 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/4e730ec9a39389260745542967c35fee/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 10 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/1b6a482b0e3a730b282e5b4fe8512a25/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 9 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/987afa3eb825daa6b8a043de4df9f3d9/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 8 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/603fb9b1e787b271363db2609ff8faef/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 7 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/75edb8b428ed94d08c3e5edf8780b3b2/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 6 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/2ded9956201e9db14ba3e41c79c31627/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 5 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/cf9c8fcf2ac7790551bbc8291b59e112/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 4 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/129c0f2f510847516b2db8eb841bf14d/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 3 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/f24b281bc380885755f9f22a1a28714b/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 2 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/8c02bb1e671e61349bd3c513aba44368/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
+          "url": "https://imsvg.com/api/files/1f9cb02bf5f639a51dc3efb2d711763d/master.txt",
+          "referer": "https://goseries4k.com"
+        }
+      ]
+    },
+    {
       "name": "จีน A Splendid Match (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-16.jpg",
       "stations": [
+        {
+          "name": "ตอนที่ 22 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-16.jpg",
+          "url": "https://imsvg.com/api/files/4c09608d49f28df7ce2c0259a28dbbcf/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 21 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-16.jpg",
+          "url": "https://imsvg.com/api/files/4b9009821d8933efb5d13365e5cd16ac/master.txt",
+          "referer": "https://goseries4k.com"
+        },
         {
           "name": "ตอนที่ 20 SUB",
           "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-16.jpg",
@@ -1109,9 +1054,21 @@
           "referer": "https://goseries4k.com"
         },
         {
+          "name": "ตอนที่ 2 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-16.jpg",
+          "url": "https://imsvg.com/api/files/9cf48d26aeec4052e56b59d9d8a3d536/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
           "name": "ตอนที่ 2 SUB",
           "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-16.jpg",
           "url": "https://imsvg.com/api/files/8d15e794f1cd319bf8706ffddad562f7/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-16.jpg",
+          "url": "https://imsvg.com/api/files/ff42c99f7703235e29cdc3819264af12/master.txt",
           "referer": "https://goseries4k.com"
         },
         {
@@ -1123,10 +1080,71 @@
       ]
     },
     {
+      "name": "ออนไลน์ The Boys 5 ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่ (2026) พากย์ไทย",
+      "author": "13/5/2569",
+      "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 7 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+          "url": "https://imsvg.com/api/files/79537a0ba633995a58f5e688585f5791/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 6 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+          "url": "https://imsvg.com/api/files/f3efb8041d12251a12bcc1c4942fc89b/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 5 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+          "url": "https://imsvg.com/api/files/bc667709d26d80a1d2b865abb333527e/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 4 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+          "url": "https://imsvg.com/api/files/4130abef7d6163e5c717a81122bbfc40/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 3 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+          "url": "https://imsvg.com/api/files/2f55821412bdce666292d4e5384f850d/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 2 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+          "url": "https://imsvg.com/api/files/4660b3bc85d5a343670f1a5ecc1a388d/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
+          "url": "https://imsvg.com/api/files/1aab3e758912b2a4f38aa5a1a3011ceb/master.txt",
+          "referer": "https://goseries4k.com"
+        }
+      ]
+    },
+    {
       "name": "จีน No Doubt in Us สลับร่าง สลับใจ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-3.jpg",
       "stations": [
+        {
+          "name": "ตอนที่ 18 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-3.jpg",
+          "url": "https://imsvg.com/api/files/8b27503f88bdefbd64ff6db8b2d0dda2/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 17 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-3.jpg",
+          "url": "https://imsvg.com/api/files/27f68ac9e04ebdb64efbce23ed598c6d/master.txt",
+          "referer": "https://goseries4k.com"
+        },
         {
           "name": "ตอนที่ 16 SUB",
           "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-3.jpg",
@@ -1226,8 +1244,51 @@
       ]
     },
     {
+      "name": "Gold Land แผนล่าท้าคนโลภ (2026) พากย์ไทย",
+      "author": "13/5/2569",
+      "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 6 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
+          "url": "https://imsvg.com/api/files/12e9918f2102d5e9b56a7b54554fef34/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 5 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
+          "url": "https://imsvg.com/api/files/1d8aaad8b5cce13de68faad32509234a/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 4 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
+          "url": "https://imsvg.com/api/files/b481bcd7cfe7e8eac3a87c1252a7a3e1/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 3 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
+          "url": "https://imsvg.com/api/files/fde5fa9b6c917ff29ecc3e030a7bb826/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 2 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
+          "url": "https://imsvg.com/api/files/d018896d7d22089066b904f4c162dd47/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
+          "url": "https://imsvg.com/api/files/d46156d2e691a34092a878bbae2eb8fb/master.txt",
+          "referer": "https://goseries4k.com"
+        }
+      ]
+    },
+    {
       "name": "จีน Rebirth ฉู่เฉียวจอมใจจารชน 2 (2026) พากย์ไทย/ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-2.jpg",
       "stations": [
         {
@@ -1411,6 +1472,12 @@
           "referer": "https://goseries4k.com"
         },
         {
+          "name": "ตอนที่ 9 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-2.jpg",
+          "url": "https://imsvg.com/api/files/6e1ad2b92280ae1cae1008ece1127255/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
           "name": "ตอนที่ 9 SUB",
           "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-2.jpg",
           "url": "https://imsvg.com/api/files/f8fb42377677336e082921aea77074b1/master.txt",
@@ -1516,9 +1583,33 @@
     },
     {
       "name": "จีน Low IQ Crime ภารกิจจับโจรของตำรวจดวงเฮง (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/05/99.jpg",
       "stations": [
+        {
+          "name": "ตอนที่ 24 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99.jpg",
+          "url": "https://imsvg.com/api/files/12ccd91174044914b5b101b7b233ec2d/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 23 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99.jpg",
+          "url": "https://imsvg.com/api/files/e165a17540994664f1f5bf9ce3b0ab5d/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 22 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99.jpg",
+          "url": "https://imsvg.com/api/files/1c4059424b2a3f30a014c0ad9acbfbc0/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 21 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99.jpg",
+          "url": "https://imsvg.com/api/files/590481a435955b14871582a44a690f88/master.txt",
+          "referer": "https://goseries4k.com"
+        },
         {
           "name": "ตอนที่ 20 SUB",
           "image": "https://goseries4k.com/wp-content/uploads/2026/05/99.jpg",
@@ -1643,7 +1734,7 @@
     },
     {
       "name": "The World Is Full of Surprises เพียงพบพาน ดั่งภาพฝัน (2026) พากย์ไทย/ซับไทย EP1-22 (จบ) G4",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-15.jpg",
       "stations": [
         {
@@ -1656,6 +1747,12 @@
           "name": "ตอนที่ 21 SUB",
           "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-15.jpg",
           "url": "https://imsvg.com/api/files/7f47b56b1251ec34764de4815aa39140/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 20 TH",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-15.jpg",
+          "url": "https://imsvg.com/api/files/f96482f2884592e93a5c6529ff10bc76/master.txt",
           "referer": "https://goseries4k.com"
         },
         {
@@ -1889,27 +1986,186 @@
       ]
     },
     {
-      "name": "Azure Spring คลื่นสีคราม (2026) พากย์ไทย",
-      "author": "12/5/2569",
-      "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-3.jpg",
+      "name": "จีน Zhan Zhao Adventures จั่นเจาตะลุยยุทธภพ (2026) ซับไทย",
+      "author": "13/5/2569",
+      "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-4.jpg",
       "stations": [
         {
-          "name": "ตอนที่ 2 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-3.jpg",
-          "url": "https://imsvg.com/api/files/f2d15de14e43e1edf5832469d1760a67/master.txt",
+          "name": "ตอนที่ 4 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-4.jpg",
+          "url": "https://imsvg.com/api/files/0a6415dc48cbedb93ea9b3d6a3f79f42/master.txt",
           "referer": "https://goseries4k.com"
         },
         {
-          "name": "ตอนที่ 1 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-3.jpg",
-          "url": "https://imsvg.com/api/files/0b52bedd7fa37662c1f18876e9244869/master.txt",
+          "name": "ตอนที่ 3 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-4.jpg",
+          "url": "https://imsvg.com/api/files/58fb3b7c1336d307a708c0201ab73b06/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 2 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-4.jpg",
+          "url": "https://imsvg.com/api/files/61fb76817951514f6798e9f15541aba1/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-4.jpg",
+          "url": "https://imsvg.com/api/files/1c5ffe0ee8c5fbe859c11eb3b434c244/master.txt",
+          "referer": "https://goseries4k.com"
+        }
+      ]
+    },
+    {
+      "name": "ออนไลน์ Sold Out On You รักเธอหมดใจ (2026) ซับไทย",
+      "author": "13/5/2569",
+      "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 7 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
+          "url": "https://imsvg.com/api/files/1e502bbdaecfa2bc15c0f9f4db9df617/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 6 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
+          "url": "https://imsvg.com/api/files/7eaf71c4b85bdd6f69565666f52ac5b0/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 5 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
+          "url": "https://imsvg.com/api/files/9a115c31be66a65c5907248583d7e804/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 4 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
+          "url": "https://imsvg.com/api/files/c141d7409e7131ad8eb1020785e7d010/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 3 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
+          "url": "https://imsvg.com/api/files/3d911957046b156b3eac6bd4c5abc1ba/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 2 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
+          "url": "https://imsvg.com/api/files/c6327da03bad3ea4ba1a057e94a58197/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
+          "url": "https://imsvg.com/api/files/69d0ae129fe840dd03eb18d598fa0f02/master.txt",
+          "referer": "https://goseries4k.com"
+        }
+      ]
+    },
+    {
+      "name": "ออนไลน์ Filing for Love ยื่นคำร้องฉบับเลิฟ (2026) ซับไทย",
+      "author": "13/5/2569",
+      "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 6 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
+          "url": "https://imsvg.com/api/files/a6f2bfe6aed05ea2d98b94c40d0ef248/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 5 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
+          "url": "https://imsvg.com/api/files/8539791fe3ac1fc8b9471b9732e9df0b/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 4 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
+          "url": "https://imsvg.com/api/files/e8392ea666bd594ff6df393cf9f0f12a/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 3 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
+          "url": "https://imsvg.com/api/files/17a211892c8e373d752d9e11e92e3d4b/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 2 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
+          "url": "https://imsvg.com/api/files/8f46ebecd885f0ddfb5e50db89a65f7c/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999.jpg",
+          "url": "https://imsvg.com/api/files/e8415ea21350c2fe76a63e35824978ee/master.txt",
+          "referer": "https://goseries4k.com"
+        }
+      ]
+    },
+    {
+      "name": "We Are All Trying Here เราต่างพยายามสุดใจ (2026) ซับไทย",
+      "author": "13/5/2569",
+      "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 8 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
+          "url": "https://imsvg.com/api/files/69fadccd53e68af4bc72c831fa6a0c2f/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 7 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
+          "url": "https://imsvg.com/api/files/db5e387faa5d817df4b8fb5ff7e7518b/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 6 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
+          "url": "https://imsvg.com/api/files/bc265470d077447426954b06006cb276/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 5 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
+          "url": "https://imsvg.com/api/files/43cd32a541c0dfd4cae3cfcc0d3ed608/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 4 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
+          "url": "https://imsvg.com/api/files/6dd7d87baedaa5471c2a3f3b7b04f0ee/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 3 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
+          "url": "https://imsvg.com/api/files/cc7346e81dc99c916867850cc096feac/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 2 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
+          "url": "https://imsvg.com/api/files/8772235b1bd06f76d6dd7ee7bc94ae4b/master.txt",
+          "referer": "https://goseries4k.com"
+        },
+        {
+          "name": "ตอนที่ 1 SUB",
+          "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-4.jpg",
+          "url": "https://imsvg.com/api/files/32981f4f066fb445da6490fdbe5cf34b/master.txt",
           "referer": "https://goseries4k.com"
         }
       ]
     },
     {
       "name": "Perfect Crown รักนี้มงลง (2026) พากย์ไทย/ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/8.jpg",
       "stations": [
         {
@@ -2036,7 +2292,7 @@
     },
     {
       "name": "My Royal Nemesis ศัตรูหัวใจ นางร้ายวังหลวง (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/05/9999.jpg",
       "stations": [
         {
@@ -2055,7 +2311,7 @@
     },
     {
       "name": "จีน Echoes of Gang City ลิขิตรักสองภพ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-9.jpg",
       "stations": [
         {
@@ -2230,7 +2486,7 @@
     },
     {
       "name": "Absolute Va lue of Romance วุ่นนัก รักสัมบูรณ์ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9999-1.jpg",
       "stations": [
         {
@@ -2309,7 +2565,7 @@
     },
     {
       "name": "จีน Fireworks สลับร่างล่าวิญญาณ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-13.jpg",
       "stations": [
         {
@@ -2460,7 +2716,7 @@
     },
     {
       "name": "Climax สุดจุดเดือด (2026) พากย์ไทย/ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/8888.jpg",
       "stations": [
         {
@@ -2551,7 +2807,7 @@
     },
     {
       "name": "จีน Love Beyond the Grave ประทีปรักเหนือสองภพ (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-12.jpg",
       "stations": [
         {
@@ -3037,39 +3293,8 @@
       ]
     },
     {
-      "name": "Gold Land แผนล่าท้าคนโลภ (2026) พากย์ไทย",
-      "author": "12/5/2569",
-      "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 4 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
-          "url": "https://imsvg.com/api/files/b481bcd7cfe7e8eac3a87c1252a7a3e1/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 3 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
-          "url": "https://imsvg.com/api/files/fde5fa9b6c917ff29ecc3e030a7bb826/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 2 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
-          "url": "https://imsvg.com/api/files/d018896d7d22089066b904f4c162dd47/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 1 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
-          "url": "https://imsvg.com/api/files/d46156d2e691a34092a878bbae2eb8fb/master.txt",
-          "referer": "https://goseries4k.com"
-        }
-      ]
-    },
-    {
       "name": "Within The Grip เงามืดลวงใจ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-11.jpg",
       "stations": [
         {
@@ -3220,7 +3445,7 @@
     },
     {
       "name": "จีน Bloom Life เพลงรักแห่งคัชการ์ (2026) พากย์ไทย/ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-1.jpg",
       "stations": [
         {
@@ -3322,51 +3547,8 @@
       ]
     },
     {
-      "name": "ออนไลน์ Sold Out On You รักเธอหมดใจ (2026) ซับไทย",
-      "author": "12/5/2569",
-      "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 6 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
-          "url": "https://imsvg.com/api/files/7eaf71c4b85bdd6f69565666f52ac5b0/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 5 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
-          "url": "https://imsvg.com/api/files/9a115c31be66a65c5907248583d7e804/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 4 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
-          "url": "https://imsvg.com/api/files/c141d7409e7131ad8eb1020785e7d010/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 3 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
-          "url": "https://imsvg.com/api/files/3d911957046b156b3eac6bd4c5abc1ba/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 2 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
-          "url": "https://imsvg.com/api/files/c6327da03bad3ea4ba1a057e94a58197/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 1 SUB",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99999.jpg",
-          "url": "https://imsvg.com/api/files/69d0ae129fe840dd03eb18d598fa0f02/master.txt",
-          "referer": "https://goseries4k.com"
-        }
-      ]
-    },
-    {
       "name": "Yumi’s Cells 3 เซลล์ของยูมิ ซีซั่น 3 (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-5.jpg",
       "stations": [
         {
@@ -3421,7 +3603,7 @@
     },
     {
       "name": "จีน Eight Hundred (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-7.jpg",
       "stations": [
         {
@@ -3553,51 +3735,8 @@
       ]
     },
     {
-      "name": "ออนไลน์ The Boys 5 ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่ (2026) พากย์ไทย",
-      "author": "12/5/2569",
-      "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 6 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
-          "url": "https://imsvg.com/api/files/f3efb8041d12251a12bcc1c4942fc89b/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 5 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
-          "url": "https://imsvg.com/api/files/bc667709d26d80a1d2b865abb333527e/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 4 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
-          "url": "https://imsvg.com/api/files/4130abef7d6163e5c717a81122bbfc40/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 3 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
-          "url": "https://imsvg.com/api/files/2f55821412bdce666292d4e5384f850d/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 2 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
-          "url": "https://imsvg.com/api/files/4660b3bc85d5a343670f1a5ecc1a388d/master.txt",
-          "referer": "https://goseries4k.com"
-        },
-        {
-          "name": "ตอนที่ 1 TH",
-          "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-2.jpg",
-          "url": "https://imsvg.com/api/files/1aab3e758912b2a4f38aa5a1a3011ceb/master.txt",
-          "referer": "https://goseries4k.com"
-        }
-      ]
-    },
-    {
       "name": "จีน Rebirth ฉู่เฉียว จอมใจจารชน 2 (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-2.jpg",
       "stations": [
         {
@@ -3838,7 +3977,7 @@
     },
     {
       "name": "The World Is Full of Surprises เพียงพบพาน ดั่งภาพฝัน (2026) ซับไทย EP1-24 (จบ) G4",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-15.jpg",
       "stations": [
         {
@@ -3977,7 +4116,7 @@
     },
     {
       "name": "ออนไลน์ GLORY สังเวียนเกียรติยศ (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/05/9.jpg",
       "stations": [
         {
@@ -4026,7 +4165,7 @@
     },
     {
       "name": "จีน Hold a Court Now คดีชีวิตคดีหัวใจ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-11.jpg",
       "stations": [
         {
@@ -4183,7 +4322,7 @@
     },
     {
       "name": "Revenge of the False Bride มรสุมรักกลางไฟสงคราม (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-3.jpg",
       "stations": [
         {
@@ -4334,7 +4473,7 @@
     },
     {
       "name": "Honour ทนายสามสาวฉาว (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/99-9.jpg",
       "stations": [
         {
@@ -4413,7 +4552,7 @@
     },
     {
       "name": "จีน Soft-Hearted God ภพรักลิขิตสวรรค์ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-3.jpg",
       "stations": [
         {
@@ -4588,7 +4727,7 @@
     },
     {
       "name": "Mad Concrete Dreams วิธีการเป็นเจ้าของอาคารในเกาหลี (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/1-1.jpg",
       "stations": [
         {
@@ -4667,7 +4806,7 @@
     },
     {
       "name": "Veil of Shadows บันทึกเกล็ดจันทร์ (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/999-1.jpg",
       "stations": [
         {
@@ -5022,7 +5161,7 @@
     },
     {
       "name": "Stingers: Undercover Verification Unit สติงเกอร์ส: หน่วยลับจับวายร้าย (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/99-4.jpg",
       "stations": [
         {
@@ -5095,7 +5234,7 @@
     },
     {
       "name": "จีน Sunsets Secrets Regrets ความลับใต้ตะวันลับ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-1.jpg",
       "stations": [
         {
@@ -5438,7 +5577,7 @@
     },
     {
       "name": "Love Story in the 1970s พึ่งพารักพักพิงฝัน (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-7.jpg",
       "stations": [
         {
@@ -5793,7 +5932,7 @@
     },
     {
       "name": "If Wishes Could Kill กีรีโก แอปหลอน พรสั่งตาย (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-10.jpg",
       "stations": [
         {
@@ -5848,7 +5987,7 @@
     },
     {
       "name": "In Your Radiant Season (2026) พากย์ไทย/ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/7.jpg",
       "stations": [
         {
@@ -5951,7 +6090,7 @@
     },
     {
       "name": "Love Phobia เอไอไขรัก (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-5.jpg",
       "stations": [
         {
@@ -6054,7 +6193,7 @@
     },
     {
       "name": "นางกำนัลตัวแสบแห่งวังหลวง This Palace Maid Isn’t Very Calm (2026) ซับไทย EP1-25 (จบ) G4",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-6.jpg",
       "stations": [
         {
@@ -6205,7 +6344,7 @@
     },
     {
       "name": "ออนไลน์ MAN ON FIRE คนจริงเผาแค้น (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/4.jpg",
       "stations": [
         {
@@ -6254,7 +6393,7 @@
     },
     {
       "name": "จีน The Epoch of Miyu คำลวงซ้อนรัก (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-4.jpg",
       "stations": [
         {
@@ -6483,7 +6622,7 @@
     },
     {
       "name": "Perfect Crown รักนี้มงลง (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/04/9.jpg",
       "stations": [
         {
@@ -6508,7 +6647,7 @@
     },
     {
       "name": "Climax สุดจุดเดือด (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/8888.jpg",
       "stations": [
         {
@@ -6575,7 +6714,7 @@
     },
     {
       "name": "BANDI พี่น้องใต้เงาอาชญากรรม (2026) พากย์ไทย G4",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "",
       "stations": [
         {
@@ -6630,7 +6769,7 @@
     },
     {
       "name": "Big Mistakes ผิดเป็นกู (2026) พากย์ไทย G4",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-17.jpg",
       "stations": [
         {
@@ -6685,7 +6824,7 @@
     },
     {
       "name": "Phantom Lawyer ทนายสื่อวิญญาณ  (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/2.jpg",
       "stations": [
         {
@@ -6752,7 +6891,7 @@
     },
     {
       "name": "Siren’s Kisss จุมพิตไซเรน (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-14.jpg",
       "stations": [
         {
@@ -6825,7 +6964,7 @@
     },
     {
       "name": "The Practical Guide to Love เดตที่ชอบ กับคนที่ใช่ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/885.jpg",
       "stations": [
         {
@@ -6904,7 +7043,7 @@
     },
     {
       "name": "Generation To Generation ทิวากลางแห่งพิรุณโปรย (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-8.jpg",
       "stations": [
         {
@@ -7343,7 +7482,7 @@
     },
     {
       "name": "In Your Radiant Season (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-2.jpg",
       "stations": [
         {
@@ -7416,7 +7555,7 @@
     },
     {
       "name": "Still Shining เธอคือแสงส่องใจ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/22.jpg",
       "stations": [
         {
@@ -7483,7 +7622,7 @@
     },
     {
       "name": "Love Story in the 1970s (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-7.jpg",
       "stations": [
         {
@@ -7664,7 +7803,7 @@
     },
     {
       "name": "Dream of Golden Years ยุคทองของคนมีฝัน (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/1-2.jpg",
       "stations": [
         {
@@ -7881,7 +8020,7 @@
     },
     {
       "name": "จีน Dark And Dawn ชั่วขณะก่อนรัตติกาล (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/99-7.jpg",
       "stations": [
         {
@@ -8032,7 +8171,7 @@
     },
     {
       "name": "จีน Bloom In Turmoil ราชินีล้างแค้น (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-8.jpg",
       "stations": [
         {
@@ -8183,7 +8322,7 @@
     },
     {
       "name": "Sins of Kujo คุโจยอดทยานบาป (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-13.jpg",
       "stations": [
         {
@@ -8250,7 +8389,7 @@
     },
     {
       "name": "จีน Glory Back เพลิงฟื้นคืนใจ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-5.jpg",
       "stations": [
         {
@@ -8449,7 +8588,7 @@
     },
     {
       "name": "จีน Glaze of Love รอยรักบนเครื่องเคลือบ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-14.jpg",
       "stations": [
         {
@@ -8576,7 +8715,7 @@
     },
     {
       "name": "My Precious เหนือรักแลกปรารถนา (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-7.jpg",
       "stations": [
         {
@@ -8643,7 +8782,7 @@
     },
     {
       "name": "ออนไลน์ Paradise ซีซัน 2 (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-3.jpg",
       "stations": [
         {
@@ -8698,7 +8837,7 @@
     },
     {
       "name": "Bloody Flower คนแลกเลือด (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/1-1.jpg",
       "stations": [
         {
@@ -8783,7 +8922,7 @@
     },
     {
       "name": "Something Very Bad Is Going to Happen อย่าหวังว่าเรื่องนี้จะจบสวย (2026) พากย์ไทย G4",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/999.jpg",
       "stations": [
         {
@@ -8838,7 +8977,7 @@
     },
     {
       "name": "จีน Pursuit of Jade ล่าหยก (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/99999.jpg",
       "stations": [
         {
@@ -9325,7 +9464,7 @@
     },
     {
       "name": "ออนไลน์ Detective Hole ยอดนักสืบแฮร์รี โฮล (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/99-5.jpg",
       "stations": [
         {
@@ -9386,7 +9525,7 @@
     },
     {
       "name": "จีน Fall in Love พิสูจน์รักข้ามเวล (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-9.jpg",
       "stations": [
         {
@@ -9531,7 +9670,7 @@
     },
     {
       "name": "Fatal Seduction ปรารถนาอันตราย 3 (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/99-1.jpg",
       "stations": [
         {
@@ -9604,7 +9743,7 @@
     },
     {
       "name": "Love Phobia เอไอไขรัก (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-5.jpg",
       "stations": [
         {
@@ -9653,7 +9792,7 @@
     },
     {
       "name": "Love In A Secret เก็บรักไว้ในใจเธอ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-1.jpg",
       "stations": [
         {
@@ -9804,7 +9943,7 @@
     },
     {
       "name": "NEPIECE วันพีซ ซีซั่น 2 (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-3.jpg",
       "stations": [
         {
@@ -9859,7 +9998,7 @@
     },
     {
       "name": "About Love กุหลาบผลิบานในหัวใจ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-10.jpg",
       "stations": [
         {
@@ -10022,7 +10161,7 @@
     },
     {
       "name": "Furies: Resistance ชำระแค้นทรชน (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-6.jpg",
       "stations": [
         {
@@ -10065,7 +10204,7 @@
     },
     {
       "name": "Radioactive Emergency มหันตภัยกัมมันตภาพรังสี (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/555555.jpg",
       "stations": [
         {
@@ -10102,7 +10241,7 @@
     },
     {
       "name": "Detective Duo: Maiden and Horseman คู่นักสืบม้าศึก (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/99-3.jpg",
       "stations": [
         {
@@ -10253,7 +10392,7 @@
     },
     {
       "name": "Reincarnated Love ห้วงฝันแห่งหลินอัน (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/99-2.jpg",
       "stations": [
         {
@@ -10404,7 +10543,7 @@
     },
     {
       "name": "The Hidden Heir Ye Chen รหัสลับทายาทหมื่นล้าน (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-2.jpg",
       "stations": [
         {
@@ -10603,7 +10742,7 @@
     },
     {
       "name": "Wild & Fiery เกมรักคุณหนูกำมะลอ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9-4.jpg",
       "stations": [
         {
@@ -10754,7 +10893,7 @@
     },
     {
       "name": "That Night เรื่องในคืนนั้น (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/8.jpg",
       "stations": [
         {
@@ -10797,7 +10936,7 @@
     },
     {
       "name": "จีน Echoes of Love ประทินรักฉบับบล็อกเกอร์ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9999.jpg",
       "stations": [
         {
@@ -10942,7 +11081,7 @@
     },
     {
       "name": "Love Story in the 1970s (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-7.jpg",
       "stations": [
         {
@@ -11123,7 +11262,7 @@
     },
     {
       "name": "We Almost Broke Up รักนี้รีเพลย์ไม่เลิก (2025) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-13.jpg",
       "stations": [
         {
@@ -11208,7 +11347,7 @@
     },
     {
       "name": "Swords into Plowshares คมดาบสยบพิภพ (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-6.jpg",
       "stations": [
         {
@@ -11497,7 +11636,7 @@
     },
     {
       "name": "Sudar and Lies รอยร้าวความหวาน (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-11.jpg",
       "stations": [
         {
@@ -11648,7 +11787,7 @@
     },
     {
       "name": "The General’s Sweety 2 ภรรยาตัวป่วนของท่านแม่ทัพ ภาค 2 (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/9.jpg",
       "stations": [
         {
@@ -11799,7 +11938,7 @@
     },
     {
       "name": "Boyfriend on Demand แฟนสมมติ สะดุดรัก (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/03/99.jpg",
       "stations": [
         {
@@ -11866,7 +12005,7 @@
     },
     {
       "name": "VLADIMIR หัวใจใฝ่หา วลาดิเมียร์ (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/88.jpg",
       "stations": [
         {
@@ -11921,7 +12060,7 @@
     },
     {
       "name": "Our Dazzling Days วันที่เปล่งประกายของสองเรา (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/999-1.jpg",
       "stations": [
         {
@@ -12102,7 +12241,7 @@
     },
     {
       "name": "Too Young To Love ชายกระโปรงในวันวาน  (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-12.jpg",
       "stations": [
         {
@@ -12247,7 +12386,7 @@
     },
     {
       "name": "ฟรี No Tail to Tell เรื่องราวของจิงจอกสาวไร้หาง (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/11.jpg",
       "stations": [
         {
@@ -12326,7 +12465,7 @@
     },
     {
       "name": "คดีพิศวงเสียงกระซิบในหมอก Unveil:Jadewind (2026) ซับไทย-พากย์ไทย EP1-40 จบ G4",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-2.jpg",
       "stations": [
         {
@@ -12741,7 +12880,7 @@
     },
     {
       "name": "Bridgerton Season 4 บริดเจอร์ตัน: วังวนรัก เกมไฮโซ 4 (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/99-6.jpg",
       "stations": [
         {
@@ -12796,7 +12935,7 @@
     },
     {
       "name": "จีน My Page in the 90s วันที่หัวใจเผลอรัก (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-8.jpg",
       "stations": [
         {
@@ -13085,7 +13224,7 @@
     },
     {
       "name": "จีน Follow My Dear General ปล่อยใจไปตามท่านแม่ทัพ (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-13.jpg",
       "stations": [
         {
@@ -13278,7 +13417,7 @@
     },
     {
       "name": "A Knight of the Seven Kingdoms อัศวินแห่งเจ็ดราชอาณาจักร (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/4-1.jpg",
       "stations": [
         {
@@ -13321,7 +13460,7 @@
     },
     {
       "name": "จีน The Imperial Coroner S2 ฉู่ฉู่ มือชันสูตรฟ้าประทาน 2 (2026) ซับไทย-พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/8-2.jpg",
       "stations": [
         {
@@ -13652,7 +13791,7 @@
     },
     {
       "name": "The Truth ร่องรอยที่ลมพัดผ่าน (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/999-1.jpg",
       "stations": [
         {
@@ -13833,7 +13972,7 @@
     },
     {
       "name": "No Pain No Gain ชะตาพลิกลิขิตฝัน (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/99.jpg",
       "stations": [
         {
@@ -13996,7 +14135,7 @@
     },
     {
       "name": "The Glory Fades ใต้ม่านมายา (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-3.jpg",
       "stations": [
         {
@@ -14207,7 +14346,7 @@
     },
     {
       "name": "Eternal Love of the Fox จิ้งจอกเก้าหางพานพบรัก (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/1.jpg",
       "stations": [
         {
@@ -14496,7 +14635,7 @@
     },
     {
       "name": "จีน Shall We Dance สองเงารักใต้เงาลวง (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-4.jpg",
       "stations": [
         {
@@ -14641,7 +14780,7 @@
     },
     {
       "name": "Mysterious and Absurd Cases of the Tang Dynasty (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-5.jpg",
       "stations": [
         {
@@ -14786,7 +14925,7 @@
     },
     {
       "name": "The Night Agent: Season 3 (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-9.jpg",
       "stations": [
         {
@@ -14847,7 +14986,7 @@
     },
     {
       "name": "How Dare You! ทะลุมิติตะลุยวังหลวง (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/55555.jpg",
       "stations": [
         {
@@ -15226,7 +15365,7 @@
     },
     {
       "name": "Silent Truth สัญญาใต้ต้นเชอร์รี่และความจริงที่ฝังกลบ (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/99.jpg",
       "stations": [
         {
@@ -15269,7 +15408,7 @@
     },
     {
       "name": "Born to Be Alive ต้นไม้แห่งชีวิต (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9.jpg",
       "stations": [
         {
@@ -15504,7 +15643,7 @@
     },
     {
       "name": "The Judge Returns คืนบัลลังก์พิพากษา (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2025/12/9-11.jpg",
       "stations": [
         {
@@ -15595,7 +15734,7 @@
     },
     {
       "name": "The Art of Sarah ซาร่าห์ เริ่ดลวงโลก (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/9-6.jpg",
       "stations": [
         {
@@ -15650,7 +15789,7 @@
     },
     {
       "name": "Million-Follower Detective นักสืบขวัญใจมหาชน (2026) พากย์ไทย G4",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/66.jpg",
       "stations": [
         {
@@ -15705,7 +15844,7 @@
     },
     {
       "name": "The Glamorous Night คู่รักยอดนักขาย (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/99-7.jpg",
       "stations": [
         {
@@ -15856,7 +15995,7 @@
     },
     {
       "name": "Once More Love in 1995 รักข้ามเวลา หัวใจย้อนปี 1995 (2026) ซับไทย EP 1-24 จบ G4",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-12.jpg",
       "stations": [
         {
@@ -16007,7 +16146,7 @@
     },
     {
       "name": "ออนไลน์ Spring Fever ใบไม้ผลิที่รอคอย (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-1.jpg",
       "stations": [
         {
@@ -16080,7 +16219,7 @@
     },
     {
       "name": "จีน Affinity โอบรักแรงเสน่หา (2026) ซับไทย/พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/8-3.jpg",
       "stations": [
         {
@@ -16567,7 +16706,7 @@
     },
     {
       "name": "The Blood of Youth: Quest of Heroic Hearts ดรุณพเนจรท่องยุทธภพยอดยุทธ์ไร้เทียมทาน (2026) ซับไทย G4",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/99-5.jpg",
       "stations": [
         {
@@ -16862,7 +17001,7 @@
     },
     {
       "name": "Unfamiliar สายลับซ่อนเร้น (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/999.jpg",
       "stations": [
         {
@@ -16905,7 +17044,7 @@
     },
     {
       "name": "CASH QUEENS ราชินีเงินปล้น (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/02/99-1.jpg",
       "stations": [
         {
@@ -16960,7 +17099,7 @@
     },
     {
       "name": "How To Train Your Killer นักฆ่าจำเป็น (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-9.jpg",
       "stations": [
         {
@@ -17147,7 +17286,7 @@
     },
     {
       "name": "จีน LovingStrangers เหมันต์ใต้หิมะแรก (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-3.jpg",
       "stations": [
         {
@@ -17316,7 +17455,7 @@
     },
     {
       "name": "The Night Manager 2 สายลับสองหน้าผ่าองค์กรเถื่อน 2 (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-5.jpg",
       "stations": [
         {
@@ -17359,7 +17498,7 @@
     },
     {
       "name": "จีน The Dream Maker ดินแดนสร้างฝัน (2026) ซับไทย พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-4.jpg",
       "stations": [
         {
@@ -17606,7 +17745,7 @@
     },
     {
       "name": "Half-awake ในห้วงความฝัน (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-7.jpg",
       "stations": [
         {
@@ -17757,7 +17896,7 @@
     },
     {
       "name": "จีน Secret By My Name ศึกลับชิงใจ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-6.jpg",
       "stations": [
         {
@@ -17908,7 +18047,7 @@
     },
     {
       "name": "จีน Love Between Lines เกมรักข้ามบทบาท (2026) ซับไทย | พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/8.jpg",
       "stations": [
         {
@@ -18251,7 +18390,7 @@
     },
     {
       "name": "จีน Glory In Shadows เกียรติยศในเงาอำนาจ (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9-2.jpg",
       "stations": [
         {
@@ -18402,7 +18541,7 @@
     },
     {
       "name": "จีน The Fox’s Chant ลำนำรักเผ่าจิ้งจอก (2026) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/99-1.jpg",
       "stations": [
         {
@@ -18553,7 +18692,7 @@
     },
     {
       "name": "Can This Love Be Translated? ยากชะมัด รักภาษาอะไร (2025) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/99-2.jpg",
       "stations": [
         {
@@ -18632,7 +18771,7 @@
     },
     {
       "name": "Agatha Christie’s Seven Dials ฆาตกรรมปริศนาที่เซเว่นไดอัลส์ (2026) พากย์ไทย G4",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9999.jpg",
       "stations": [
         {
@@ -18657,7 +18796,7 @@
     },
     {
       "name": "จีน His Chosen Favor ลิขิตรักข้ามภพ (2025) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/9.jpg",
       "stations": [
         {
@@ -18808,7 +18947,7 @@
     },
     {
       "name": "จีน The Imperial Coroner ฉู่ฉู่ มือชันสูตรฟ้าประทาน (2021) ซับไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2021/04/ฉู่ฉู่-มือชันสูตรฟ้าประทาน.jpg",
       "stations": [
         {
@@ -19031,7 +19170,7 @@
     },
     {
       "name": "His & Hers สองฟากของความจริง (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2026/01/999.jpg",
       "stations": [
         {
@@ -19074,7 +19213,7 @@
     },
     {
       "name": "ออนไลน์ RUN AWAY หนี (2026) พากย์ไทย",
-      "author": "12/5/2569",
+      "author": "13/5/2569",
       "image": "https://goseries4k.com/wp-content/uploads/2025/12/999-1.jpg",
       "stations": [
         {
