@@ -1,5 +1,37 @@
 [
   {
+    "title": "Azure Spring คลื่นสีคราม (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-3.jpg",
+    "episodes": [
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/f2d15de14e43e1edf5832469d1760a67/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/f2d15de14e43e1edf5832469d1760a67"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/0b52bedd7fa37662c1f18876e9244869/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0b52bedd7fa37662c1f18876e9244869"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "The Legend of Kitchen Soldier บันทึกครัวค่ายทหาร (2026) ซับไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-2.jpg",
     "episodes": [
@@ -4484,38 +4516,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/d6d2077549cfd8a483db16920e5acdc3"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Azure Spring คลื่นสีคราม (2026) พากย์ไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-3.jpg",
-    "episodes": [
-      {
-        "name": "EP2 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/f2d15de14e43e1edf5832469d1760a67/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/f2d15de14e43e1edf5832469d1760a67"
-          }
-        ]
-      },
-      {
-        "name": "EP1 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/0b52bedd7fa37662c1f18876e9244869/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/0b52bedd7fa37662c1f18876e9244869"
           }
         ]
       }
