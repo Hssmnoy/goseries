@@ -1,5 +1,37 @@
 [
   {
+    "title": "The Legend of Kitchen Soldier บันทึกครัวค่ายทหาร (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-2.jpg",
+    "episodes": [
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/add34f27dad3e1e5331f2fd049504be8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/add34f27dad3e1e5331f2fd049504be8"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/43e44f88dce21bc14a9c4d1ae4e24e5b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/43e44f88dce21bc14a9c4d1ae4e24e5b"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "The Double Game เกมสองหน้า (2026) ซับไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-1.jpg",
     "episodes": [
@@ -3790,25 +3822,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/19970fb1cf61da5331c792b979855594"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "The Legend of Kitchen Soldier บันทึกครัวค่ายทหาร (2026) ซับไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-2.jpg",
-    "episodes": [
-      {
-        "name": "EP1 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/43e44f88dce21bc14a9c4d1ae4e24e5b/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/43e44f88dce21bc14a9c4d1ae4e24e5b"
           }
         ]
       }
