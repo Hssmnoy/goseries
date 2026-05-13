@@ -1,5 +1,89 @@
 [
   {
+    "title": "Gold Land แผนล่าท้าคนโลภ (2026) พากย์ไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
+    "episodes": [
+      {
+        "name": "EP6 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/12e9918f2102d5e9b56a7b54554fef34/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/12e9918f2102d5e9b56a7b54554fef34"
+          }
+        ]
+      },
+      {
+        "name": "EP5 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/1d8aaad8b5cce13de68faad32509234a/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1d8aaad8b5cce13de68faad32509234a"
+          }
+        ]
+      },
+      {
+        "name": "EP4 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/b481bcd7cfe7e8eac3a87c1252a7a3e1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/b481bcd7cfe7e8eac3a87c1252a7a3e1"
+          }
+        ]
+      },
+      {
+        "name": "EP3 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/fde5fa9b6c917ff29ecc3e030a7bb826/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/fde5fa9b6c917ff29ecc3e030a7bb826"
+          }
+        ]
+      },
+      {
+        "name": "EP2 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d018896d7d22089066b904f4c162dd47/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d018896d7d22089066b904f4c162dd47"
+          }
+        ]
+      },
+      {
+        "name": "EP1 TH",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/d46156d2e691a34092a878bbae2eb8fb/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/d46156d2e691a34092a878bbae2eb8fb"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "จีน Rebirth ฉู่เฉียวจอมใจจารชน 2 (2026) พากย์ไทย/ซับไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/04/9-2.jpg",
     "episodes": [
@@ -6613,64 +6697,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/2d171fcda137907c498b988645de34f9"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Gold Land แผนล่าท้าคนโลภ (2026) พากย์ไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/04/99-6.jpg",
-    "episodes": [
-      {
-        "name": "EP4 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/b481bcd7cfe7e8eac3a87c1252a7a3e1/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/b481bcd7cfe7e8eac3a87c1252a7a3e1"
-          }
-        ]
-      },
-      {
-        "name": "EP3 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/fde5fa9b6c917ff29ecc3e030a7bb826/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/fde5fa9b6c917ff29ecc3e030a7bb826"
-          }
-        ]
-      },
-      {
-        "name": "EP2 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/d018896d7d22089066b904f4c162dd47/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/d018896d7d22089066b904f4c162dd47"
-          }
-        ]
-      },
-      {
-        "name": "EP1 TH",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/d46156d2e691a34092a878bbae2eb8fb/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/d46156d2e691a34092a878bbae2eb8fb"
           }
         ]
       }
