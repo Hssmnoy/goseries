@@ -369,7 +369,7 @@ function buildWiseplayJSON(groupName, movies) {
   name: groupName,
   author: today,
   image: "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
-  url: `https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/${groupName}.json`,
+  url: `https://raw.githubusercontent.com/Hssmnoy/goseries/main/data/wiseplay/${groupName}.json`,
   groups: []
 }
 
