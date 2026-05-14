@@ -1,5 +1,89 @@
 [
   {
+    "title": "จีน Zhan Zhao Adventures จั่นเจาตะลุยยุทธภพ (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-4.jpg",
+    "episodes": [
+      {
+        "name": "EP6 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5c1e0aaafdd60de2ed7b6c5f717ad9e8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5c1e0aaafdd60de2ed7b6c5f717ad9e8"
+          }
+        ]
+      },
+      {
+        "name": "EP5 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/28de226c9fcad49b00a1a6df8d3958ac/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/28de226c9fcad49b00a1a6df8d3958ac"
+          }
+        ]
+      },
+      {
+        "name": "EP4 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/0a6415dc48cbedb93ea9b3d6a3f79f42/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/0a6415dc48cbedb93ea9b3d6a3f79f42"
+          }
+        ]
+      },
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/58fb3b7c1336d307a708c0201ab73b06/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/58fb3b7c1336d307a708c0201ab73b06"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/61fb76817951514f6798e9f15541aba1/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/61fb76817951514f6798e9f15541aba1"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/1c5ffe0ee8c5fbe859c11eb3b434c244/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/1c5ffe0ee8c5fbe859c11eb3b434c244"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "NEMESIS คู่คนชนเดือด (2026) พากย์ไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-8.jpg",
     "episodes": [
@@ -4387,64 +4471,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/6abdee54f4c3653faa5ec2db68ef5980"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "จีน Zhan Zhao Adventures จั่นเจาตะลุยยุทธภพ (2026) ซับไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-4.jpg",
-    "episodes": [
-      {
-        "name": "EP4 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/0a6415dc48cbedb93ea9b3d6a3f79f42/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/0a6415dc48cbedb93ea9b3d6a3f79f42"
-          }
-        ]
-      },
-      {
-        "name": "EP3 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/58fb3b7c1336d307a708c0201ab73b06/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/58fb3b7c1336d307a708c0201ab73b06"
-          }
-        ]
-      },
-      {
-        "name": "EP2 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/61fb76817951514f6798e9f15541aba1/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/61fb76817951514f6798e9f15541aba1"
-          }
-        ]
-      },
-      {
-        "name": "EP1 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/1c5ffe0ee8c5fbe859c11eb3b434c244/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/1c5ffe0ee8c5fbe859c11eb3b434c244"
           }
         ]
       }
