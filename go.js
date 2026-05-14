@@ -416,13 +416,13 @@ function buildWiseplayJSON(groupName, movies) {
 
 function generateIndex(jsonOutput) {
 
-  const baseRaw = "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/";
+  const baseRaw = "https://raw.githubusercontent.com/Hssmnoy/goseries/main/data/wiseplay/";
 
   const index = {
     name: "Goseries4k",
     author: new Date().toLocaleDateString("th-TH"),
     image: "https://goseries4k.com/wp-content/uploads/2025/03/cropped-cropped-logo-2-2-1.png",
-    url: "https://raw.githubusercontent.com/nongakka/goseries/main/data/wiseplay/index.json",
+    url: "https://raw.githubusercontent.com/Hssmnoy/goseries/main/data/wiseplay/index.json",
     groups: []
   };
 
