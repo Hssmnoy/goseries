@@ -1,5 +1,50 @@
 [
   {
+    "title": "The Legend of Kitchen Soldier บันทึกครัวค่ายทหาร (2026) ซับไทย",
+    "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-2.jpg",
+    "episodes": [
+      {
+        "name": "EP3 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/5c2345a7a4d47c2903bdc2bbb0e7d73f/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/5c2345a7a4d47c2903bdc2bbb0e7d73f"
+          }
+        ]
+      },
+      {
+        "name": "EP2 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/add34f27dad3e1e5331f2fd049504be8/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/add34f27dad3e1e5331f2fd049504be8"
+          }
+        ]
+      },
+      {
+        "name": "EP1 SUB",
+        "servers": [
+          {
+            "name": "goseries4k",
+            "url": "https://imsvg.com/api/files/43e44f88dce21bc14a9c4d1ae4e24e5b/master.txt"
+          },
+          {
+            "name": "ok-nah",
+            "url": "https://ok-nah.com/play/43e44f88dce21bc14a9c4d1ae4e24e5b"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Azure Spring คลื่นสีคราม (2026) พากย์ไทย",
     "image": "https://goseries4k.com/wp-content/uploads/2026/05/99-3.jpg",
     "episodes": [
@@ -7274,38 +7319,6 @@
           {
             "name": "ok-nah",
             "url": "https://ok-nah.com/play/0407d3227db682c3ba74b27f7cb3c524"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "The Legend of Kitchen Soldier บันทึกครัวค่ายทหาร (2026) ซับไทย",
-    "image": "https://goseries4k.com/wp-content/uploads/2026/05/9-2.jpg",
-    "episodes": [
-      {
-        "name": "EP2 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/add34f27dad3e1e5331f2fd049504be8/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/add34f27dad3e1e5331f2fd049504be8"
-          }
-        ]
-      },
-      {
-        "name": "EP1 SUB",
-        "servers": [
-          {
-            "name": "goseries4k",
-            "url": "https://imsvg.com/api/files/43e44f88dce21bc14a9c4d1ae4e24e5b/master.txt"
-          },
-          {
-            "name": "ok-nah",
-            "url": "https://ok-nah.com/play/43e44f88dce21bc14a9c4d1ae4e24e5b"
           }
         ]
       }
